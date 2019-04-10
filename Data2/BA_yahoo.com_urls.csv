@@ -3,76 +3,97 @@ dates,url,title,scores
 2019-03-26,https://finance.yahoo.com/news/boeing-ba-stock-outpacing-aerospace-133001572.html,Is The Boeing (BA) Stock Outpacing Its Aerospace Peers This Year?,0.2779608695652174
 2019-03-28,https://finance.yahoo.com/news/company-news-mar-28-2019-140402560.html,"Company News For Mar 28, 2019",0.419925
 2019-04-08,https://finance.yahoo.com/news/company-news-apr-8-2019-134701972.html,"Company News For Apr 8, 2019",0.42190000000000005
-2019-03-19,https://news.yahoo.com/boeing-ba-gains-market-dips-214509028.html,Boeing (BA) Gains As Market Dips: What You Should Know,0.41610909090909093
-2019-03-12,https://finance.yahoo.com/news/why-boeing-ba-great-dividend-131501253.html,This is Why Boeing (BA) is a Great Dividend Stock,0.361825
-2019-03-18,https://finance.yahoo.com/news/slow-week-economic-data-boeing-150503271.html,"Slow Week of Economic Data, Boeing (BA) Gets Subpoena",0.37211739130434784
-2019-03-28,https://finance.yahoo.com/news/why-boeing-ba-great-dividend-131501862.html,Why Boeing (BA) is a Great Dividend Stock Right Now,0.361825
-2019-03-18,https://finance.yahoo.com/news/slow-week-economic-data-boeing-141202282.html,"Slow Week of Economic Data, Boeing (BA) Gets Subpoena",0.2711857142857143
-2019-03-18,https://finance.yahoo.com/news/boeing-ba-secures-250m-deal-152503683.html,Boeing (BA) Secures $250M Deal to Support LRSO Cruise Missile,0.29960000000000003
-2019-03-11,https://finance.yahoo.com/news/retail-sales-improve-boeing-ba-135801973.html,"Retail Sales Improve, Boeing (BA) Weighs on Dow",0.2719974358974359
-2019-03-26,https://news.yahoo.com/boeing-ba-stock-sinks-market-214509833.html,Boeing (BA) Stock Sinks As Market Gains: What You Should Know,0.18950119047619043
-2019-03-20,https://news.yahoo.com/boeing-ba-secures-327m-navy-153503615.html,Boeing (BA) Secures $327M Navy Deal to Upgrade P-8A Aircraft,0.2974806451612903
-2019-03-25,https://finance.yahoo.com/news/ba-stock-remains-strong-buy-192507130.html,BA Stock Remains a Strong Buy as Ethiopian Airlines Backs Boeing,0.03301153846153845
-2019-03-22,https://finance.yahoo.com/news/dow-30-stock-roundup-aapl-120212795.html,"Dow 30 Stock Roundup: AAPL Refreshes Product Lineup, BA Wins $327M Navy Order",0.3304368421052632
-2019-03-22,https://finance.yahoo.com/news/defense-stock-roundup-gd-ba-132601355.html,"Defense Stock Roundup: GD, BA, LMT Win Big Deals, AIR Beats on Q3 Earnings",0.25241538461538465
-2019-03-25,https://news.yahoo.com/ba-jet-flies-wrong-city-lands-scotland-instead-221925379--finance.html,"BA jet flies to wrong city, lands in Scotland instead of Germany",0.3430909090909091
-2019-03-15,https://www.yahoo.com/lifestyle/ba-theater-now-139k-nurse-165500090.html,I Have A BA In Theater — & Now I Make $139K As A Nurse Practitioner,0.18961111111111112
-2019-03-11,https://finance.yahoo.com/news/stock-market-news-march-11-2019-131956964.html,"Stocks rise on strong retail sales data, Boeing slides - Yahoo Finance",0.4781705882352941
-2019-03-18,https://finance.yahoo.com/news/top-stock-picks-week-mar-203608073.html,"Top Stock Picks for the Week of Mar 18, 2019",0.28481034482758616
-2019-03-18,https://finance.yahoo.com/news/weak-economic-data-weighed-markets-142402546.html,Weak Economic Data Weighed On The Markets,0.6617
-2019-03-13,https://finance.yahoo.com/news/durable-goods-jan-0-4-151703462.html,"Durable Goods for Jan. +0.4%, Feb. PPI In-Line at +0.2%",0.615058823529412
-2019-03-30,https://finance.yahoo.com/news/does-bae-systems-plcs-lon-070033203.html,Does BAE Systems plc's (LON:BA.) Past Performance Indicate A Stronger Future?,0.14725416666666669
-2019-03-12,https://finance.yahoo.com/news/top-stock-picks-march-11-191807419.html,"Top Stock Picks for March 11, 2019",0.14946363636363635
-2019-03-25,https://sports.yahoo.com/georgia-tech-announces-that-21-yearold-dt-brandon-adams-has-died-165923226.html,Georgia Tech announces that 21-year-old DT Brandon Adams has died - Yahoo Sports,0.3490888888888889
-2019-04-05,https://finance.yahoo.com/news/heres-expect-delta-air-lines-222010871.html,Here's What to Expect from Delta Air Lines (DAL) Q1 2019 Earnings,0.3055368421052632
-2019-03-15,https://finance.yahoo.com/news/leidos-wins-12-6b-navy-115511734.html,Leidos Wins $12.6B Navy Deal to Support Aircraft Readiness,0.3483052631578948
-2019-03-15,https://finance.yahoo.com/news/lockheed-martin-clinches-507m-pac-141302626.html,Lockheed Martin Clinches $507M PAC-3 Missile Production Deal,0.32239999999999996
-2019-03-12,https://finance.yahoo.com/news/big-day-brexit-cpi-line-140302959.html,Big Day for Brexit? CPI In-Line at +0.2%,0.13124782608695654
-2019-03-12,https://finance.yahoo.com/news/big-day-brexit-cpi-line-151603422.html,Big Day for Brexit? CPI In-Line at +0.2%,0.253116
-2019-03-18,https://finance.yahoo.com/news/northrop-grumman-wins-45m-navy-130701284.html,Northrop Grumman Wins $45M Navy Deal to Support LCS Program,-0.023909523809523808
-2019-04-09,https://finance.yahoo.com/news/commercial-border-delays-hit-auto-153903556.html,Commercial Border Delays Hit Auto Industry,0.2895526315789474
-2019-04-09,https://finance.yahoo.com/news/commercial-border-delays-hit-auto-140802041.html,Commercial Border Delays Hit Auto Industry,0.1587084745762712
-2019-03-26,https://finance.yahoo.com/news/airbus-secures-35b-deal-china-201308365.html,"Airbus Secures $35B Deal from China, Boeing's Loss Rises",0.10610697674418604
-2019-03-11,https://finance.yahoo.com/news/retail-sales-improve-january-150003291.html,Retail Sales Improve in January,0.33079545454545445
-2019-03-15,https://finance.yahoo.com/news/top-performing-etfs-10-bull-175005377.html,Top-Performing ETFs Of The 10-Year Bull-Run,0.42538571428571437
-2019-03-13,https://finance.yahoo.com/news/companies-to-watch-ba-rad-spot-aapl-expr-goog-144105714.html,"More trouble for Boeing, changes coming to Rite Aid, Spotify battles Apple - Yahoo Finance",0.30496666666666666
-2019-03-26,https://finance.yahoo.com/news/airbus-scores-35-b-china-deal-in-a-blow-to-boeing-morning-brief-101857487.html,Airbus scores $35B China deal in a blow to Boeing: Morning Brief - Yahoo Finance,0.46516818181818187
-2019-03-22,https://finance.yahoo.com/news/zacks-analyst-blog-highlights-boeing-142202281.html,"The Zacks Analyst Blog Highlights: Boeing, Lockheed-Martin and Textron",0.2162317073170732
-2019-03-13,https://finance.yahoo.com/news/stock-market-news-mar-13-133301394.html,"Stock Market News For Mar 13, 2019",0.4823285714285716
-2019-03-19,https://finance.yahoo.com/news/stock-market-news-mar-19-144402752.html,"Stock Market News For Mar 19, 2019",-0.09358181818181818
-2019-03-14,https://finance.yahoo.com/news/lockheed-martin-wins-84m-deal-130301605.html,Lockheed Martin Wins $84M Deal to Design Missile Technologies,0.2951205882352942
-2019-03-25,https://finance.yahoo.com/news/bell-boeing-jv-wins-navy-151303392.html,Bell-Boeing JV Wins Navy Deal to Boost V-22 Tiltrotor Program,0.0930462962962963
-2019-03-19,https://finance.yahoo.com/news/general-dynamics-gd-wins-2b-143302251.html,General Dynamics (GD) Wins $2B Submarine Modification Deal,-0.089
-2019-03-21,https://finance.yahoo.com/news/buy-boeing-other-aerospace-defense-211609860.html,Buy Boeing and Other Aerospace-Defense Stocks Despite Trade War Pull Back?,-0.11552727272727274
-2019-03-13,https://finance.yahoo.com/news/northrop-grumman-support-services-triton-114411162.html,Northrop Grumman to Provide Support Services to Triton UAS,0.03495
-2019-04-09,https://finance.yahoo.com/news/dual-downgrades-tank-boeing-stock-140324235.html,Dual Downgrades Tank Boeing Stock,-0.29739375000000007
-2019-03-13,https://finance.yahoo.com/news/bell-boeing-jv-secures-navy-135201291.html,Bell-Boeing JV Secures Navy Deal to Upgrade MV-22 Aircraft,0.07843454545454547
-2019-03-14,https://finance.yahoo.com/news/airline-stock-roundup-alk-jblu-153603194.html,"Airline Stock Roundup: ALK & JBLU Q1 RASM Views Cut, Boeing 737 Max Fleet in Focus",-0.0008559999999999946
-2019-03-11,https://news.yahoo.com/boeing-stock-price-falls-ethiopian-133021080.html,Boeing stock price falls after Ethiopian Airlines crash involving 737 MAX 8 plane,0.03794666666666669
-2019-04-08,https://finance.yahoo.com/news/apos-why-boeing-shares-were-212100080.html,Here's Why Boeing Shares Were Down on Monday,-0.036471428571428564
-2019-04-05,https://finance.yahoo.com/news/why-boeing-stock-slumped-13-130100290.html,Why Boeing Stock Slumped 13% in March,-0.01692272727272728
-2019-03-12,https://finance.yahoo.com/news/why-boeing-stock-dropped-6-163600834.html,Why Boeing Stock Dropped 6.7% Today,-0.08257777777777778
-2019-03-11,https://finance.yahoo.com/news/why-shares-boeing-fell-friday-142800221.html,Why Shares of Boeing Fell Friday Morning,0.3580526315789473
-2019-03-13,https://finance.yahoo.com/news/737-max-faces-two-fatal-133601108.html,737 Max Faces Two Fatal Crashes: What's in Store for Boeing?,0.14885555555555555
-2019-03-11,https://finance.yahoo.com/news/stock-market-today-tesla-plans-211124016.html,"Stock Market Today: Tesla Plans Price Hikes, Pares Store Closures",0.14254210526315791
-2019-03-18,https://finance.yahoo.com/news/stock-market-today-fis-worldpay-210200546.html,Stock Market Today: FIS and Worldpay Merge to Create Payments Giant,0.03229772727272728
-2019-03-22,https://finance.yahoo.com/news/stock-market-news-nike-slips-143130901.html,Stock Market News: Nike Slips; Boeing Faces Cancellations,0.05468510638297873
-2019-04-08,https://finance.yahoo.com/news/why-bp-prudhoe-bay-spirit-203400724.html,"Why BP Prudhoe Bay, Spirit AeroSystems Holdings, and Roku Slumped Today",0.1017767441860465
-2019-04-08,https://finance.yahoo.com/news/wall-street-analysts-cut-737-max-delivery-forecast-120316012--sector.html,Wall Street analysts cut 737 MAX delivery forecast,0.2887450980392157
-2019-04-04,https://finance.yahoo.com/news/why-triumph-group-ballard-power-203200350.html,"Why Triumph Group, Ballard Power Systems, and At Home Group Jumped Today",0.0927230769230769
-2019-03-22,https://finance.yahoo.com/news/etf-week-boeing-woes-weigh-180000599.html,ETF Of The Week: Boeing’s Woes Weigh On ‘ITA’,0.08995357142857144
-2019-03-15,https://finance.yahoo.com/news/dow-30-stock-roundup-pfes-140902458.html,"Dow 30 Stock Roundup: PFE's Herceptin Biosimilar Gets FDA Nod, VZ to Launch 5G Soon",-0.12836551724137932
-2019-03-11,https://finance.yahoo.com/news/the-stock-market-rally-is-dying-yet-again-140806927.html,"The stock market rally is dying, yet again - Yahoo Finance",0.07271315789473683
-2019-03-19,https://news.yahoo.com/british-airways-business-class-seat-features-door-lie-113117715.html,New British Airways business class seat features door and lie-flat beds,0.010542857142857147
-2019-03-12,https://finance.yahoo.com/news/just-boeing-stock-downgraded-161229802.html,This Just In: Boeing Stock Downgraded,0.04321034482758622
-2019-03-17,https://finance.yahoo.com/news/navy-getting-serious-crewless-vessels-131700239.html,The Navy Is Getting Serious About Crewless Vessels,0.11755945945945948
-2019-03-18,https://finance.yahoo.com/news/stock-market-news-mar-18-140202369.html,"Stock Market News For Mar 18, 2019",-0.019156097560975607
-2019-03-28,https://finance.yahoo.com/news/southwest-airlines-cuts-forecast-again-122400415.html,"Southwest Airlines Cuts Its Forecast Again, but the Pain Is Almost Over",0.05658260869565218
-2019-04-05,https://finance.yahoo.com/news/stock-market-news-boeing-takes-154622769.html,Stock Market News: Boeing Takes Blame; Aurora Cannabis Gets a Win in Germany,0.04703333333333334
-2019-04-10,https://www.yahoo.com/huffpost/dow-jones-industrial-average-why-000012850.html,"What Is The Dow Jones Industrial Average, And Why Does It Matter?",-0.10486792452830189
-2019-04-10,https://news.yahoo.com/stocks-rise-jetblue-shares-jump-112326130.html,Stocks to rise | JetBlue shares jump | Uber reportedly to sell $10B in stock,0.15136304347826088
-2019-04-09,https://finance.yahoo.com/news/worst-mistake-boeing-investors-now-014500179.html,The Worst Mistake Boeing Investors Can Make Right Now,0.1140673913043478
-2019-03-26,https://finance.yahoo.com/news/boeing-lockheed-apos-futuristic-helicopter-123000785.html,Boeing and Lockheed's Futuristic Helicopter Is Finally Airborne,0.16072200000000003
-2019-03-21,https://finance.yahoo.com/news/boeing-apos-problems-spell-trouble-022000498.html,Will Boeing's Problems Spell Trouble for GE Aviation?,0.2777979166666667
-2019-03-12,https://finance.yahoo.com/news/stock-market-news-southwest-sinks-154518636.html,Stock Market News: Southwest Sinks on Boeing Fears; MercadoLibre Gets a (Pay)Pal,0.38553551912568307
-2019-04-03,https://finance.yahoo.com/news/british-airways-looks-u-profitable-013600009.html,British Airways Looks to the U.S. for Profitable Growth,0.22669629629629626
+2019-03-19,https://news.yahoo.com/boeing-ba-gains-market-dips-214509028.html,Boeing (BA) Gains As Market Dips: What You Should Know,0.17986363636363634
+2019-03-12,https://finance.yahoo.com/news/why-boeing-ba-great-dividend-131501253.html,This is Why Boeing (BA) is a Great Dividend Stock,0.4186954545454546
+2019-03-18,https://finance.yahoo.com/news/slow-week-economic-data-boeing-150503271.html,"Slow Week of Economic Data, Boeing (BA) Gets Subpoena",0.32276875000000005
+2019-03-28,https://finance.yahoo.com/news/why-boeing-ba-great-dividend-131501862.html,Why Boeing (BA) is a Great Dividend Stock Right Now,0.38574782608695657
+2019-03-18,https://finance.yahoo.com/news/slow-week-economic-data-boeing-141202282.html,"Slow Week of Economic Data, Boeing (BA) Gets Subpoena",0.32276875000000005
+2019-03-18,https://finance.yahoo.com/news/boeing-ba-secures-250m-deal-152503683.html,Boeing (BA) Secures $250M Deal to Support LRSO Cruise Missile,0.28535357142857143
+2019-03-11,https://finance.yahoo.com/news/retail-sales-improve-boeing-ba-135801973.html,"Retail Sales Improve, Boeing (BA) Weighs on Dow",0.29212173913043477
+2019-03-26,https://news.yahoo.com/boeing-ba-stock-sinks-market-214509833.html,Boeing (BA) Stock Sinks As Market Gains: What You Should Know,0.25415483870967737
+2019-03-20,https://news.yahoo.com/boeing-ba-secures-327m-navy-153503615.html,Boeing (BA) Secures $327M Navy Deal to Upgrade P-8A Aircraft,0.34386056338028176
+2019-03-25,https://finance.yahoo.com/news/ba-stock-remains-strong-buy-192507130.html,BA Stock Remains a Strong Buy as Ethiopian Airlines Backs Boeing,0.27306923076923073
+2019-03-22,https://finance.yahoo.com/news/dow-30-stock-roundup-aapl-120212795.html,"Dow 30 Stock Roundup: AAPL Refreshes Product Lineup, BA Wins $327M Navy Order",0.18976309523809523
+2019-03-22,https://finance.yahoo.com/news/defense-stock-roundup-gd-ba-132601355.html,"Defense Stock Roundup: GD, BA, LMT Win Big Deals, AIR Beats on Q3 Earnings",0.30647419354838706
+2019-03-25,https://news.yahoo.com/ba-jet-flies-wrong-city-lands-scotland-instead-221925379--finance.html,"BA jet flies to wrong city, lands in Scotland instead of Germany",-0.13790526315789475
+2019-03-15,https://www.yahoo.com/lifestyle/ba-theater-now-139k-nurse-165500090.html,I Have A BA In Theater — & Now I Make $139K As A Nurse Practitioner,0.0643048076923077
+2019-03-11,https://finance.yahoo.com/news/stock-market-news-march-11-2019-131956964.html,"Stocks rise on strong retail sales data, Boeing slides - Yahoo Finance",0.03444615384615384
+2019-03-18,https://finance.yahoo.com/news/top-stock-picks-week-mar-203608073.html,"Top Stock Picks for the Week of Mar 18, 2019",0.32942105263157895
+2019-03-18,https://finance.yahoo.com/news/weak-economic-data-weighed-markets-142402546.html,Weak Economic Data Weighed On The Markets,0.16864615384615386
+2019-03-13,https://finance.yahoo.com/news/durable-goods-jan-0-4-151703462.html,"Durable Goods for Jan. +0.4%, Feb. PPI In-Line at +0.2%",0.3621272727272728
+2019-03-30,https://finance.yahoo.com/news/does-bae-systems-plcs-lon-070033203.html,Does BAE Systems plc's (LON:BA.) Past Performance Indicate A Stronger Future?,0.1897
+2019-03-12,https://finance.yahoo.com/news/top-stock-picks-march-11-191807419.html,"Top Stock Picks for March 11, 2019",0.4685705882352941
+2019-03-25,https://sports.yahoo.com/georgia-tech-announces-that-21-yearold-dt-brandon-adams-has-died-165923226.html,Georgia Tech announces that 21-year-old DT Brandon Adams has died - Yahoo Sports,0.009718518518518529
+2019-04-05,https://finance.yahoo.com/news/heres-expect-delta-air-lines-222010871.html,Here's What to Expect from Delta Air Lines (DAL) Q1 2019 Earnings,0.27772758620689647
+2019-03-15,https://finance.yahoo.com/news/leidos-wins-12-6b-navy-115511734.html,Leidos Wins $12.6B Navy Deal to Support Aircraft Readiness,0.667
+2019-03-15,https://finance.yahoo.com/news/lockheed-martin-clinches-507m-pac-141302626.html,Lockheed Martin Clinches $507M PAC-3 Missile Production Deal,0.615058823529412
+2019-03-12,https://finance.yahoo.com/news/big-day-brexit-cpi-line-140302959.html,Big Day for Brexit? CPI In-Line at +0.2%,0.13705652173913044
+2019-03-12,https://finance.yahoo.com/news/big-day-brexit-cpi-line-151603422.html,Big Day for Brexit? CPI In-Line at +0.2%,0.13705652173913044
+2019-03-18,https://finance.yahoo.com/news/northrop-grumman-wins-45m-navy-130701284.html,Northrop Grumman Wins $45M Navy Deal to Support LCS Program,0.40512222222222216
+2019-04-09,https://finance.yahoo.com/news/commercial-border-delays-hit-auto-153903556.html,Commercial Border Delays Hit Auto Industry,0.3055368421052632
+2019-04-09,https://finance.yahoo.com/news/commercial-border-delays-hit-auto-140802041.html,Commercial Border Delays Hit Auto Industry,0.3055368421052632
+2019-03-26,https://finance.yahoo.com/news/airbus-secures-35b-deal-china-201308365.html,"Airbus Secures $35B Deal from China, Boeing's Loss Rises",0.32239999999999996
+2019-03-11,https://finance.yahoo.com/news/retail-sales-improve-january-150003291.html,Retail Sales Improve in January,0.15723181818181817
+2019-03-15,https://finance.yahoo.com/news/top-performing-etfs-10-bull-175005377.html,Top-Performing ETFs Of The 10-Year Bull-Run,0.2636625
+2019-03-13,https://finance.yahoo.com/news/companies-to-watch-ba-rad-spot-aapl-expr-goog-144105714.html,"More trouble for Boeing, changes coming to Rite Aid, Spotify battles Apple - Yahoo Finance",-0.09203809523809522
+2019-03-26,https://finance.yahoo.com/news/airbus-scores-35-b-china-deal-in-a-blow-to-boeing-morning-brief-101857487.html,Airbus scores $35B China deal in a blow to Boeing: Morning Brief - Yahoo Finance,0.2895526315789474
+2019-03-22,https://finance.yahoo.com/news/zacks-analyst-blog-highlights-boeing-142202281.html,"The Zacks Analyst Blog Highlights: Boeing, Lockheed-Martin and Textron",0.1587084745762712
+2019-03-13,https://finance.yahoo.com/news/stock-market-news-mar-13-133301394.html,"Stock Market News For Mar 13, 2019",0.10610697674418604
+2019-03-19,https://finance.yahoo.com/news/stock-market-news-mar-19-144402752.html,"Stock Market News For Mar 19, 2019",0.32078636363636354
+2019-03-14,https://finance.yahoo.com/news/lockheed-martin-wins-84m-deal-130301605.html,Lockheed Martin Wins $84M Deal to Design Missile Technologies,0.4562333333333334
+2019-03-25,https://finance.yahoo.com/news/bell-boeing-jv-wins-navy-151303392.html,Bell-Boeing JV Wins Navy Deal to Boost V-22 Tiltrotor Program,0.3438545454545454
+2019-03-19,https://finance.yahoo.com/news/general-dynamics-gd-wins-2b-143302251.html,General Dynamics (GD) Wins $2B Submarine Modification Deal,0.4777409090909091
+2019-03-21,https://finance.yahoo.com/news/buy-boeing-other-aerospace-defense-211609860.html,Buy Boeing and Other Aerospace-Defense Stocks Despite Trade War Pull Back?,0.22262380952380956
+2019-03-13,https://finance.yahoo.com/news/northrop-grumman-support-services-triton-114411162.html,Northrop Grumman to Provide Support Services to Triton UAS,0.49460476190476205
+2019-04-09,https://finance.yahoo.com/news/dual-downgrades-tank-boeing-stock-140324235.html,Dual Downgrades Tank Boeing Stock,-0.09358181818181818
+2019-03-13,https://finance.yahoo.com/news/bell-boeing-jv-secures-navy-135201291.html,Bell-Boeing JV Secures Navy Deal to Upgrade MV-22 Aircraft,0.2910558823529413
+2019-03-14,https://finance.yahoo.com/news/airline-stock-roundup-alk-jblu-153603194.html,"Airline Stock Roundup: ALK & JBLU Q1 RASM Views Cut, Boeing 737 Max Fleet in Focus",0.07868518518518518
+2019-03-11,https://news.yahoo.com/boeing-stock-price-falls-ethiopian-133021080.html,Boeing stock price falls after Ethiopian Airlines crash involving 737 MAX 8 plane,-0.16809591836734694
+2019-04-08,https://finance.yahoo.com/news/apos-why-boeing-shares-were-212100080.html,Here's Why Boeing Shares Were Down on Monday,-0.09829444444444446
+2019-04-05,https://finance.yahoo.com/news/why-boeing-stock-slumped-13-130100290.html,Why Boeing Stock Slumped 13% in March,-0.1441095238095238
+2019-03-12,https://finance.yahoo.com/news/why-boeing-stock-dropped-6-163600834.html,Why Boeing Stock Dropped 6.7% Today,0.018204166666666674
+2019-03-11,https://finance.yahoo.com/news/why-shares-boeing-fell-friday-142800221.html,Why Shares of Boeing Fell Friday Morning,-0.28546250000000006
+2019-03-13,https://finance.yahoo.com/news/737-max-faces-two-fatal-133601108.html,737 Max Faces Two Fatal Crashes: What's in Store for Boeing?,0.061451785714285716
+2019-03-11,https://finance.yahoo.com/news/stock-market-today-tesla-plans-211124016.html,"Stock Market Today: Tesla Plans Price Hikes, Pares Store Closures",0.009296000000000006
+2019-03-18,https://finance.yahoo.com/news/stock-market-today-fis-worldpay-210200546.html,Stock Market Today: FIS and Worldpay Merge to Create Payments Giant,0.05343
+2019-03-22,https://finance.yahoo.com/news/stock-market-news-nike-slips-143130901.html,Stock Market News: Nike Slips; Boeing Faces Cancellations,-0.0469142857142857
+2019-04-08,https://finance.yahoo.com/news/why-bp-prudhoe-bay-spirit-203400724.html,"Why BP Prudhoe Bay, Spirit AeroSystems Holdings, and Roku Slumped Today",-0.00955454545454546
+2019-04-08,https://finance.yahoo.com/news/wall-street-analysts-cut-737-max-delivery-forecast-120316012--sector.html,Wall Street analysts cut 737 MAX delivery forecast,-0.09246111111111112
+2019-04-04,https://finance.yahoo.com/news/why-triumph-group-ballard-power-203200350.html,"Why Triumph Group, Ballard Power Systems, and At Home Group Jumped Today",0.36976842105263164
+2019-03-22,https://finance.yahoo.com/news/etf-week-boeing-woes-weigh-180000599.html,ETF Of The Week: Boeing’s Woes Weigh On ‘ITA’,0.1661423076923077
+2019-03-15,https://finance.yahoo.com/news/dow-30-stock-roundup-pfes-140902458.html,"Dow 30 Stock Roundup: PFE's Herceptin Biosimilar Gets FDA Nod, VZ to Launch 5G Soon",0.14254210526315791
+2019-03-11,https://finance.yahoo.com/news/the-stock-market-rally-is-dying-yet-again-140806927.html,"The stock market rally is dying, yet again - Yahoo Finance",0.026088636363636373
+2019-03-19,https://news.yahoo.com/british-airways-business-class-seat-features-door-lie-113117715.html,New British Airways business class seat features door and lie-flat beds,0.034019999999999995
+2019-03-12,https://finance.yahoo.com/news/just-boeing-stock-downgraded-161229802.html,This Just In: Boeing Stock Downgraded,0.05468510638297873
+2019-03-17,https://finance.yahoo.com/news/navy-getting-serious-crewless-vessels-131700239.html,The Navy Is Getting Serious About Crewless Vessels,0.0958441860465116
+2019-03-18,https://finance.yahoo.com/news/stock-market-news-mar-18-140202369.html,"Stock Market News For Mar 18, 2019",0.2910784313725491
+2019-03-28,https://finance.yahoo.com/news/southwest-airlines-cuts-forecast-again-122400415.html,"Southwest Airlines Cuts Its Forecast Again, but the Pain Is Almost Over",0.0642974358974359
+2019-04-05,https://finance.yahoo.com/news/stock-market-news-boeing-takes-154622769.html,Stock Market News: Boeing Takes Blame; Aurora Cannabis Gets a Win in Germany,0.10334285714285714
+2019-04-10,https://www.yahoo.com/huffpost/dow-jones-industrial-average-why-000012850.html,"What Is The Dow Jones Industrial Average, And Why Does It Matter?",0.08537333333333333
+2019-04-10,https://news.yahoo.com/stocks-rise-jetblue-shares-jump-112326130.html,Stocks to rise | JetBlue shares jump | Uber reportedly to sell $10B in stock,0.009651136363636363
+2019-04-09,https://finance.yahoo.com/news/worst-mistake-boeing-investors-now-014500179.html,The Worst Mistake Boeing Investors Can Make Right Now,-0.1545
+2019-03-26,https://finance.yahoo.com/news/boeing-lockheed-apos-futuristic-helicopter-123000785.html,Boeing and Lockheed's Futuristic Helicopter Is Finally Airborne,0.07271315789473683
+2019-03-21,https://finance.yahoo.com/news/boeing-apos-problems-spell-trouble-022000498.html,Will Boeing's Problems Spell Trouble for GE Aviation?,-0.005044186046511633
+2019-03-12,https://finance.yahoo.com/news/stock-market-news-southwest-sinks-154518636.html,Stock Market News: Southwest Sinks on Boeing Fears; MercadoLibre Gets a (Pay)Pal,0.037268965517241376
+2019-04-03,https://finance.yahoo.com/news/british-airways-looks-u-profitable-013600009.html,British Airways Looks to the U.S. for Profitable Growth,0.12961891891891894
+2019-03-26,https://finance.yahoo.com/news/nasa-preparing-cancel-space-launch-124900892.html,Is NASA Preparing to Cancel Its Space Launch System?,-0.02465238095238095
+2019-03-25,https://finance.yahoo.com/news/moral-relativism-power-unstoppable-code-151518195.html,Moral relativism and the power of unstoppable code on the Ethereum network,0.07121739130434782
+2019-04-02,https://news.yahoo.com/stocks-under-pressure-lyft-tumbles-110722891.html,Stocks under pressure | Lyft tumbles | Whole Foods to slash prices,0.007808196721311473
+2019-04-03,https://news.yahoo.com/stocks-set-rise-caterpillar-shares-111448380.html,Stocks set to rise | Caterpillar shares fall | US-China reportedly near trade deal,0.09928181818181817
+2019-04-08,https://news.yahoo.com/meghan-markles-family-diplomat-uncle-101205435.html,"Meghan Markle's family: The diplomat uncle, the yoga teacher mother and the cannabis-growing nephew",0.1295390804597701
+2019-04-07,https://news.yahoo.com/boeing-737-max-airlines-convince-064801177.html,Boeing 737 Max: How will airlines convince skittish passengers it's safe to fly again?,0.2751445783132529
+2019-04-02,https://news.yahoo.com/5-best-stocks-buy-april-182457395.html,5 of the Best Stocks to Buy for April,0.3007025
+2019-04-05,https://sports.yahoo.com/masters-atmosphere-keeps-everyone-best-behavior-073043561--golf.html,Masters atmosphere keeps everyone on best behavior,0.044223750000000006
+2019-04-05,https://ca.sports.yahoo.com/news/masters-atmosphere-keeps-everyone-best-behavior-073043561--golf.html,Masters atmosphere keeps everyone on best behavior,0.044223750000000006
+2019-03-26,https://finance.yahoo.com/news/stock-market-news-march-26-2019-124930132.html,"Stocks rise, Treasury yields recover - Yahoo Finance",0.04436428571428571
+2019-03-13,https://finance.yahoo.com/news/apos-no-alternative-boeing-737-162900976.html,There's No Alternative to the Boeing 737 MAX,-0.10887115384615384
+2019-03-31,https://finance.yahoo.com/news/why-air-force-wants-buy-131400075.html,Why the Air Force Wants to Buy Boeing's Aging Fighter,0.15013043478260868
+2019-03-13,https://finance.yahoo.com/news/dear-wall-street-dump-dow-103600475.html,Dear Wall Street: Dump the Dow Jones Industrial Average ASAP,0.13566304347826083
+2019-03-30,https://finance.yahoo.com/news/3-top-stocks-aren-apos-103000514.html,3 Top Stocks That Aren't on Wall Street's Radar,0.162288
+2019-03-16,https://finance.yahoo.com/news/3-international-companies-making-waves-011500190.html,3 International Companies Making Waves in the U.S.,0.2915416666666667
+2019-03-25,https://news.yahoo.com/doria-ragland-duchess-sussexs-mother-150421836.html,Doria Ragland: How the Duchess of Sussex's mother became her rock and best friend,0.16833095238095236
+2019-03-10,https://sports.yahoo.com/fantasy-baseball-draft-overrated-underrated-and-safest-picks-in-rounds-13-181140277.html,"Fantasy Baseball Drafts: Overrated, underrated and safest picks in Rounds 1-3",0.10899358974358976
+2019-03-13,https://finance.yahoo.com/news/25-best-blue-chip-stocks-155755788.html,The 25 Best Blue-Chip Stocks to Buy Now (According to Hedge Funds),0.38798032786885245
+2019-03-11,https://ca.sports.yahoo.com/news/fantasy-baseball-drafts-overrated-underrated-and-safest-picks-in-rounds-46-180609532.html,"Fantasy Baseball Draft: Overrated, underrated and safest picks in Rounds 4-6",0.1808305555555555
+2019-03-18,https://news.yahoo.com/trump-adds-biden-to-his-low-iq-list-171621359.html,Trump adds Biden to his 'low IQ' list,-0.09418222222222222
+2019-04-04,https://finance.yahoo.com/news/7-diverse-stocks-buy-buck-185043516.html,7 Diverse Stocks to Buy to Make a Buck Off Air Travel,0.2207777777777778
