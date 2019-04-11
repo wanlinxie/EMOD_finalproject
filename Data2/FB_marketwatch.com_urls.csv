@@ -1,100 +1,5464 @@
-dates,url,title,scores
-2019-04-09,https://www.marketwatch.com/story/candace-owens-says-white-nationalist-discussion-is-intended-to-help-democrats-win-elections-2019-04-09,Key Words: Candace Owens says white-nationalist discussion is intended to help Democrats win elections,-0.19526428571428572
-2019-04-01,https://www.marketwatch.com/story/heres-what-it-would-take-for-users-to-give-up-facebook-for-a-month-2019-04-01,Here’s what it would take for users to give up Facebook for a month,0.07733888888888889
-2019-03-12,https://www.marketwatch.com/story/elizabeth-warren-took-contribution-from-facebooks-sandberg-paul-ryan-says-trump-could-be-beat-in-2020-2019-03-12,Capitol Report: Elizabeth Warren took contribution from Facebook’s Sandberg | Paul Ryan says Trump could be beat in 2020,0.10809473684210529
-2019-03-18,https://www.marketwatch.com/story/stocks-are-at-an-inflection-point-this-is-what-to-expect-if-you-believe-in-technical-analysis-2019-03-18,Stocks are at an inflection point — this is what to expect if you believe in technical analysis,0.15431764705882353
-2019-04-02,https://www.marketwatch.com/story/netflixs-stock-now-a-top-pick-at-jp-morgan-2019-04-02,The Ratings Game: Netflix’s stock now a ‘top pick’ at J.P. Morgan,0.3301466666666667
-2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.36632727272727267
-2019-04-09,https://www.marketwatch.com/story/nunes-sues-newspaper-chain-claiming-character-assassination-senators-ask-ftc-to-take-action-against-tech-giants-2019-04-09,"Capitol Report: Nunes sues newspaper chain, claiming ‘character assassination’ | Senators ask FTC to take action against tech giants",-0.073435
-2019-03-19,https://www.marketwatch.com/story/trump-today-president-warns-venezuela-of-tougher-sanctions-and-brands-kellyanne-conways-husband-a-total-loser-2019-03-19,Trump Today: Trump Today: President warns Venezuela of tougher sanctions and brands Kellyanne Conway’s husband a ‘total loser’,-0.11135714285714285
-2019-03-19,https://www.marketwatch.com/story/apple-wants-to-change-the-way-you-watch-sports-2019-03-19,Apple wants to change the way you watch sports,0.13685
-2019-03-29,https://www.marketwatch.com/story/lyft-ipo-investors-must-have-their-head-in-the-cloud-to-believe-in-this-stock-2019-03-29,Tim Mullaney: Lyft IPO investors must have their head in the cloud to believe in this stock,0.09032653061224488
-2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,0.06796119402985076
-2019-04-08,https://www.marketwatch.com/story/elizabeth-warren-is-right-to-go-after-the-big-tech-monopolies-2019-04-08,Project Syndicate: Elizabeth Warren is right to go after the Big Tech monopolies,0.11571463414634144
-2019-03-14,https://www.marketwatch.com/story/stock-futures-edge-lower-as-investors-weigh-weak-china-data-brexit-drama-2019-03-14,"Market Snapshot: Stock futures edge lower as investors weigh weak China data, Brexit drama",-0.000802857142857148
-2019-03-18,https://www.marketwatch.com/story/facebook-defends-itself-in-cambridge-analytica-consumer-class-action-case-2019-03-18,Facebook defends itself in Cambridge Analytica consumer class-action case,0.04535333333333334
-2019-03-28,https://www.marketwatch.com/story/i-got-engaged-to-a-money-monster-2019-03-28,The Moneyist: ‘I got engaged to a money monster’,0.06958720930232559
-2019-04-04,https://www.marketwatch.com/story/buy-dollars-even-if-stocks-keep-rising-says-goldman-alumnus-who-predicted-the-financial-crisis-2019-04-04,"Need to Know: Buy dollars even if stocks keep rising, says Goldman alumnus who predicted the financial crisis",-0.044554166666666666
-2019-03-11,https://www.marketwatch.com/story/an-unwholesome-appetite-for-stocks-could-spoil-this-fairytale-strategist-warns-2019-03-11,"Need to Know: An ‘unwholesome appetite’ for stocks could spoil this fairytale, strategist warns",-0.0009223880597014863
-2019-03-13,https://www.marketwatch.com/story/doubleline-capital-founder-gundlach-sees-a-correction-coming-others-stand-ready-to-buy-that-dip-2019-03-13,Need to Know: DoubleLine Capital founder Gundlach sees a correction coming; others stand ready to buy that dip,0.045163829787234044
-2019-04-04,https://www.marketwatch.com/story/these-diet-habits-kill-more-people-than-smoking-2019-04-04,These diet habits kill more people than smoking,-0.035830952380952366
-2019-03-25,https://www.marketwatch.com/story/why-you-should-let-the-lyft-ipo-go-by-and-grab-it-when-it-comes-around-again-2019-03-25,"Tim Mullaney: Why you should let the Lyft IPO go by, and grab it when it comes around again",0.18349074074074073
-2019-03-11,https://www.marketwatch.com/story/forget-elon-musks-marijuana-smoking-security-clearance-troubles-just-investing-in-cannabis-stocks-can-cause-you-problems-2019-03-11,Cannabis Watch: Forget Elon Musk’s marijuana-smoking security-clearance troubles — just investing in cannabis stocks can cause you problems,0.08081875000000001
-2019-03-12,https://www.marketwatch.com/story/growing-market-power-of-a-few-corporate-behemoths-is-stunting-the-economy-2019-03-12,Project Syndicate: Growing market power of a few corporate behemoths is stunting the economy,0.05117708333333332
-2019-03-14,https://www.marketwatch.com/story/stock-bear-who-predicted-last-recession-says-this-is-how-investors-can-get-ready-for-the-next-2019-03-14,Need to Know: Stock bear who predicted last recession says this is how investors can get ready for the next,-0.12608135593220335
-2019-03-15,https://www.marketwatch.com/story/a-year-after-zuckerbergs-testimony-on-violent-content-has-anything-changed-2019-03-15,"One year after Zuckerberg’s testimony about violent content on Facebook, has anything changed?",-0.16361315789473685
-2019-03-22,https://www.marketwatch.com/story/facebook-crumbles-around-its-lonely-king-2019-03-22,MarketWatch First Take: Facebook crumbles around its lonely king,-0.054867924528301845
-2019-03-21,https://www.marketwatch.com/story/trump-talks-china-and-isis-mr-kellyanne-and-the-mueller-report-white-house-transcript-2019-03-21,"Trump talks China and ISIS, ‘Mr. Kellyanne’ and the Mueller report: White House transcript",0.08894203821656047
-2019-03-28,https://www.marketwatch.com/story/hud-charges-facebook-with-housing-discrimination-over-targeted-ads-2019-03-28,HUD charges Facebook with housing discrimination over targeted ads,-0.12017999999999998
-2019-03-13,https://www.marketwatch.com/story/facebook-sites-go-down-for-some-users-2019-03-13,Facebook sites go down for some users,0.07072499999999998
-2019-04-04,https://www.marketwatch.com/story/facebook-stock-gains-after-guggenheim-upgrade-2019-04-04,Facebook stock gains after Guggenheim upgrade,0.3127666666666667
-2019-03-10,https://www.marketwatch.com/story/russia-switching-online-tactics-for-2020-us-election-report-2019-03-10,Russia switching online tactics for 2020 U.S. election: report,0.15302857142857146
-2019-04-09,https://www.marketwatch.com/story/facebook-stock-rises-after-morgan-stanley-raises-target-cheers-instagram-shopping-opportunity-2019-04-09,"Facebook stock rises after Morgan Stanley raises target, cheers Instagram shopping opportunity",0.42285
-2019-03-28,https://www.marketwatch.com/story/facebooks-stock-falls-after-hud-charges-company-with-violation-fair-housing-act-2019-03-28,Facebook's stock falls after HUD charges company with violation Fair Housing Act,-0.09664999999999997
-2019-03-11,https://www.marketwatch.com/story/facebook-stocks-jumps-25-after-instinet-upgrades-to-buy-2019-03-11,Facebook stocks jumps 2.5% after Instinet upgrades to buy,0.21500000000000002
-2019-04-04,https://www.marketwatch.com/story/twitter-stock-rises-after-guggenheim-hikes-target-2019-04-04,Twitter stock rises after Guggenheim hikes target,0.3200875
-2019-04-10,https://www.marketwatch.com/story/snap-stock-falls-after-emarketer-predicts-first-annual-user-declines-in-the-us-2019-04-10,Snap stock falls after eMarketer predicts first annual user declines in the U.S.,0.08765
-2019-04-04,https://www.marketwatch.com/story/roku-stock-drops-after-guggenheim-cuts-to-neutral-citing-apple-risk-2019-04-04,"Roku stock drops after Guggenheim cuts to neutral, citing Apple risk",0.22975555555555557
-2019-04-05,https://www.marketwatch.com/story/shopify-stock-gains-after-baird-hikes-target-2019-04-05,Shopify stock gains after Baird hikes target,0.3033
-2019-03-18,https://www.marketwatch.com/story/amazons-stock-surges-above-200-day-moving-average-2019-03-18,Amazon's stock surges above 200-day moving average,0.2107909090909091
-2019-03-21,https://www.marketwatch.com/story/millions-of-facebook-instagram-passwords-exposed-internally-company-says-2019-03-21,"Millions of Facebook, Instagram passwords exposed internally, company says",-0.03564444444444443
-2019-03-13,https://www.marketwatch.com/story/facebook-data-sharing-being-investigated-by-grand-jury-report-2019-03-13,Facebook data-sharing being investigated by grand jury: report,0.2359888888888889
-2019-03-18,https://www.marketwatch.com/story/facebooks-stock-drops-after-needham-downgrades-on-worries-of-negative-network-effects-2019-03-18,Facebook's stock drops after Needham downgrades on worries of 'negative network effects',-0.14806666666666665
-2019-03-14,https://www.marketwatch.com/story/stock-market-ends-mostly-lower-as-sino-american-trade-worries-keeps-wall-street-buying-appetite-in-check-2019-03-14,Stock market ends mostly lower as Sino-American trade worries keeps Wall Street buying appetite in check,0.03498666666666668
-2019-03-14,https://www.marketwatch.com/story/facebooks-chief-product-officer-whatsapp-head-leaving-amid-privacy-pivot-2019-03-14,Facebook's chief product officer to leave company,0.10857000000000001
-2019-03-14,https://www.marketwatch.com/story/why-everybodys-face-is-still-buried-in-their-phones-in-one-eye-opening-chart-2019-03-14,"In One Chart: Why everybody’s face is still buried in their phones, in one eye-opening chart",0.11221
-2019-04-05,https://www.marketwatch.com/story/cisco-finds-dozens-of-open-air-groups-peddling-cybercrimes-to-385000-users-on-facebook-2019-04-05,"The Tell: Cisco finds dozens of open-air groups peddling cybercrimes to 385,000 users on Facebook",0.09263333333333335
-2019-03-20,https://www.marketwatch.com/story/dad-who-used-250000-worth-of-facebook-shares-to-get-his-daughter-into-ucla-ugh-this-could-be-a-front-page-story-2019-03-20,"Key Words: Dad who used $250,000 worth of Facebook shares to get his daughter into UCLA: Ugh, this could be a front-page story",0.03930999999999998
-2019-04-08,https://www.marketwatch.com/story/morally-bankrupt-pathological-liars-at-facebook-cant-be-trusted-warns-new-zealands-privacy-commissioner-2019-04-08,"Key Words: ‘Morally bankrupt pathological liars’ at Facebook can’t be trusted, warns New Zealand’s privacy commissioner",-0.03332857142857144
-2019-03-19,https://www.marketwatch.com/story/trump-already-blitzing-facebook-google-with-ads-as-democrats-struggle-to-catch-up-2019-03-19,"Capitol Report: Trump already blitzing Facebook, Google with ads as Democrats struggle to catch up",-0.03321111111111111
-2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.36632727272727267
-2019-03-18,https://www.marketwatch.com/story/facebook-stock-falls-as-worry-of-negative-network-effects-prompts-downgrade-2019-03-18,The Ratings Game: Facebook stock falls as worry of ‘negative network effects’ prompts downgrade,-0.24711666666666673
-2019-03-18,https://www.marketwatch.com/story/monica-lewinsky-bill-clinton-didnt-have-to-change-his-name-2019-03-18,Key Words: Monica Lewinsky: ‘Bill Clinton didn’t have to change his name’,-0.08209999999999999
-2019-04-05,https://www.marketwatch.com/story/we-need-a-new-bill-of-rights-to-protect-us-from-algorithms-wharton-professor-says-2019-04-05,"We need a new Bill of Rights to protect us from algorithms, Wharton professor says",0.02615
-2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.2939487179487179
-2019-04-04,https://www.marketwatch.com/story/prince-harry-fortnite-is-an-addiction-that-shouldnt-be-allowed-2019-04-04,Key Words: Prince Harry: Fortnite is an ‘addiction’ that ‘shouldn’t be allowed’,0.09150000000000001
-2019-03-19,https://www.marketwatch.com/story/apple-wants-to-change-the-way-you-watch-sports-2019-03-19,Apple wants to change the way you watch sports,0.13685
-2019-04-03,https://www.marketwatch.com/story/these-are-the-companies-where-people-most-want-to-work-according-to-linkedin-2019-04-03,"These are the companies at which people most want to work, according to LinkedIn",0.13242
-2019-04-03,https://www.marketwatch.com/story/the-abuse-of-artificial-intelligence-means-we-all-need-to-be-fact-checkers-2019-04-03,Your Digital Self: The abuse of artificial intelligence means we all need to be fact-checkers,0.020486363636363636
-2019-04-06,https://www.marketwatch.com/story/maybe-your-teens-snapchat-obsession-isnt-so-harmful-after-all-2019-04-06,Maybe your teen’s Snapchat obsession isn’t so harmful after all,0.03397297297297298
-2019-03-15,https://www.marketwatch.com/story/weekend-roundup-bad-times-for-boeing-more-about-the-college-admissions-scam-the-worlds-favorite-cities-2019-03-15,Top Ten: Weekend roundup: Bad times for Boeing | More about the college admissions scam | The world’s favorite cities,0.014412499999999991
-2019-03-26,https://www.marketwatch.com/story/a-scenario-for-new-us-stock-market-highs-is-developing-2019-03-26,A scenario for new U.S. stock-market highs is developing,0.15657234042553195
-2019-03-20,https://www.marketwatch.com/story/supreme-court-sends-consumers-suing-google-over-privacy-issues-back-to-court-2019-03-20,Supreme Court sends consumers suing Google over privacy issues back to court,0.01613793103448277
-2019-03-25,https://www.marketwatch.com/story/why-facial-discrimination-against-older-workers-is-robbing-millennials-of-valuable-life-skills-2019-03-25,Outside the Box: Why ‘facial discrimination’ against older workers is robbing millennials of valuable life skills,0.1468051282051282
-2019-03-18,https://www.marketwatch.com/story/facebook-defends-itself-in-cambridge-analytica-consumer-class-action-case-2019-03-18,Facebook defends itself in Cambridge Analytica consumer class-action case,0.04535333333333334
-2019-03-19,https://www.marketwatch.com/story/how-99-cent-cans-of-arizona-iced-tea-became-cheaper-than-bottled-water-2019-03-19,How 99-cent cans of Arizona Iced Tea became cheaper than bottled water,0.13294883720930237
-2019-03-12,https://www.marketwatch.com/story/facebook-temporarily-deletes-elizabeth-warrens-ads-that-said-it-abuses-its-power-2019-03-11,MarketWatch.com: Facebook temporarily deletes Elizabeth Warren’s ads that said it abuses its power,0.08671250000000001
-2019-03-12,https://www.marketwatch.com/story/charting-a-bullish-reversal-sp-500-spikes-from-major-support-2742-2019-03-12-121035211,"The Technical Indicator: Charting a bullish reversal, S&P 500 spikes from major support (2,742)",0.15932688172043005
-2019-04-09,https://www.marketwatch.com/story/charting-the-sp-500s-approach-of-the-2900-mark-2019-04-09-121032837,"The Technical Indicator: Charting the S&P 500’s approach of the 2,900 mark",0.13817575757575754
-2019-03-26,https://www.marketwatch.com/story/apple-new-streaming-platform-will-respect-your-privacy-2019-03-26,Associated Press: Apple: new streaming platform will respect your privacy,0.26924444444444445
-2019-04-04,https://www.marketwatch.com/story/facebook-still-not-doing-enough-to-prevent-ethnic-hate-in-myanmar-un-investigator-says-2019-04-03,"Facebook still not doing enough to prevent ethnic hate in Myanmar, U.N. investigator says",-0.1979
-2019-03-14,https://www.marketwatch.com/story/sorry-but-that-1100-standing-desk-wont-make-you-thinner-2019-03-14,": Sorry, but that $1,100 standing desk won’t make you thinner",0.17256333333333343
-2019-03-21,https://www.marketwatch.com/story/facebook-admits-new-zealand-shooting-video-reveals-gaps-in-its-ai-but-pushes-back-on-time-delay-policy-2019-03-21,Facebook admits New Zealand shooting video reveals gaps in its AI but pushes back on time-delay policy,-0.15742727272727272
-2019-03-13,https://www.marketwatch.com/story/facebook-lifts-ban-on-zero-hedge-articles-after-mistake-2019-03-12,Facebook lifts ban on Zero Hedge articles after ‘mistake’,-0.15516875
-2019-04-01,https://www.marketwatch.com/story/pay-attention-to-the-stock-markets-golden-cross-but-not-for-the-reason-you-may-read-about-2019-04-01,Pay attention to the stock market’s golden cross but not for the reason you may read about,0.11185
-2019-03-10,https://www.marketwatch.com/story/elizabeth-warren-wants-to-break-up-apple-too-2019-03-10,"Key Words: Elizabeth Warren wants to break up Apple, too",0.08791764705882353
-2019-04-08,https://www.marketwatch.com/story/all-eyes-are-on-company-earnings-as-the-stock-market-has-overshot-to-the-upside-2019-04-08,MarketWatch.com: All eyes are on company earnings as the stock market has overshot to the upside,0.12086530612244899
-2019-03-18,https://www.marketwatch.com/story/parents-can-spend-47000-or-more-per-year-to-help-their-children-apply-to-college-2019-03-18,"Parents can spend $47,000 or more per year to help their children apply to college",0.363075
-2019-03-11,https://www.marketwatch.com/story/j-los-engagement-ring-is-reportedly-worth-1-million-is-it-time-to-ditch-the-diamond-2019-03-11,J-Lo’s engagement ring is reportedly worth $1 million — is it time to ditch the diamond?,0.40684324324324317
-2019-03-25,https://www.marketwatch.com/story/the-left-is-a-bigger-threat-to-america-than-china-2019-03-25,The Left is a bigger threat to America than China,0.0238548387096774
-2019-03-29,https://www.marketwatch.com/story/with-lyft-offering-the-ipo-casino-is-now-open-2019-03-28,"With Lyft offering, the IPO casino is now open",0.27848484848484845
-2019-03-13,https://www.marketwatch.com/story/if-youre-tracking-the-sp-500-instead-of-this-fund-youre-leaving-money-on-the-table-2019-03-13,"If you’re tracking the S&P 500 instead of this fund, you’re leaving money on the table",0.18564242424242428
-2019-04-08,https://www.marketwatch.com/story/you-dont-need-a-4-year-college-degree-for-these-high-paying-jobs-at-google-apple-netflix-2019-04-08,"You don’t need a 4-year college degree for these high-paying jobs at Google, Apple, Netflix",0.2233117647058824
-2019-04-03,https://www.marketwatch.com/story/facebook-sets-its-sights-on-housing-should-zillow-be-worried-2019-04-03,Facebook sets its sights on housing. Should Zillow be worried?,0.12020000000000002
-2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,0.06796119402985076
-2019-03-22,https://www.marketwatch.com/story/to-fix-the-tech-industry-learn-from-how-we-treat-the-car-industry-2019-03-22,"To fix the tech industry, learn from how we treat the car industry",0.18127804878048778
-2019-03-19,https://www.marketwatch.com/story/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19,Let’s stop bashing billionaires — they are making our lives better,0.4313475000000001
-2019-03-21,https://www.marketwatch.com/story/apple-stock-boosted-by-strong-buy-call-ahead-of-special-press-event-2019-03-21,Apple stock boosted by ‘strong buy’ call ahead of special press event,0.2586035714285715
-2019-03-28,https://www.marketwatch.com/story/these-investors-are-the-big-winners-from-lyft-and-other-unicorn-ipos-2019-03-28,These investors are the big winners from Lyft and other unicorn IPOs,0.05773333333333335
-2019-03-14,https://www.marketwatch.com/story/why-some-investors-say-tech-stocks-are-becoming-less-risky-2019-03-14,Why some investors say tech stocks are becoming less risky,0.05617272727272727
-2019-03-26,https://www.marketwatch.com/story/snakebit-newspaper-publishers-skeptical-of-apples-news-2019-03-26,Associated Press: Snakebit newspaper publishers skeptical of Apple’s News+,0.16017727272727275
-2019-03-13,https://www.marketwatch.com/story/apple-amazon-google-facebook-cast-in-europe-as-harmful-monopolies-2019-03-13,"Associated Press: Apple, Amazon, Google, Facebook cast in Europe as harmful monopolies",0.18452000000000002
-2019-03-27,https://www.marketwatch.com/story/eu-lawmakers-approve-online-copyright-bill-targeting-us-tech-giants-2019-03-26,Associated Press: EU lawmakers approve online copyright bill targeting U.S. tech giants,0.11482307692307693
-2019-04-05,https://www.marketwatch.com/story/a-little-known-risk-to-apple-is-5g-cellular-technology-2019-04-05,MarketWatch.com: A little-known risk to Apple is 5G cellular technology,0.014290410958904105
-2019-03-13,https://www.marketwatch.com/story/how-your-internet-surfing-could-make-you-money-in-the-coming-blockchain-revolution-2019-03-13,Outside the Box: How your internet surfing could make you money in the coming blockchain revolution,0.04407380952380953
-2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.171821568627451
-2019-03-15,https://www.marketwatch.com/story/these-red-flags-will-tell-you-when-its-time-to-sell-the-stock-rally-bank-of-america-merrill-lynch-2019-03-15,Need to Know: These red flags will tell you when it’s time to sell the stock rally: Bank of America Merrill Lynch,-0.020606250000000003
-2019-03-28,https://www.marketwatch.com/story/facebook-amazon-other-internet-giants-are-weathering-washingtons-body-blows-2019-03-28,"Facebook, Amazon, other internet giants are weathering Washington’s body blows",-0.017490123456790126
-2019-03-28,https://www.marketwatch.com/story/stocks-set-to-rally-as-investors-shift-from-safe-haven-bonds-says-barclays-2019-03-28,"Stock market bulls, your ‘flight to safety’ rally is coming, says Barclays",-0.002979104477611943
-2019-03-12,https://www.marketwatch.com/story/why-investors-cant-count-on-apple-and-facebook-to-carry-this-stock-market-higher-2019-03-12,Why investors can’t count on Apple and Facebook to carry this stock market higher - MarketWatch,0.04060943396226415
-2019-03-27,https://www.marketwatch.com/story/big-tech-after-years-of-manipulating-us-is-now-being-surveilled-2019-03-27,"Big Tech, after years of manipulating us, is now being surveilled",0.11717087378640775
+dates,url,title,title_score,first_para,firstP_score,content_scores
+2019-04-09,https://www.marketwatch.com/story/candace-owens-says-white-nationalist-discussion-is-intended-to-help-democrats-win-elections-2019-04-09,Key Words: Candace Owens says white-nationalist discussion is intended to help Democrats win elections,0.7579,"Executives from Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and the Alphabet
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.25%
+GOOGL, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        unit Google were criticized for what was seen as their inadequate efforts to counter the surge of hate speech online and on the social-media networks.",-0.836,-0.19526428571428572
+2019-04-01,https://www.marketwatch.com/story/heres-what-it-would-take-for-users-to-give-up-facebook-for-a-month-2019-04-01,Here’s what it would take for users to give up Facebook for a month,0.0,"That was a very real experiment, run by researchers trying to figure out how to account for the value of new and free goods in the digital economy. It’s an important issue now that services from Instagram 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to Google Maps 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.25%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          to LinkedIn 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          dominate people’s time, if not lives.",0.7184,0.07733888888888889
+2019-03-12,https://www.marketwatch.com/story/elizabeth-warren-took-contribution-from-facebooks-sandberg-paul-ryan-says-trump-could-be-beat-in-2020-2019-03-12,Capitol Report: Elizabeth Warren took contribution from Facebook’s Sandberg | Paul Ryan says Trump could be beat in 2020,0.0,"The Massachusetts Democrat, who is campaigning for president with a proposal to break up the likes of Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, -0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.15%
+GOOGL, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.08%
+in September accepted a $2,700 contribution from Sheryl Sandberg, Facebook’s chief operating officer. What’s more, Politico writes, Warren took at least $90,000 from employees of Amazon, Google and Facebook between 2011 and 2018. ",0.743,0.10809473684210529
+2019-03-18,https://www.marketwatch.com/story/stocks-are-at-an-inflection-point-this-is-what-to-expect-if-you-believe-in-technical-analysis-2019-03-18,Stocks are at an inflection point — this is what to expect if you believe in technical analysis,0.0,"• Keep an eye on price action of popular tech stocks such as Apple
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Amazon
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and AMD
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMD, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         .",0.5423,0.15431764705882353
+2019-04-02,https://www.marketwatch.com/story/netflixs-stock-now-a-top-pick-at-jp-morgan-2019-04-02,The Ratings Game: Netflix’s stock now a ‘top pick’ at J.P. Morgan,0.0,"As result, he believes the stock’s current valuation represents “a good buying opportunity” for investors, enough to make it one of only four of the 28 companies he covers that he labeled a top pick. The other three are Amazon.com Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Twitter Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.68%
+",0.5719,0.3301466666666667
+2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.1779,"Executives at Snap 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SNAP, +0.66%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         showed off enhancements to the company’s augmented-reality, gaming, and content categories during Thursday’s event, as Snap looks to drive engagement on its platform and compete with Facebook Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Instagram, which has copied some of its most popular features. Snap has struggled to grow users on Snapchat since its 2017 IPO, posting flat sequential growth in the December quarter after two periods of declines. ",0.7425,0.36632727272727267
+2019-04-09,https://www.marketwatch.com/story/nunes-sues-newspaper-chain-claiming-character-assassination-senators-ask-ftc-to-take-action-against-tech-giants-2019-04-09,"Capitol Report: Nunes sues newspaper chain, claiming ‘character assassination’ | Senators ask FTC to take action against tech giants",0.0,"Their letter specifically mentions Facebook Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and Alphabet Inc.’s
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.25%
+GOOGL, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        Google, noting they dominate key markets. The missive also asks the FTC to disclose whether it’s conducting an investigation of any online platform and describe the nature of any probe.",-0.128,-0.073435
+2019-03-19,https://www.marketwatch.com/story/trump-today-president-warns-venezuela-of-tougher-sanctions-and-brands-kellyanne-conways-husband-a-total-loser-2019-03-19,Trump Today: Trump Today: President warns Venezuela of tougher sanctions and brands Kellyanne Conway’s husband a ‘total loser’,0.0772,"Hours before the news conference, Trump said he’d be “looking into” Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          blocking of his social media chief, Dan Scavino. The company said Tuesday Scavino’s postings were mistakenly reported as spam and apologized for temporarily blocking him. ",-0.765,-0.11135714285714285
+2019-03-19,https://www.marketwatch.com/story/apple-wants-to-change-the-way-you-watch-sports-2019-03-19,Apple wants to change the way you watch sports,0.0,"Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          is expected to unveil its highly anticipated streaming-video service next week. But while streaming rivals such as Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, -0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         have started offering live sports, that doesn’t seem to be the direction Apple is headed.",0.0,0.13685
+2019-03-29,https://www.marketwatch.com/story/lyft-ipo-investors-must-have-their-head-in-the-cloud-to-believe-in-this-stock-2019-03-29,Tim Mullaney: Lyft IPO investors must have their head in the cloud to believe in this stock,0.0,"For all of Donald Trump’s caviling about Amazon’s low profits and high stock price, Amazon’s $871 billion market value is just 28 times last year’s operating cash flow, which was 60% higher than the year before, as cloud computing took off in earnest. Growth like that gets you a premium, and it should. Amazon’s stock price is 3.3 times forecasted 2019 sales. Twitter
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.68%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         long considered financially shaky for a dot-com, is at 19 times trailing cash flow and seven times this year’s sales. Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Alphabet are cheaper still — and always were, even at their IPOs.",0.8658,0.09032653061224488
+2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,-0.2023,"• Google is not alone. Ultimately expect Microsoft, Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.20%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Sony, Verizon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    VZ, +0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and AT&T 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    T, +0.72%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to jump into the business of game streaming. Will AMD face competition? ",0.3485,0.06796119402985076
+2019-04-08,https://www.marketwatch.com/story/elizabeth-warren-is-right-to-go-after-the-big-tech-monopolies-2019-04-08,Project Syndicate: Elizabeth Warren is right to go after the Big Tech monopolies,0.0,"CAMBRIDGE, Mass. (Project Syndicate) — Displaying a degree of courage and clarity that is difficult to overstate, Sen. and presidential candidate Elizabeth Warren has taken on Big Tech, including Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.25%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Amazon
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , and Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         . ",0.6249,0.11571463414634144
+2019-03-14,https://www.marketwatch.com/story/stock-futures-edge-lower-as-investors-weigh-weak-china-data-brexit-drama-2019-03-14,"Market Snapshot: Stock futures edge lower as investors weigh weak China data, Brexit drama",-0.6249," Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares dropped 1.9% after the New York Times reported that a grand jury under the supervision of prosecutors from the Eastern District of New York is undertaking a criminal investigation into the social-media platform’s data-sharing practices. ",0.2023,-0.000802857142857148
+2019-03-18,https://www.marketwatch.com/story/facebook-defends-itself-in-cambridge-analytica-consumer-class-action-case-2019-03-18,Facebook defends itself in Cambridge Analytica consumer class-action case,0.0,"None of the users were saying they were subjected to anything of the sort, Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          maintained — “no actionable identity theft, emotional distress, or economic injury.” Any “targeted advertising” didn’t count. Without real harm, the users didn’t have a legal leg to stand on, the company claimed. ",0.1406,0.04535333333333334
+2019-03-28,https://www.marketwatch.com/story/i-got-engaged-to-a-money-monster-2019-03-28,The Moneyist: ‘I got engaged to a money monster’,0.4019,"I understand that some people will read this question and react in an extreme fashion. “Document everything! Watch out! Dump her ASAP! Get out! Leave her! Run away! Get primary custody of your child! Don’t get married! Get a good attorney!” They are just some of the comments on your letter on the Facebook Group 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         for this column.",0.3111,0.06958720930232559
+2019-04-04,https://www.marketwatch.com/story/buy-dollars-even-if-stocks-keep-rising-says-goldman-alumnus-who-predicted-the-financial-crisis-2019-04-04,"Need to Know: Buy dollars even if stocks keep rising, says Goldman alumnus who predicted the financial crisis",-0.6249,"Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         faces another security stumble after report says millions of user records were exposed via Amazon’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.08%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         cloud services. ",0.2732,-0.044554166666666666
+2019-03-11,https://www.marketwatch.com/story/an-unwholesome-appetite-for-stocks-could-spoil-this-fairytale-strategist-warns-2019-03-11,"Need to Know: An ‘unwholesome appetite’ for stocks could spoil this fairytale, strategist warns",-0.1027,"More than 17 million — That’s how many young Americans have quit Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in the last two years over the data privacy scandals, according to a report from market research firm Edison Research cited in the Daily Mail. ",-0.4939,-0.0009223880597014863
+2019-03-13,https://www.marketwatch.com/story/doubleline-capital-founder-gundlach-sees-a-correction-coming-others-stand-ready-to-buy-that-dip-2019-03-13,Need to Know: DoubleLine Capital founder Gundlach sees a correction coming; others stand ready to buy that dip,0.3612,"Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.08%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        reverses a ban on financial blog Zero Hedge after apparent spam-filtering miscue. ",-0.5574,0.045163829787234044
+2019-04-04,https://www.marketwatch.com/story/these-diet-habits-kill-more-people-than-smoking-2019-04-04,These diet habits kill more people than smoking,-0.6908,"Kelly Hogan, clinical nutrition and wellness manager at New York’s Mount Sinai Hospital, told MarketWatch that the study supports the healthy guidelines that she and other dietitians have been sharing with their patients. “For a long time, we’ve really been trying to focus on diet quality when it comes to the risk reduction of various chronic disease; focusing on what people should eat more of, as opposed to telling them what not to eat,” she said. “When you tell people what not to do, they’re not necessarily going to know what to do. Sometimes it’s not intuitive for them to eat the ‘right’ thing.” (And if you read Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         support groups for diets like keto, which drastically limits carbs, and the Whole 30, which cuts sugar, dairy and legumes early on, the majority of topics center around people asking what they can still eat.) ",0.8957,-0.035830952380952366
+2019-03-25,https://www.marketwatch.com/story/why-you-should-let-the-lyft-ipo-go-by-and-grab-it-when-it-comes-around-again-2019-03-25,"Tim Mullaney: Why you should let the Lyft IPO go by, and grab it when it comes around again",0.0,"Now, perhaps enthusiasm will take over — more likely, some bump will come up and make people who pay up for Lyft, especially in the aftermarket, wish they waited. That happened with most great first-generation tech IPOs — even more-recent Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Square
+SQ, +1.26%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          IPOs took 30%-50% haircuts for a while.",0.8622,0.18349074074074073
+2019-03-11,https://www.marketwatch.com/story/forget-elon-musks-marijuana-smoking-security-clearance-troubles-just-investing-in-cannabis-stocks-can-cause-you-problems-2019-03-11,Cannabis Watch: Forget Elon Musk’s marijuana-smoking security-clearance troubles — just investing in cannabis stocks can cause you problems,-0.765,"Investing in cannabis-related companies kicked into high gear last year when Canada legalized recreational marijuana use, but the question of how it affects federal security clearances got renewed attention this month after a memo reportedly authored by DoD lawyers circulated on Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Reddit.",0.4767,0.08081875000000001
+2019-03-12,https://www.marketwatch.com/story/growing-market-power-of-a-few-corporate-behemoths-is-stunting-the-economy-2019-03-12,Project Syndicate: Growing market power of a few corporate behemoths is stunting the economy,0.1779,"One is the growth of sectors with large network effects, where a single firm — like Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          or Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         — can easily dominate. Another is the prevailing attitude among business leaders, who have come to assume that market power is the only way to ensure durable profits. ",0.8885,0.05117708333333332
+2019-03-14,https://www.marketwatch.com/story/stock-bear-who-predicted-last-recession-says-this-is-how-investors-can-get-ready-for-the-next-2019-03-14,Need to Know: Stock bear who predicted last recession says this is how investors can get ready for the next,-0.0772,"Facebook’s
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        data-sharing activities are being hashed out before a New York grand jury, with records subpoenaed from two hardware makers that the social-media group partnered with in data.",0.4588,-0.12608135593220335
+2019-03-15,https://www.marketwatch.com/story/a-year-after-zuckerbergs-testimony-on-violent-content-has-anything-changed-2019-03-15,"One year after Zuckerberg’s testimony about violent content on Facebook, has anything changed?",-0.5994,"Rewind to April 2018. That’s when Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         founder and CEO Mark Zuckerberg testified on Capitol Hill about the serious strides the social-media company was making to thwart the spread of hateful, violent content.",-0.8126,-0.16361315789473685
+2019-03-22,https://www.marketwatch.com/story/facebook-crumbles-around-its-lonely-king-2019-03-22,MarketWatch First Take: Facebook crumbles around its lonely king,-0.3612,"Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has suffered seemingly endless controversies, including the most recent, hosting a live stream of mass shootings in two mosques in New Zealand. Facebook was alerted by the police in Christchurch to remove the video, which was not found by any of Facebook’s AI engines or humans searching for violent content, contrary to Zuckerberg’s explanation to Congress a year ago about how its systems are getting better at finding harmful content. Facebook said in a blog post this week that in the first 24 hours of the shootings, it removed about 1.5 million videos of the attack globally, with more than 1.2 million of those videos blocked at upload. ",-0.8555,-0.054867924528301845
+2019-03-21,https://www.marketwatch.com/story/trump-talks-china-and-isis-mr-kellyanne-and-the-mueller-report-white-house-transcript-2019-03-21,"Trump talks China and ISIS, ‘Mr. Kellyanne’ and the Mueller report: White House transcript",0.0," Now, let’s see whether or not it’s legit. You know better than anybody there’s no collusion. There was no collusion. There was no obstruction. There was no nothing. But it’s sort of an amazing thing that when you have a great victory, somebody comes and does a report out of nowhere -- tell me how that makes sense -- who never got a vote; who the day before he was retained to become Special Counsel, I told him he wouldn’t be working at the FBI. And then the following day, they get him for this. I don’t think so. I don’t think people get it. ",0.7584,0.08894203821656047
+2019-03-28,https://www.marketwatch.com/story/hud-charges-facebook-with-housing-discrimination-over-targeted-ads-2019-03-28,HUD charges Facebook with housing discrimination over targeted ads,-0.2732,"The U.S. Department of Housing and Urban Development on Thursday said it's charging Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         with violating the Fair Housing Act by ""encouraging, enabling and causing"" discrimination by restricting who can view housing-related ads on the social-media platform. ""Using a computer to limit a person's housing choices can be just as discriminatory as slamming a door in someone's face,"" HUD Secretary Ben Carson said in a statement. ",-0.5859,-0.12017999999999998
+2019-03-13,https://www.marketwatch.com/story/facebook-sites-go-down-for-some-users-2019-03-13,Facebook sites go down for some users,0.0,"Facebook Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         social-networking sites were not loading for all users around 1 p.m. Eastern time Wednesday. Both Facebook and Instagram were failing to load on both coasts in some cases Wednesday morning, though some users were able to access services. Facebook's status blog reported a ""partial outage"" at roughly 1:45 p.m. ""We're aware that some people are currently having trouble accessing the Facebook family of apps,"" a facebook spokesman said in an email. ""We're working to resolve the issue as soon as possible."" Facebook shares were up about 1% on the day as of 1 p.m.",-0.296,0.07072499999999998
+2019-04-04,https://www.marketwatch.com/story/facebook-stock-gains-after-guggenheim-upgrade-2019-04-04,Facebook stock gains after Guggenheim upgrade,0.34,"Shares of Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are up 1.3% in Thursday morning trading after Guggenheim analyst Michael Morris upgraded the stock to buy from neutral. The upgrade is reflective of Guggenheim's ""view that investors will continue to gain comfort with the incremental financial risk created by content and privacy concerns,"" Morris wrote in a note to clients on Thursday. ""At the same time, we believe usage trends have remained solid (domestic blue app maturity offset by Instagram and global growth) and see the potential for commerce and messaging monetization opportunities as attractively priced within shares."" He's less upbeat about the company's video strategy. Morris upped his target price to $200 from $175. Shares are up 26% in the past three months, as the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has risen 13%. ",0.9393,0.3127666666666667
+2019-03-10,https://www.marketwatch.com/story/russia-switching-online-tactics-for-2020-us-election-report-2019-03-10,Russia switching online tactics for 2020 U.S. election: report,0.0,"Russian internet trolls have apparently switched strategies in the runup to the 2020 U.S. presidential election, Bloomberg News reported Sunday. Rather than create ""fake news,"" which platforms such as Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Twitter Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.72%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         have cracked down on, Bloomberg reported the focus now is on amplifying already-existing divisive content through phony social-media accounts. Cybersecurity experts told Bloomberg that instead of creating fake news, the phony accounts have been building up their follower numbers, apparently aiming to become more influential opinion-makers. ""That creates an opportunity for them to hide behind somebody else,"" a FireEye executive told Bloomberg.",0.5413,0.15302857142857146
+2019-04-09,https://www.marketwatch.com/story/facebook-stock-rises-after-morgan-stanley-raises-target-cheers-instagram-shopping-opportunity-2019-04-09,"Facebook stock rises after Morgan Stanley raises target, cheers Instagram shopping opportunity",0.7096,"Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares are up about 2% in morning trading Tuesday after Morgan Stanley's Brian Nowak raised his target to $195 from $190 and expressed optimism about the company's opportunities in commerce via the Instagram platform. He sees shopping initiatives on Instagram bringing in potentially $4 billion in advertising revenue by 2021. Nowak cautioned that turning Instagram shopping into a serious revenue generator ""isn't likely to be fast"" as the company needs to innovate on areas like payments in order to create a more seamless buying experience and make it easier for marketers to track whether their campaigns lead to purchases. ""Longer term, a stronger payments offering will also likely be important to monetizing messaging... so once again, monitor Facebook's payments strategy,"" he wrote. The stock has gained 24% over the past three months, as the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has increased 12%. ",0.9741,0.42285
+2019-03-28,https://www.marketwatch.com/story/facebooks-stock-falls-after-hud-charges-company-with-violation-fair-housing-act-2019-03-28,Facebook's stock falls after HUD charges company with violation Fair Housing Act,-0.4588,"Shares of Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         fell 0.9% in premarket trade Thursday, after the social media giant was charged by the U.S. Department of Housing and Urban Development with violating the Fair Housing Act, by ""encouraging, enabling and causing housing discrimination"" through its advertising platform. HUD's charge follows an investigation of a complaint filed in August 2018. ""Facebook is discriminating against people based upon who they are and where they live,"" said HUD Secretary Ben Carson. ""Using a computer to limit a person's housing choices can be just as discriminatory as slamming a door in someone's face."" Facebook's stock has rallied 26.5% year to date through Wednesday, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has climbed 11.9%.",-0.4588,-0.09664999999999997
+2019-03-11,https://www.marketwatch.com/story/facebook-stocks-jumps-25-after-instinet-upgrades-to-buy-2019-03-11,Facebook stocks jumps 2.5% after Instinet upgrades to buy,0.0,"Instinet analysts upgraded Facebook Inc. stock 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to buy from neutral on Monday, and raised its price target to $215 from $172. Analyst Mark Kelley said he had downgraded the stock last year because he thought the transition to the video-sharing feature Stories would take longer than bulls were expecting. ""However, as we heard at industry events earlier this year and in our own conversations, the transition appears to be occurring more quickly than we expected, lessening our concern,"" Kelley wrote in a note to clients. The analyst raised his fiscal 2019 estimated EBITDA (earnings before interest, taxes, depreciation and amortization) to $36.2 billion from $35.6 billion and raised his fiscal 2020 estimate to $46.3 billion from $41.3 billion. Facebook shares were up 2.5% Monday and have gained 32% in 2019 so far, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 10%.",0.8555,0.21500000000000002
+2019-04-04,https://www.marketwatch.com/story/twitter-stock-rises-after-guggenheim-hikes-target-2019-04-04,Twitter stock rises after Guggenheim hikes target,0.0,"Shares of Twitter Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.55%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are up 0.4% in morning trading Thursday after Guggenheim's Michael Morris raised his price target on the stock to $41 from $33 in a broader note about internet stocks. Morris also upgraded Facebook Inc.'s stock 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.19%
+to buy from neutral and slashed his rating on Roku Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    ROKU, +1.62%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares to neutral from buy. He said that Twitter, which saw its shares close Wednesday at $34.38, has been making progress on efforts to improve the user experience, and he sees room for further enhancements as the company experiments with new conversation tools and reply options. He also wrote that the U.S. election season can help drive increased usage and advertiser demand. Twitter's stock has climbed 15% in the past three months, as the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 13%. ",0.936,0.3200875
+2019-04-10,https://www.marketwatch.com/story/snap-stock-falls-after-emarketer-predicts-first-annual-user-declines-in-the-us-2019-04-10,Snap stock falls after eMarketer predicts first annual user declines in the U.S.,0.0,"Snap Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SNAP, +0.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares are falling in premarket trading Wednesday after research firm eMarketer ""significantly downgraded its growth outlook for Snapchat"" following a troubled redesign of the app. The firm now predicts that Snap will record a drop in U.S. users this year, which would mark its first year of annual declines. The analysts there expect growth to flatten in 2020. Snap's pain could continue to be Instagram's gain, however, according to the eMarketer analysts. The Facebook-owned 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         photo-sharing platform is poised to add almost 19 million new users in the U.S. by 2023, per eMarketer's predictions. Snap's stock is down 0.8% in premarket trading, but it's gained 30% over the past month. The S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has ticked up 5% in that time. ",0.1531,0.060224999999999994
+2019-04-04,https://www.marketwatch.com/story/roku-stock-drops-after-guggenheim-cuts-to-neutral-citing-apple-risk-2019-04-04,"Roku stock drops after Guggenheim cuts to neutral, citing Apple risk",-0.5106,"Shares of Roku Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    ROKU, +1.45%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are down 2.7% in Thursday morning trading after Guggenheim's Michael Morris downgraded the stock to neutral from buy and lowered his price target to $72 from $77. ""We believe that the Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         video product unveiled on March 25 represents an additional risk to Roku's active user base (even as the platform includes The Roku Channel) while Amazon's 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Viacom's 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    VIAB, -0.20%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         greater pushes into advertising video on demand (AVOD) are increasing competition,"" Morris wrote. ""CFO Steve Louden's sale of 100,000 shares (representing his non-option share holdings) subsequent to our note on [March 6, when Morris raised his target to $77] has also shaken our confidence."" He still sees strong secular tailwinds for the company as streaming continues to gain steam but argues that expectations for growth in active accounts and advertising revenue are already in the consensus forecast. Morris also upgraded Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares to buy from neutral in a Thursday note. Roku's stock has shot up 103% over the past three months, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has risen 13%. ",0.8934,0.22975555555555557
+2019-04-05,https://www.marketwatch.com/story/shopify-stock-gains-after-baird-hikes-target-2019-04-05,Shopify stock gains after Baird hikes target,0.34,"Shares of Shopify Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SHOP, +1.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are up 0.7% in premarket trading Friday after Baird analyst Colin Sebastian upped his price target to $208 from $188. ""Our latest checks suggest Shopify continues to consolidate share, despite intensifying competitive concerns (i.e., Adobe 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    ADBE, -0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook/Instagram 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Microsoft 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Salesforce 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    CRM, -0.18%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Square 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SQ, +1.26%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        ), and believe it will take years and significant investment for others to catch up,"" Sebastian wrote. ""While we would not dismiss the risks/opportunities for any of these companies, we note that Shopify's platform required >$1 billion in R&D and marketing investment just over the past four years, and remains differentiated from current alternatives."" He said the stock still deserves its lofty multiple of 10 times 2020 estimates for enterprise value to revenues, as that multiple is well below those of other hot software names like Atlassian Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TEAM, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         which currently trades at 19 times. Shopify shares have climbed 41% in the past three months, as the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 14%. ",0.9258,0.3033
+2019-03-18,https://www.marketwatch.com/story/amazons-stock-surges-above-200-day-moving-average-2019-03-18,Amazon's stock surges above 200-day moving average,0.0,"Shares of Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         rallied 1.9% in afternoon trade Monday, which puts them on track to send a bullish technical signal by closing above the widely followed 200-day moving average (DMA). A close above the 200-DMA, which many chart watchers view as a dividing line between longer-term uptrends and downtrends, would be the third time it has done so over the past 3 1/2 months. The two previous closes above the line, on Jan. 31 and Dec. 3, were followed by quick reversals back below the line the next day. The 200-DMA currently extends to $1,730.20, according to FactSet. The last time it closed above the line for at least 2-straight days was on Nov. 9. Of the other FAANG stocks, shares of Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.32%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         have closed above its 200-DMA since Jan. 30 and Google-parent Alphabet Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has closed above it since March 1, while Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are below their respective 200-DMAs. Microsoft's stock has climbed 12.5% over the past three months, while the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has tacked on 9.3%. In a note to clients Monday, Wells Fargo said Amazon is still gaining retail customers, and they're visiting more frequently, with the company's ""share of wallett"" in the fourth quarter increasing 33% from a year ago.",0.9246,0.2107909090909091
+2019-03-21,https://www.marketwatch.com/story/millions-of-facebook-instagram-passwords-exposed-internally-company-says-2019-03-21,"Millions of Facebook, Instagram passwords exposed internally, company says",-0.0772,"Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         said in a blog post Thursday that millions of users' passwords were stored in a readable format in its internal data storage systems. The company's login systems ""are designed to mask passwords using techniques that make them unreadable,"" and Facebook has fixed the problem, it said. As a precaution, it will notify the users who had passwords stored that way. The passwords were never visible to anyone outside the company and there's no evidence so far that ""anyone internally abused or improperly accessed them,"" Facebook said. It estimated it will notify hundreds of millions of Facebook Lite users, tens of millions of other Facebook users, and tens of thousands of Instagram users, it said. Shares of Facebook rose 0.5% in late trading Thursday, and have lost about 2% in the past 12 months, which contrasts with gains around 5% for the S&P 500 index. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+",-0.7096,-0.03564444444444443
+2019-03-13,https://www.marketwatch.com/story/facebook-data-sharing-being-investigated-by-grand-jury-report-2019-03-13,Facebook data-sharing being investigated by grand jury: report,0.4588,"A grand jury is undertaking a criminal investigation into Facebook Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         data-sharing practices, according to a Wednesday afternoon report. The New York Times reported that a grand jury under the supervision of prosecutors from the Eastern District of New York has subpoenaed records from at least two hardware manufacturers who had data-sharing partnerships with Facebook. The Times reported in June that Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Microsoft Corp. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and more than 100 other companies had deals that provided data on Facebook users including their friends, contact information and other data. Facebook contends that the partnerships were allowed, and told the Times in a statement that the company is cooperating with investigators. The data-sharing deals are also under scrutiny from the Federal Trade Commission and the Securities and Exchange Commission, according to the report. Facebook shares were trading 0.6% lower in after-hours trading Wednesday following the report's publication.",0.7845,0.2359888888888889
+2019-03-18,https://www.marketwatch.com/story/facebooks-stock-drops-after-needham-downgrades-on-worries-of-negative-network-effects-2019-03-18,Facebook's stock drops after Needham downgrades on worries of 'negative network effects',-0.7579,"Shares of Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         dropped 1% in premarket trade Monday, after the social media giant was downgraded at Needham, which cited concerns over growing risks of regulation. Analyst Laura Martin cut her rating to hold, after being at buy for at least the past three years. Martin said she worries about the negative financial effects of the company's pivot toward privacy and encrypted messages, growing risks of regulation, and the negative effects on Facebook's brand from ""horrific images"" that are uploaded, such as the recent New Zealand mass shooting, that are technologically difficult to block. ""Together, we believe these risks are causing a Negative Network Effect, as evidenced by senior management departures,"" Martin wrote in a note to clients. ""Network Effects act as flywheel accelerator for both value creation and value destruction."" The stock has lost 10.3% over the past 12 months, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 2.6%.",-0.9652,-0.14806666666666665
+2019-03-14,https://www.marketwatch.com/story/stock-market-ends-mostly-lower-as-sino-american-trade-worries-keeps-wall-street-buying-appetite-in-check-2019-03-14,Stock market ends mostly lower as Sino-American trade worries keeps Wall Street buying appetite in check,-0.6124,"U.S. stocks edged mostly lower Thursday as declines in communications services, materials and materials offset gains in financials and technology. The Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         however, managed to eke out a modest gain, rising by about 7 points, or less than 0.1%, to finish at 25,710, as a decline in Boeing Co. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    BA, +1.48%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         weighed on the blue-chip index. Meanwhile, the S&P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         lost 0.1% to 2,808, but managed to hold on to a psychologically significant level at 2,800, despite the retreat. On Wednesday, the broad-market index closed at that level for the first time since March 1. The Nasdaq Composite Index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    COMP, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         closed down by about 0.2% at 7,630. All three benchmarks are no track for sharp weekly gains. Still, reports that raised some doubts about progress in Sino-American trade negotiations weighed on Wall Street, keeping the buying mood in check. Bloomberg News reported that a meeting on trade between President Donald Trump and Chinese President Xi Jinping was being pushed back to April rather than later this month. On top of that, sluggish Chinese economic data hurt sentiment to start the session, with official data from Beijing showing that industrial output slowed more than expected in January and February, adding to concerns that the world's second-biggest economy is slowing down. In corporate news, social-media giant Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         saw its shares fall nearly 2%, after the New York Times reported that a grand jury was undertaking a criminal investigation into the social-media platform's data-sharing practices. Meanwhile, the U.K. Parliament voted to request an extension of the March 29 Brexit deadline, as expected. Boeing Co. shares fell 1% as the aviation and defense contractor continued to be buffeted by the worldwide grounding of its 737 Max jet fleet. ",-0.0613,0.03498666666666668
+2019-03-14,https://www.marketwatch.com/story/facebooks-chief-product-officer-whatsapp-head-leaving-amid-privacy-pivot-2019-03-14,Facebook's chief product officer to leave company,-0.0516,"Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Chief Product Officer Chris Cox and the head of the WhatsApp division have decided to leave the company as it focuses on private communications, Chief Executive Mark Zuckerberg announced Thursday afternoon. Chris Cox and VP of WhatsApp Chris Daniels are leaving ""as we organize our company to build out the privacy-focused social platform I discussed in my note last week,"" Zuckerberg wrote in a blog post that published immediately after markets closed Thursday afternoon. Cox will not be replaced officially in the near-term, as a reorganization will have the heads of all the major product teams report to Zuckerberg directly. Will Cathcart will take over as head of WhatsApp and Fidji Simo will take over as head of the Facebook app, Zuckerberg said. Javier Olivan, who worked closely with Cox to manage the entire family of apps, will focus on how the different apps should be integrated, Zuckerberg said. Facebook shares fell 1.8% in immediate after-hours trading following the announcement, after declining 1.9% in the regular session.",0.25,0.10857000000000001
+2019-03-14,https://www.marketwatch.com/story/why-everybodys-face-is-still-buried-in-their-phones-in-one-eye-opening-chart-2019-03-14,"In One Chart: Why everybody’s face is still buried in their phones, in one eye-opening chart",0.0,"As you can see, Netflix usage has more than doubled, smart speakers are flying off the shelves, Instagram is on fire, Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         death has apparently been greatly exaggerated and there’s even been an uptick in emails.",-0.6161,0.11221
+2019-04-05,https://www.marketwatch.com/story/cisco-finds-dozens-of-open-air-groups-peddling-cybercrimes-to-385000-users-on-facebook-2019-04-05,"The Tell: Cisco finds dozens of open-air groups peddling cybercrimes to 385,000 users on Facebook",0.0,"While many may think of cybercriminal markets as being something confined to the so-called “dark web,” Cisco 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    CSCO, -0.44%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         said in a blog post entitled “Hiding in Plain Sight” that it had identified 74 groups on Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         that were peddling “shady (at best) and illegal (at worst) activities” over the past several months",-0.3612,0.09263333333333335
+2019-03-20,https://www.marketwatch.com/story/dad-who-used-250000-worth-of-facebook-shares-to-get-his-daughter-into-ucla-ugh-this-could-be-a-front-page-story-2019-03-20,"Key Words: Dad who used $250,000 worth of Facebook shares to get his daughter into UCLA: Ugh, this could be a front-page story",0.0772,"That quotation was apparently recorded by William “Rick” Singer, the college admissions consultant and central figure in the scandal, when he wore an FBI wire to Isackson’s home in the tony Bay Area suburb of Hillsborough, Calif., according to the Los Angeles Times.",-0.4404,0.03930999999999998
+2019-04-08,https://www.marketwatch.com/story/morally-bankrupt-pathological-liars-at-facebook-cant-be-trusted-warns-new-zealands-privacy-commissioner-2019-04-08,"Key Words: ‘Morally bankrupt pathological liars’ at Facebook can’t be trusted, warns New Zealand’s privacy commissioner",-0.2263,"New Zealand privacy commissioner John Edwards didn’t hold back when he lashed out at Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         over the weekend:",0.0,-0.03332857142857144
+2019-03-19,https://www.marketwatch.com/story/trump-already-blitzing-facebook-google-with-ads-as-democrats-struggle-to-catch-up-2019-03-19,"Capitol Report: Trump already blitzing Facebook, Google with ads as Democrats struggle to catch up",-0.3182,"About three-quarters of the campaign’s social-media spending has been directed toward 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         because of its broader reach. Nearly 70% of Americans engage on Facebook and the company has roughly 210 million users in the U.S., according to the webstite Hootsuite. ",0.3612,-0.03321111111111111
+2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.1779,"Executives at Snap 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SNAP, +0.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         showed off enhancements to the company’s augmented-reality, gaming, and content categories during Thursday’s event, as Snap looks to drive engagement on its platform and compete with Facebook Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Instagram, which has copied some of its most popular features. Snap has struggled to grow users on Snapchat since its 2017 IPO, posting flat sequential growth in the December quarter after two periods of declines. ",0.7425,0.36632727272727267
+2019-03-18,https://www.marketwatch.com/story/facebook-stock-falls-as-worry-of-negative-network-effects-prompts-downgrade-2019-03-18,The Ratings Game: Facebook stock falls as worry of ‘negative network effects’ prompts downgrade,-0.4404,"The stock
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        slumped 3.6% in afternoon trade, and has lost 7.7% since closing at a 6 1/2-month high of $173.37 on March 13.",-0.3182,-0.24711666666666673
+2019-03-18,https://www.marketwatch.com/story/monica-lewinsky-bill-clinton-didnt-have-to-change-his-name-2019-03-18,Key Words: Monica Lewinsky: ‘Bill Clinton didn’t have to change his name’,0.0,"But Lewinsky also said there may have been an upside to Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Twitter existing in 1998 when her relationship with Clinton became public. “I might have heard some support from some people,” she said. “It would have been more balanced.”",0.4019,-0.08209999999999999
+2019-04-05,https://www.marketwatch.com/story/we-need-a-new-bill-of-rights-to-protect-us-from-algorithms-wharton-professor-says-2019-04-05,"We need a new Bill of Rights to protect us from algorithms, Wharton professor says",0.3818,"“It can be as limited and straightforward as giving a Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        user the power to flag a news post as potentially false,” he said. “It can be as dramatic and significant as letting a passenger intervene when he is not satisfied with the choices a driverless car appears to be making.”",-0.0083,0.02615
+2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.4215,"• As the chart shows, smart money flows — those from professional investors — are very positive in only two popular tech stocks: Alibaba 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    BABA, -0.95%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+",0.8553,0.2939487179487179
+2019-04-04,https://www.marketwatch.com/story/prince-harry-fortnite-is-an-addiction-that-shouldnt-be-allowed-2019-04-04,Key Words: Prince Harry: Fortnite is an ‘addiction’ that ‘shouldn’t be allowed’,0.0,"But many parents and healthcare professionals are concerned about the game’s hold on children. NBC reported that dozens of “Fortnite” support groups for parents venting about their kids’ obsession with the game have sprung up on Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+",0.0772,0.09150000000000001
+2019-03-19,https://www.marketwatch.com/story/apple-wants-to-change-the-way-you-watch-sports-2019-03-19,Apple wants to change the way you watch sports,0.0,"Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          is expected to unveil its highly anticipated streaming-video service next week. But while streaming rivals such as Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         have started offering live sports, that doesn’t seem to be the direction Apple is headed.",0.0,0.13685
+2019-04-03,https://www.marketwatch.com/story/these-are-the-companies-where-people-most-want-to-work-according-to-linkedin-2019-04-03,"These are the companies at which people most want to work, according to LinkedIn",0.1513,"Not far behind: Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , which ranked second, Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          in third and Salesforce 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    CRM, -0.21%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in fourth.",0.1779,0.13242
+2019-04-03,https://www.marketwatch.com/story/the-abuse-of-artificial-intelligence-means-we-all-need-to-be-fact-checkers-2019-04-03,Your Digital Self: The abuse of artificial intelligence means we all need to be fact-checkers,-0.2732,"Twitter 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.63%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Microsoft 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and similar technology companies possess copious amounts of data on every individual using their services. Until not too long ago, this info was difficult to use, simply because of its sheer size and complexity. Human analysts would need years and thousands of working hours to define, detect and follow complex trends that the data point out. By that time, new trends would have formed, and researchers would have wasted their time. ",-0.6908,0.020486363636363636
+2019-04-06,https://www.marketwatch.com/story/maybe-your-teens-snapchat-obsession-isnt-so-harmful-after-all-2019-04-06,Maybe your teen’s Snapchat obsession isn’t so harmful after all,-0.34,"The research team analyzed data from more than 17,000 adolescents from the U.S., the U.K. and Ireland, using both self-reported measures and time-use diaries to get a more accurate picture of how much time each teen spent on a screen each day, as well as what they were doing on them, such as playing video games, chatting and texting with friends, sending emails or browsing the internet, scrolling through social media sites like Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Twitter 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.57%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Snapchat 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SNAP, +0.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         ; and watching TV, films, videos or DVDs. (In comparison, many screen-time studies rely on self-reported digital technology use, which is only accurate about one-third of the time, as 42% of subjects overestimate their usage, and 26% underestimate it.)",0.743,0.03397297297297298
+2019-03-15,https://www.marketwatch.com/story/weekend-roundup-bad-times-for-boeing-more-about-the-college-admissions-scam-the-worlds-favorite-cities-2019-03-15,Top Ten: Weekend roundup: Bad times for Boeing | More about the college admissions scam | The world’s favorite cities,-0.5267,"A grand jury is reviewing the Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+data-sharing practices, and CEO Mark Zuckerberg is reorganizing his executive team. Here are five things Facebook needs to change now to restore confidence, according to security experts. ",0.872,0.014412499999999991
+2019-03-26,https://www.marketwatch.com/story/a-scenario-for-new-us-stock-market-highs-is-developing-2019-03-26,A scenario for new U.S. stock-market highs is developing,0.0,"• Large-cap tech stocks such as Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Microsoft 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are also acting like they want to go higher and take the stock market to new highs.",0.5423,0.15657234042553195
+2019-03-20,https://www.marketwatch.com/story/supreme-court-sends-consumers-suing-google-over-privacy-issues-back-to-court-2019-03-20,Supreme Court sends consumers suing Google over privacy issues back to court,0.3612,"Standing to even sue is a critical legal hurdle that shows up again and again. Last week, Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         made standing a key part of its defense against users who said they were wronged by the social media platform in the Cambridge Analytica scandal. Because the users allegedly couldn’t show how they were actually hurt in the massive information-sharing fiasco, they lacked a leg to stand on, Facebook contended. ",-0.9153,0.01613793103448277
+2019-03-25,https://www.marketwatch.com/story/why-facial-discrimination-against-older-workers-is-robbing-millennials-of-valuable-life-skills-2019-03-25,Outside the Box: Why ‘facial discrimination’ against older workers is robbing millennials of valuable life skills,0.4767,"“Facial discrimination” may be quickly catching up with racial discrimination as a well-known societal ill. Last year, the Communication Workers of America union expanded the scope of the class action suit they filed against some of the country’s largest employers — a diverse list of companies that included Amazon.com
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , T-Mobile 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TMUS, -0.30%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Capital One Financial 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    COF, +0.89%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Enterprise Rent-a-Car — accused of deliberately targeting their Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         ads to exclude older workers. Coming on the heels of ProPublica’s investigation that IBM 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    IBM, +0.34%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has quietly pushed out upwards of 20,000 aging workers over the past five years, the lesson is clear: age discrimination remains the last socially acceptable bias in our society.",-0.34,0.1468051282051282
+2019-03-18,https://www.marketwatch.com/story/facebook-defends-itself-in-cambridge-analytica-consumer-class-action-case-2019-03-18,Facebook defends itself in Cambridge Analytica consumer class-action case,0.0,"None of the users were saying they were subjected to anything of the sort, Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          maintained — “no actionable identity theft, emotional distress, or economic injury.” Any “targeted advertising” didn’t count. Without real harm, the users didn’t have a legal leg to stand on, the company claimed. ",0.1406,0.04535333333333334
+2019-03-19,https://www.marketwatch.com/story/how-99-cent-cans-of-arizona-iced-tea-became-cheaper-than-bottled-water-2019-03-19,How 99-cent cans of Arizona Iced Tea became cheaper than bottled water,0.0,"“We’re very active in social media. That’s our largest tool to speak to the younger consumer,” Vultaggio says. The brand has 180,000 followers on Instagram 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         where it showcases the company’s signature turquoise cans around the world. Its competitor Lipton Ices Tea has 49,000 followers. ",0.4576,0.13294883720930237
+2019-03-12,https://www.marketwatch.com/story/facebook-temporarily-deletes-elizabeth-warrens-ads-that-said-it-abuses-its-power-2019-03-11,MarketWatch.com: Facebook temporarily deletes Elizabeth Warren’s ads that said it abuses its power,-0.5574,"The Massachusetts Democrat and presidential candidate has called for splitting up big tech companies and reversing some acquisitions, saying Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.29%
+GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          Google and Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          have gotten so big that they stifle competition.",0.0,0.08671250000000001
+2019-03-12,https://www.marketwatch.com/story/charting-a-bullish-reversal-sp-500-spikes-from-major-support-2742-2019-03-12-121035211,"The Technical Indicator: Charting a bullish reversal, S&P 500 spikes from major support (2,742)",0.4019,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.15932688172043005
+2019-04-09,https://www.marketwatch.com/story/charting-the-sp-500s-approach-of-the-2900-mark-2019-04-09-121032837,"The Technical Indicator: Charting the S&P 500’s approach of the 2,900 mark",0.0,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.13817575757575754
+2019-03-26,https://www.marketwatch.com/story/apple-new-streaming-platform-will-respect-your-privacy-2019-03-26,Associated Press: Apple: new streaming platform will respect your privacy,0.4767,"Its new services will pit the company against the likes of Google
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in news, and Amazon
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Netflix
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.30%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          in streaming video.",0.5423,0.26924444444444445
+2019-04-04,https://www.marketwatch.com/story/facebook-still-not-doing-enough-to-prevent-ethnic-hate-in-myanmar-un-investigator-says-2019-04-03,"Facebook still not doing enough to prevent ethnic hate in Myanmar, U.N. investigator says",-0.5574,"In February, Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         banned four groups in Myanmar designated as “dangerous organizations” that it said were inflaming ethnic tensions.",-0.6908,-0.1979
+2019-03-14,https://www.marketwatch.com/story/sorry-but-that-1100-standing-desk-wont-make-you-thinner-2019-03-14,": Sorry, but that $1,100 standing desk won’t make you thinner",-0.0387,"Still, more and more workplaces are adopting standing desks. While it’s nothing new — Charles Dickens, Thomas Jefferson, Winston Churchill and Ernest Hemingway all reportedly wrote while standing up — there’s been a rise in standing desks over the past decade. As workplaces have become more focused on employee wellness, and the dangers of sitting for long periods — even if you exercise — have become more widely recognized, companies like Microsoft 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Alphabet’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.27%
+GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          Google have provided adjustable desks for workers to sit or stand at. In fact, Apple’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          Tim Cook announced last year that all 12,000 employees at the iPhone maker’s new Apple Park headquarters would be given standing desks. ",0.624,0.17256333333333343
+2019-03-21,https://www.marketwatch.com/story/facebook-admits-new-zealand-shooting-video-reveals-gaps-in-its-ai-but-pushes-back-on-time-delay-policy-2019-03-21,Facebook admits New Zealand shooting video reveals gaps in its AI but pushes back on time-delay policy,0.1531,"Guy Rosen, Facebook’s
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          vice president for integrity, said in comments posted late Wednesday that the company’s artificial intelligence tools initially failed to catch the shooter’s live video of the terrorist attack Christchurch mosques last week that killed 50 people.",-0.8979,-0.15742727272727272
+2019-03-13,https://www.marketwatch.com/story/facebook-lifts-ban-on-zero-hedge-articles-after-mistake-2019-03-12,Facebook lifts ban on Zero Hedge articles after ‘mistake’,-0.5574,"Shares of Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          are up 31% year to date, compared to the S&P 500’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          11% gain.",0.6808,-0.15516875
+2019-04-01,https://www.marketwatch.com/story/pay-attention-to-the-stock-markets-golden-cross-but-not-for-the-reason-you-may-read-about-2019-04-01,Pay attention to the stock market’s golden cross but not for the reason you may read about,-0.0516,"At this time, investors may also want to be on the lookout for a variety of crosses on popular stocks such as Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, -0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.01%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and AMD 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMD, -0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         for confirmation of crosses on indices. ",0.5859,0.11185
+2019-03-10,https://www.marketwatch.com/story/elizabeth-warren-wants-to-break-up-apple-too-2019-03-10,"Key Words: Elizabeth Warren wants to break up Apple, too",0.0,"When the Massachusetts Democrat and presidential candidate laid out her plan Friday to break up big tech companies that she said stifle competition, she focused on Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.27%
+GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google and Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         — but did not mention Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         . On Saturday, however, she made it clear that the iPhone maker was in her cross-hairs as well.",0.7814,0.08791764705882353
+2019-04-08,https://www.marketwatch.com/story/all-eyes-are-on-company-earnings-as-the-stock-market-has-overshot-to-the-upside-2019-04-08,MarketWatch.com: All eyes are on company earnings as the stock market has overshot to the upside,0.0,"• Technical patterns of popular stocks such as AMD 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMD, -0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, -0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.00%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are such that they indicate the market is likely to rise. However, no one should exclusively rely on technical patterns, as they do not always work.",0.3182,0.12086530612244899
+2019-03-18,https://www.marketwatch.com/story/parents-can-spend-47000-or-more-per-year-to-help-their-children-apply-to-college-2019-03-18,"Parents can spend $47,000 or more per year to help their children apply to college",0.4019,"The reasons why parents are so willing to spend money on sports and other extracurricular activities are varied, said Dara Luber, senior manager of retirement at TD Ameritrade. There may be an interest in bragging on Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         or Twitter 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TWTR, -0.64%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         about a child’s home run or, more practically, they believe their investment will pay off. ",0.3818,0.363075
+2019-03-11,https://www.marketwatch.com/story/j-los-engagement-ring-is-reportedly-worth-1-million-is-it-time-to-ditch-the-diamond-2019-03-11,J-Lo’s engagement ring is reportedly worth $1 million — is it time to ditch the diamond?,0.743,"Singer Jennifer Lopez and Alex Rodriguez, the former professional baseball player, announced their engagement over the weekend, and Lopez showed off her square-cut diamond engagement ring on Instagram 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to her 88.5 million followers. Lifestyle magazines have been asking jewelers to pitch their estimates on how much the ring might be worth. Assuming the ring is 15 carats, colorless and of pristine clarity, it could be worth $1.4 million, one jeweler told Cosmopolitan. Others speculate that the ring could be valued at multiples of that. ",0.9413,0.40684324324324317
+2019-03-25,https://www.marketwatch.com/story/the-left-is-a-bigger-threat-to-america-than-china-2019-03-25,The Left is a bigger threat to America than China,-0.5267,"As for mandatory compliance with “Left Think”—that is now open sourced to the pervasive monitoring of Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and the incessant demands of the media that anyone violating their “values” be denied employment. ",-0.7269,0.0238548387096774
+2019-03-29,https://www.marketwatch.com/story/with-lyft-offering-the-ipo-casino-is-now-open-2019-03-28,"With Lyft offering, the IPO casino is now open",0.0,"Granted, Lyft’s founders do not appear to be as omnipotent as Mark Zuckerberg is at Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         where the co-founder and CEO still controls about 60% of the votes, or Snap Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SNAP, +0.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , where co-founder Evan Spiegel and other executives control 96.4% of the vote. (The developer of the Snapchat app last year held a three-minute annual meeting for investors.) ",0.25,0.27848484848484845
+2019-03-13,https://www.marketwatch.com/story/if-youre-tracking-the-sp-500-instead-of-this-fund-youre-leaving-money-on-the-table-2019-03-13,"If you’re tracking the S&P 500 instead of this fund, you’re leaving money on the table",0.0,"The FAANG group includes Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, +0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.20%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Google holding company Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.24%
+GOOGL, +0.28%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Those companies make up 16% of the S&P 500 and 45% of QQQ.",0.1779,0.18564242424242428
+2019-04-08,https://www.marketwatch.com/story/you-dont-need-a-4-year-college-degree-for-these-high-paying-jobs-at-google-apple-netflix-2019-04-08,"You don’t need a 4-year college degree for these high-paying jobs at Google, Apple, Netflix",0.0,"Well, at least sometimes. New data from millions of users and job listings from career networking site LinkedIn shows that many top companies including Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.23%
+AAPL, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          Airbnb, Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.24%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Oracle 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    ORCL, -0.70%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and others all have high-paying, in-demand jobs where a four-year degree isn’t required.",0.4404,0.2233117647058824
+2019-04-03,https://www.marketwatch.com/story/facebook-sets-its-sights-on-housing-should-zillow-be-worried-2019-04-03,Facebook sets its sights on housing. Should Zillow be worried?,-0.296,"But there was a nugget of far greater interest to members of a certain industry in another point. “We’re building a tool so you can search for and view all current housing ads in the U.S. targeted to different places across the country, regardless of whether the ads are shown to you,” said Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+",0.765,0.12020000000000002
+2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,-0.2023,"• Google is not alone. Ultimately expect Microsoft, Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.04%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Sony, Verizon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    VZ, +0.05%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and AT&T 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    T, +0.75%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to jump into the business of game streaming. Will AMD face competition? ",0.3485,0.06796119402985076
+2019-03-22,https://www.marketwatch.com/story/to-fix-the-tech-industry-learn-from-how-we-treat-the-car-industry-2019-03-22,"To fix the tech industry, learn from how we treat the car industry",0.4019,"This business model is enormously profitable, so it’s unlikely internet companies will abandon it on their own as a result of ethical qualms. Even in the face of blistering critiques and Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.13%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Cambridge Analytica scandal, the massive profits are compelling.",0.6697,0.18127804878048778
+2019-03-19,https://www.marketwatch.com/story/lets-stop-bashing-billionaires-they-are-making-our-lives-better-2019-03-19,Let’s stop bashing billionaires — they are making our lives better,0.1779,"Leftists seem to have a cartoonish idea of wealth, like it is a static pile of gold in Scrooge McDuck’s vault. But wealth is simply savings, which is channeled into investments throughout the economy. Many billionaires pump their wealth into angel investment and venture capital, which together feed more than $100 billion a year to promising growth companies. Jeff Bezos, for example, uses his Amazon wealth to invest in biotechnology, aerospace, health care, renewable energy, media, and many other activities. And Peter Thiel, after co-founding PayPal has used his growing wealth to provide early capital to an endless series of technology firms including Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Airbnb, SpaceX, Spotify 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPOT, -0.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Palantir and Lyft
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    LYFT, +2.33%
+",0.9826,0.4313475000000001
+2019-03-21,https://www.marketwatch.com/story/apple-stock-boosted-by-strong-buy-call-ahead-of-special-press-event-2019-03-21,Apple stock boosted by ‘strong buy’ call ahead of special press event,0.6369,"The good news is that ecosystem companies can only be unseated by other ecosystem companies, Martin said. The bad news is, the most successful ecosystem companies in the world are the FAANGs, which are Facebook Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple, Amazon.com Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Netflix Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Google-parent Alphabet Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.27%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and the FAANGs are increasingly getting into each others’ businesses.",0.5413,0.2586035714285715
+2019-03-28,https://www.marketwatch.com/story/these-investors-are-the-big-winners-from-lyft-and-other-unicorn-ipos-2019-03-28,These investors are the big winners from Lyft and other unicorn IPOs,0.4767,"While we’re on the subject of valuation, you can’t value these money pits — sorry, companies — at multiples of earnings, because there ain’t any. Even their price-to-sales ratios are as rich as Black Forest cake. At a $25-billion market capitalization, Lyft would trade at 12x revenues, much higher than Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         current nine times sales, but Facebook, for all its problems, reported net income of $22 billion last year.",-0.1779,0.05773333333333335
+2019-03-14,https://www.marketwatch.com/story/why-some-investors-say-tech-stocks-are-becoming-less-risky-2019-03-14,Why some investors say tech stocks are becoming less risky,-0.1298,"But according to some investors and analysts, market participants are beginning to re-evaluate just how cyclical the information technology sector remains, following changes last year to the widely used Global Industry Classification Standard—which removed highflying growth companies like Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         from the info tech sector — and changing business models in the software industry. ",0.6249,0.05617272727272727
+2019-03-26,https://www.marketwatch.com/story/snakebit-newspaper-publishers-skeptical-of-apples-news-2019-03-26,Associated Press: Snakebit newspaper publishers skeptical of Apple’s News+,-0.3182,"More people are getting news through technology platforms such as Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         . Still, publishers want readers to care about news brands and pay for news and events. For that, they need more control over how they interact with readers. Many publishers want to build their own sites and customer base rather than be at the whim of giant technology companies.",0.5267,0.16017727272727275
+2019-03-13,https://www.marketwatch.com/story/apple-amazon-google-facebook-cast-in-europe-as-harmful-monopolies-2019-03-13,"Associated Press: Apple, Amazon, Google, Facebook cast in Europe as harmful monopolies",0.1779,"That high-profile missive further emboldened long-time critics such as U.S. Labor Secretary Robert Reich, now a professor of public policy at the University of California, Berkeley. He likens Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    US:FB
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Alphabet’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    US:GOOGL
+US:GOOG
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          Google and Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    US:AMZN
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          to “robber barons” that built vast business empires on innovations in the late 19th century, an era that became known as the Gilded Era.",-0.128,0.18452000000000002
+2019-03-27,https://www.marketwatch.com/story/eu-lawmakers-approve-online-copyright-bill-targeting-us-tech-giants-2019-03-26,Associated Press: EU lawmakers approve online copyright bill targeting U.S. tech giants,0.0,"The directive largely updates existing copyright law. If enacted, companies such as Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Google parent company Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.27%
+GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          likely would have to pay European artists more and do more to keep work that appears online from being used without permission.",-0.1027,0.11482307692307693
+2019-04-05,https://www.marketwatch.com/story/a-little-known-risk-to-apple-is-5g-cellular-technology-2019-04-05,MarketWatch.com: A little-known risk to Apple is 5G cellular technology,-0.2732,"No immediate action is needed. For the time being, we are staying bullish on Apple. This is simply a call to be alert in the future. Astute investors tend to appreciate the risks in Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+GOOGL, +0.27%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stocks, but tend to be oblivious to new risks to Apple stock.",-0.25,0.014290410958904105
+2019-03-13,https://www.marketwatch.com/story/how-your-internet-surfing-could-make-you-money-in-the-coming-blockchain-revolution-2019-03-13,Outside the Box: How your internet surfing could make you money in the coming blockchain revolution,0.0,"Don’t be surprised if companies such as Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          make this happen. They can see a trend before it picks up steam. They may do this themselves or buy companies that do. Facebook recently announced that it will begin to move toward such a scenario.",0.2263,0.04407380952380953
+2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.3818,"• Pay attention to smart money flows in stocks such as Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.14%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Microsoft 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+GOOGL, +0.27%
+",0.4588,0.171821568627451
+2019-03-15,https://www.marketwatch.com/story/these-red-flags-will-tell-you-when-its-time-to-sell-the-stock-rally-bank-of-america-merrill-lynch-2019-03-15,Need to Know: These red flags will tell you when it’s time to sell the stock rally: Bank of America Merrill Lynch,0.0,"Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        is under pressure after the sudden exits of Chief Product Officer Chris Cox and Chris Daniels, head of WhatsApp.",-0.296,-0.020606250000000003
+2019-03-28,https://www.marketwatch.com/story/facebook-amazon-other-internet-giants-are-weathering-washingtons-body-blows-2019-03-28,"Facebook, Amazon, other internet giants are weathering Washington’s body blows",0.1779,"While this period of Facebook’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         tar and feathering is often compared to Microsoft’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MSFT, +0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         antitrust years, the scrutiny Facebook faces seems far worse. The sins and the prosecutors are more diverse, and the ramifications threaten the other internet giants as well. Below are some of the biggest threats Facebook and other social media companies face:",-0.8555,-0.017490123456790126
+2019-03-28,https://www.marketwatch.com/story/stocks-set-to-rally-as-investors-shift-from-safe-haven-bonds-says-barclays-2019-03-28,"Stock market bulls, your ‘flight to safety’ rally is coming, says Barclays",0.0,"The U.S. Department of Housing and Urban Development says Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         violated the Fair Housing Act by “encouraging, enabling and causing” discrimination by restricting viewers of housing-market ads on its platform. ",-0.5719,-0.002979104477611943
+2019-03-12,https://www.marketwatch.com/story/why-investors-cant-count-on-apple-and-facebook-to-carry-this-stock-market-higher-2019-03-12,Why investors can’t count on Apple and Facebook to carry this stock market higher - MarketWatch,0.0,"The Nasdaq had its best day since January on Monday, with big gains for Apple
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and Facebook
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , both of which benefited from analyst upgrades (read about that here and here). And chipping in, so to speak, was Nvidia
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NVDA, -0.29%
+NVDA, -0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , which rallied on news of a $6.9 billion deal for rival Mellanox
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    MLNX, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         .",0.765,0.04060943396226415
+2019-03-27,https://www.marketwatch.com/story/big-tech-after-years-of-manipulating-us-is-now-being-surveilled-2019-03-27,"Big Tech, after years of manipulating us, is now being surveilled",-0.3612,"The central economic disasters of this period — the 2008 global financial crisis and consequent “Great Recession” — were driven by the proliferation of digital securities and the illusion that digital programs could measure and manage their attendant risks. And the social environment in which individuals consume information and execute transactions has been reconstructed according to the terms set by Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+GOOGL, +0.27%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.15%
+",-0.7845,0.11717087378640775

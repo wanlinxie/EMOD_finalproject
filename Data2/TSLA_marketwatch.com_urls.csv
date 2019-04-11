@@ -1,65 +1,2186 @@
-dates,url,title,scores
-2019-03-25,https://www.marketwatch.com/story/tesla-raising-prices-on-inventory-cars-by-about-3-elon-musk-says-2019-03-24,"Tesla raising prices on inventory cars by about 3%, Elon Musk says",0.08067692307692308
-2019-04-03,https://www.marketwatch.com/story/teslas-investor-day-to-focus-on-autopilot-2019-04-03,Tesla’s investor day to focus on Autopilot,0.06540000000000001
-2019-04-03,https://www.marketwatch.com/story/chicago-becomes-first-big-american-city-to-achieve-carbon-neutral-investment-portfolio-2019-04-03,The Wall Street Journal: Chicago becomes first big American city to achieve carbon-neutral investment portfolio,0.09831666666666668
-2019-03-29,https://www.marketwatch.com/story/tesla-stock-headed-for-worst-month-in-a-year-2019-03-29,Tesla stock headed for worst month in a year,-0.036960000000000014
-2019-03-15,https://www.marketwatch.com/story/teslas-elon-musk-unveils-model-y-crossover-with-47000-price-tag-2019-03-15,"Tesla’s Elon Musk unveils Model Y crossover, with $47,000 price tag",0.211135
-2019-03-12,https://www.marketwatch.com/story/elon-musks-lawyers-say-sec-is-overreaching-in-seeking-contempt-ruling-2019-03-11,Elon Musk’s lawyers say SEC is overreaching in seeking contempt ruling,-0.07663157894736841
-2019-03-25,https://www.marketwatch.com/story/tesla-stock-price-deliveries-dialed-down-yet-again-2019-03-25,"The Ratings Game: Tesla stock price, deliveries dialed down yet again",0.06922105263157896
-2019-03-12,https://www.marketwatch.com/story/las-vegas-gives-green-light-for-plan-to-build-elon-musks-underground-loop-2019-03-12,Las Vegas gives green light for plan to build Elon Musk’s underground loop,-0.09441578947368422
-2019-03-21,https://www.marketwatch.com/story/elon-musk-reportedly-calls-on-all-tesla-workers-to-help-with-end-of-quarter-delivery-crush-2019-03-21,Elon Musk reportedly calls on all Tesla workers to help with end-of-quarter delivery crush,0.26532500000000003
-2019-04-08,https://www.marketwatch.com/story/investor-concerns-for-teslas-stock-could-start-weighing-on-its-business-analyst-warns-2019-04-08,"The Ratings Game: Investor concerns for Tesla’s stock could start weighing on its business, analyst warns",0.020971428571428564
-2019-04-01,https://www.marketwatch.com/story/could-elon-musks-rap-song-actually-be-good-news-about-teslas-quarterly-deliveries-2019-03-31,Could Elon Musk’s rap song actually be good news about Tesla’s quarterly deliveries?,0.016096153846153843
-2019-03-18,https://www.marketwatch.com/story/sec-shreds-elon-musks-contempt-defense-says-hes-ignoring-court-order-2019-03-18,"SEC shreds Elon Musk’s contempt defense, says he’s ignoring court order",-0.1029391304347826
-2019-03-13,https://www.marketwatch.com/story/tesla-to-offer-first-look-at-model-y-amid-worries-about-demand-margins-2019-03-13,"Tesla to offer first look at Model Y amid worries about demand, margins",0.0781
-2019-04-02,https://www.marketwatch.com/story/teslas-mega-fast-model-s-finally-has-a-challenger-the-porsche-taycan-2019-04-02,Your Digital Self: Tesla’s mega-fast Model S finally has a challenger: the Porsche Taycan,0.13908684210526318
-2019-04-04,https://www.marketwatch.com/story/tesla-stock-roiled-by-ugly-delivery-numbers-2019-04-04,Tesla stock roiled by ‘ugly’ delivery numbers,-0.11528333333333335
-2019-04-05,https://www.marketwatch.com/story/the-jobs-report-nails-it-its-a-slowdown-not-a-recession-2019-04-05,"Tim Mullaney: The jobs report nails it: It’s a slowdown, not a recession",0.15599411764705884
-2019-03-13,https://www.marketwatch.com/story/how-teslas-model-y-has-the-potential-to-save-the-world-2019-03-13,How Tesla’s Model Y has the potential to save the world,0.0563
-2019-04-10,https://www.marketwatch.com/story/this-italian-made-hand-built-electric-car-has-1900-horsepower-and-is-faster-than-a-formula-1-car-2019-04-10,"Your Digital Self: This Italian-made, hand-built electric car has 1,900 horsepower and is faster than a Formula 1 car",0.1521151515151515
-2019-04-10,https://www.marketwatch.com/story/stick-with-tech-stocks-or-miss-some-big-gains-says-this-analyst-2019-04-10,"Need to Know: Stick with tech stocks or miss some big gains, says this analyst",0.02043050847457627
-2019-04-04,https://www.marketwatch.com/story/buy-dollars-even-if-stocks-keep-rising-says-goldman-alumnus-who-predicted-the-financial-crisis-2019-04-04,"Need to Know: Buy dollars even if stocks keep rising, says Goldman alumnus who predicted the financial crisis",-0.044554166666666666
-2019-03-11,https://www.marketwatch.com/story/an-unwholesome-appetite-for-stocks-could-spoil-this-fairytale-strategist-warns-2019-03-11,"Need to Know: An ‘unwholesome appetite’ for stocks could spoil this fairytale, strategist warns",-0.0009223880597014863
-2019-04-01,https://www.marketwatch.com/story/ubs-economist-china-sentiment-data-isnt-real-this-is-what-matters-for-investors-2019-04-01,Need to Know: UBS economist: China sentiment data isn’t ‘real’; this is what matters for investors,0.05420344827586206
-2019-03-27,https://www.marketwatch.com/story/a-return-of-inflation-could-turn-markets-on-their-head-warns-northern-trust-2019-03-27,"Need to Know: A return of inflation could turn markets on their head, warns Northern Trust",0.011304255319148923
-2019-03-11,https://www.marketwatch.com/story/forget-elon-musks-marijuana-smoking-security-clearance-troubles-just-investing-in-cannabis-stocks-can-cause-you-problems-2019-03-11,Cannabis Watch: Forget Elon Musk’s marijuana-smoking security-clearance troubles — just investing in cannabis stocks can cause you problems,0.08081875000000001
-2019-03-14,https://www.marketwatch.com/story/stock-bear-who-predicted-last-recession-says-this-is-how-investors-can-get-ready-for-the-next-2019-03-14,Need to Know: Stock bear who predicted last recession says this is how investors can get ready for the next,-0.12608135593220335
-2019-03-27,https://www.marketwatch.com/story/elon-musk-promises-chance-for-some-tesla-stores-report-2019-03-27,Elon Musk promises chance for some Tesla stores: report,0.27268
-2019-04-04,https://www.marketwatch.com/story/judge-orders-sec-musk-to-try-to-resolve-dispute-over-ceos-tweets-2019-04-04,"Judge orders SEC, Musk to try to resolve dispute over CEO's tweets",0.05727142857142858
-2019-03-19,https://www.marketwatch.com/story/tesla-delays-price-increase-to-wednesday-after-unusually-high-volume-2019-03-19,Tesla delays price increase to Wednesday after 'unusually high volume',0.2154125
-2019-04-04,https://www.marketwatch.com/story/tesla-falls-short-of-expectations-for-first-quarter-deliveries-2019-04-03,Tesla falls short of expectations for first-quarter deliveries,0.12748571428571429
-2019-04-02,https://www.marketwatch.com/story/nio-shares-gain-after-first-quarter-deliveries-top-forecast-2019-04-02,Nio shares gain after first-quarter deliveries top forecast,0.20363750000000003
-2019-03-26,https://www.marketwatch.com/story/elon-musk-sec-to-square-off-in-contempt-hearing-april-4-2019-03-26,"Elon Musk, SEC to square off in contempt hearing April 4",-0.14330000000000004
-2019-03-22,https://www.marketwatch.com/story/teslas-price-target-lowered-at-cowen-on-expectation-of-softer-deliveries-2019-03-22,Tesla's price target lowered at Cowen on expectation of softer deliveries,-0.03294285714285713
-2019-03-14,https://www.marketwatch.com/story/tesla-names-new-cfo-chief-accounting-officer-stock-gains-2019-03-14,"Tesla names new CFO, chief accounting officer; stock gains",0.22532000000000002
-2019-04-04,https://www.marketwatch.com/story/dow-logs-triple-digit-gain-as-trade-talks-remain-in-spotlight-2019-04-04,Dow logs triple-digit gain as trade talks remain in spotlight,0.17917
-2019-03-29,https://www.marketwatch.com/story/teslas-price-target-model-3-expectations-cut-at-deutsche-bank-2019-03-29,"Tesla's price target, Model 3 expectations cut at Deutsche Bank",0.09674
-2019-04-08,https://www.marketwatch.com/story/tesla-stock-price-target-slashed-to-400-from-450-at-jefferies-after-q1-miss-2019-04-08,Tesla stock price target slashed to $400 from. $450 at Jefferies after Q1 miss,-0.08020000000000004
-2019-03-25,https://www.marketwatch.com/story/tesla-stock-falls-as-concerns-over-softer-sales-increase-after-nyt-report-2019-03-25,Tesla stock falls as concerns over softer sales increase after NYT report,0.11046666666666666
-2019-03-11,https://www.marketwatch.com/story/tesla-says-it-will-keep-more-stores-open-but-most-car-prices-will-go-up-3-2019-03-11,"Tesla says it will keep more stores open, but most car prices will go up 3%",0.009575000000000009
-2019-03-15,https://www.marketwatch.com/story/teslas-creditworthiness-still-strained-moodys-says-2019-03-15,"Tesla's creditworthiness still ""strained,"" Moody's says",0.11303333333333335
-2019-03-14,https://www.marketwatch.com/story/teslas-model-y-sales-goals-aggressive-analyst-says-2019-03-14,"Tesla's Model Y sales goals 'aggressive,' analyst says",0.1489375
-2019-03-14,https://www.marketwatch.com/story/kimbal-musk-leaves-chipotle-board-2019-03-14,Kimbal Musk leaves Chipotle board,0.20628571428571427
-2019-03-29,https://www.marketwatch.com/story/jp-morgan-gets-more-bearish-on-teslas-stock-on-concerns-over-model-3-delivery-delays-2019-03-29,"Tesla's Model 3 delivery delay prompts bearish note, share-target cut",0.030118181818181836
-2019-04-09,https://www.marketwatch.com/story/tesla-is-like-apple-and-salesforce-but-dont-buy-the-stock-right-now-analyst-says-2019-04-09,"The Ratings Game: Tesla is like Apple and Salesforce, but don’t buy the stock right now, analyst says",0.12275714285714287
-2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.2939487179487179
-2019-03-22,https://www.marketwatch.com/story/why-investors-need-to-shift-from-wall-street-to-this-growth-haven-2019-03-22,Need to Know: Why investors need to shift from Wall Street to this growth haven,0.07027619047619048
-2019-04-05,https://www.marketwatch.com/story/why-amazon-will-triple-to-5000-a-share-according-to-this-hedge-fund-manager-2019-04-05,"Need to Know: Why Amazon will triple to $5,000 a share, according to this hedge fund manager",0.2062177777777777
-2019-03-25,https://www.marketwatch.com/story/mueller-aside-why-stocks-could-be-about-to-deliver-explosive-gains-2019-03-25,"Need to Know: Mueller aside, why stocks could be about to deliver explosive gains",0.046816129032258055
-2019-03-22,https://www.marketwatch.com/story/tesla-revives-popular-customer-referral-program-2019-03-21,Tesla revives popular customer-referral program,0.5499285714285714
-2019-04-04,https://www.marketwatch.com/story/spacex-test-fires-engine-on-massive-new-starship-for-first-time-2019-04-03,SpaceX test-fires engine on massive new Starship for first time,0.07188
-2019-03-29,https://www.marketwatch.com/story/tesla-stock-headed-for-worst-month-in-a-year-2019-03-29,Tesla stock headed for worst month in a year,-0.036960000000000014
-2019-04-04,https://www.marketwatch.com/story/tesla-delivers-fewer-vehicles-than-expected-in-first-quarter-2019-04-03,Tesla delivers fewer vehicles than expected in first quarter,0.10803157894736842
-2019-03-18,https://www.marketwatch.com/story/lyft-could-be-profitable-in-3-years-analyst-says-2019-03-18,"Lyft could be profitable in 3 years, analyst says",0.2981625
-2019-04-03,https://www.marketwatch.com/story/sheryl-crows-tesla-malfunctions-and-singer-asks-twitter-for-help-2019-04-03,"Sheryl Crow’s Tesla malfunctions, and singer asks Twitter for help",0.15896956521739133
-2019-03-11,https://www.marketwatch.com/story/tesla-shares-rise-after-company-reverses-decision-to-close-all-stores-2019-03-11,Tesla shares rise after company reverses decision to close all stores,0.0444681818181818
-2019-03-18,https://www.marketwatch.com/story/mark-cuban-comes-to-the-defense-of-elon-musk-and-his-ongoing-public-belligerence-2019-03-18,Mark Cuban comes to the defense of Elon Musk and his ‘ongoing public belligerence’,0.004327272727272729
-2019-04-04,https://www.marketwatch.com/story/stock-index-futures-drift-lower-as-us-china-trade-talks-continue-2019-04-04,Stock-index futures drift lower as U.S.-China trade talks continue,0.12761714285714287
-2019-04-04,https://www.marketwatch.com/story/tesla-bears-are-now-making-crazy-claims-short-circuiting-their-cause-2019-04-04,"Tesla bears are now making crazy claims, short-circuiting their cause",0.060665346534653455
-2019-04-08,https://www.marketwatch.com/story/europe-markets-stung-by-rising-oil-prices-2019-04-08,Europe markets stung by rising oil prices,0.07549166666666667
-2019-04-04,https://www.marketwatch.com/story/tesla-and-elon-musk-are-creating-a-credibility-problem-2019-04-04,Tesla and Elon Musk are creating a credibility problem,0.021483333333333337
-2019-03-12,https://www.marketwatch.com/story/boeings-stock-keeps-dow-futures-under-pressure-but-broader-market-aims-for-slight-gains-2019-03-12,"Boeing’s stock keeps Dow futures under pressure, but broader market aims for slight gains",-0.023700000000000002
-2019-03-12,https://www.marketwatch.com/story/oracle-earnings-investors-are-looking-for-something-more-than-a-white-hot-stock-buyback-program-2019-03-12,Earnings Outlook: Oracle earnings: Investors are looking for something more than a white-hot stock buyback program,0.176230303030303
-2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.171821568627451
-2019-03-15,https://www.marketwatch.com/story/these-red-flags-will-tell-you-when-its-time-to-sell-the-stock-rally-bank-of-america-merrill-lynch-2019-03-15,Need to Know: These red flags will tell you when it’s time to sell the stock rally: Bank of America Merrill Lynch,-0.020606250000000003
-2019-03-12,https://www.marketwatch.com/story/why-investors-cant-count-on-apple-and-facebook-to-carry-this-stock-market-higher-2019-03-12,Why investors can’t count on Apple and Facebook to carry this stock market higher - MarketWatch,0.04060943396226415
+dates,url,title,title_score,first_para,firstP_score,content_scores
+2019-03-25,https://www.marketwatch.com/story/tesla-raising-prices-on-inventory-cars-by-about-3-elon-musk-says-2019-03-24,"Tesla raising prices on inventory cars by about 3%, Elon Musk says",0.0,"Tesla shares 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          are down more than 20% year to date, compared to the S&P 500’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          12% gain.",0.6808,0.08067692307692308
+2019-04-03,https://www.marketwatch.com/story/teslas-investor-day-to-focus-on-autopilot-2019-04-03,Tesla’s investor day to focus on Autopilot,0.0,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         promised a “deep dive” into its self-driving technology and future plans at the event, which will be webcast. ",0.3612,0.06540000000000001
+2019-04-03,https://www.marketwatch.com/story/chicago-becomes-first-big-american-city-to-achieve-carbon-neutral-investment-portfolio-2019-04-03,The Wall Street Journal: Chicago becomes first big American city to achieve carbon-neutral investment portfolio,0.0,"Chicago has placed more than double the amount of money it has in carbon-intensive companies into green bonds from the likes of Bank of America Corp.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    BAC, +0.48%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and Tesla Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         . It also didn’t reinvest some $20 million of matured bonds from major carbon emitters back into polluters.",-0.0516,0.09831666666666668
+2019-03-29,https://www.marketwatch.com/story/tesla-stock-headed-for-worst-month-in-a-year-2019-03-29,Tesla stock headed for worst month in a year,-0.6249,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stock is down slightly more than 13% in March, its worst month since March 2018, when it fell 22%. ",-0.6249,-0.036960000000000014
+2019-03-15,https://www.marketwatch.com/story/teslas-elon-musk-unveils-model-y-crossover-with-47000-price-tag-2019-03-15,"Tesla’s Elon Musk unveils Model Y crossover, with $47,000 price tag",0.0,"Tesla shares 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          were down 2.7% in premarket trade Friday and are off more than 9% this month. The stock is down 11% in the past 12 months, contrasting with gains around 2% for the S&P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         over that time.",0.5574,0.211135
+2019-03-12,https://www.marketwatch.com/story/elon-musks-lawyers-say-sec-is-overreaching-in-seeking-contempt-ruling-2019-03-11,Elon Musk’s lawyers say SEC is overreaching in seeking contempt ruling,-0.5859,"Tesla shares 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.56%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          have fallen 12.6% year to date, compared to the S&P 500’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          11% gain.",0.4767,-0.07663157894736841
+2019-03-25,https://www.marketwatch.com/story/tesla-stock-price-deliveries-dialed-down-yet-again-2019-03-25,"The Ratings Game: Tesla stock price, deliveries dialed down yet again",0.0,"Analysts at RBC Capital, led by Joseph Spak, cut their price target on Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.56%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stock to $210, from $245, which represents a 19% downside from Monday’s prices. They also expect an adjusted loss in Tesla’s first quarter.",-0.6597,0.06922105263157896
+2019-03-12,https://www.marketwatch.com/story/las-vegas-gives-green-light-for-plan-to-build-elon-musks-underground-loop-2019-03-12,Las Vegas gives green light for plan to build Elon Musk’s underground loop,0.0,"That may be a big assumption. Musk, who is also the CEO of Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , has been known to underestimate production timelines, and it is unclear how feasible it is for an underground transit system to be built in less than a year.",-0.4939,-0.09441578947368422
+2019-03-21,https://www.marketwatch.com/story/elon-musk-reportedly-calls-on-all-tesla-workers-to-help-with-end-of-quarter-delivery-crush-2019-03-21,Elon Musk reportedly calls on all Tesla workers to help with end-of-quarter delivery crush,0.2732,"The first quarter ends March 31, and last week Business Insider reported that Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         employees had been asked by Senior Vice President Sanjay Shah to volunteer to help deliver 30,000 new cars by the end of the month. Musk’s email apparently expanded on that request.",0.4019,0.26532500000000003
+2019-04-08,https://www.marketwatch.com/story/investor-concerns-for-teslas-stock-could-start-weighing-on-its-business-analyst-warns-2019-04-08,"The Ratings Game: Investor concerns for Tesla’s stock could start weighing on its business, analyst warns",-0.1027,"“We are increasingly concerned about the impact that investor concerns over Tesla’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         financial strength and forward-looking liquidity position could potentially have on employee morale, customer perceptions and standing with key stakeholders and suppliers,” he wrote. Jonas lowered his target price to $240 from $260 in a Monday note to clients. ",0.4019,0.020971428571428564
+2019-04-01,https://www.marketwatch.com/story/could-elon-musks-rap-song-actually-be-good-news-about-teslas-quarterly-deliveries-2019-03-31,Could Elon Musk’s rap song actually be good news about Tesla’s quarterly deliveries?,0.4404,"Tesla stock 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          ended down 13% in March, its worst monthly performance since March 2018. For the quarter, Tesla shares were down 16%, their worst quarterly performance since the third quarter of 2018. All three major stock indexes were up about 10% over the past quarter.",-0.7906,0.016096153846153843
+2019-03-18,https://www.marketwatch.com/story/sec-shreds-elon-musks-contempt-defense-says-hes-ignoring-court-order-2019-03-18,"SEC shreds Elon Musk’s contempt defense, says he’s ignoring court order",-0.7184,"Tesla stock 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          is down 19% year to date, compared to the S&P 500’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          13% gain.",0.5267,-0.1029391304347826
+2019-03-13,https://www.marketwatch.com/story/tesla-to-offer-first-look-at-model-y-amid-worries-about-demand-margins-2019-03-13,"Tesla to offer first look at Model Y amid worries about demand, margins",-0.5106,"Tesla shares 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          ended nearly 2% higher Wednesday, but they are down more than 15% in the past 12 months, contrasting with gains around 1.7% for the S&P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         over that time.",0.5719,0.0781
+2019-04-02,https://www.marketwatch.com/story/teslas-mega-fast-model-s-finally-has-a-challenger-the-porsche-taycan-2019-04-02,Your Digital Self: Tesla’s mega-fast Model S finally has a challenger: the Porsche Taycan,0.128,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.51%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has surely taken heed of EV competition that will arrive over the next few years. Today, I want to take a closer look at one of the cars on that list: Porsche’s Taycan (pronounced: tie-con). It means “lively young horse” in Turkish, and if you thought it has to do with Porsche’s crest, you’re right. The company invested 6 billion euros ($6.7 billion) and hired 1,200 employees for the launch of this model alone. ",0.296,0.13908684210526318
+2019-04-04,https://www.marketwatch.com/story/tesla-stock-roiled-by-ugly-delivery-numbers-2019-04-04,Tesla stock roiled by ‘ugly’ delivery numbers,0.0,"At their lowest level Thursday, Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares were off nearly 11%, the worst percentage decline since Jan. 18. They closed down 8.2% at $267.78. The shares are a distant 30% from their record high close of $385 in September 2017.",-0.5106,-0.11528333333333335
+2019-04-05,https://www.marketwatch.com/story/the-jobs-report-nails-it-its-a-slowdown-not-a-recession-2019-04-05,"Tim Mullaney: The jobs report nails it: It’s a slowdown, not a recession",0.3252,"The data all week have actually been pretty good, as this handy summary from MarketWatch’s data team shows. Tesla’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          delivery woes aside, auto sales for March were stronger than expected. Purchasing-manager sentiment indexes from the Institute of Supply Management showed both manufacturing and services expanding, but more slowly than before. Construction spending beat forecasts.",0.4404,0.15599411764705884
+2019-03-13,https://www.marketwatch.com/story/how-teslas-model-y-has-the-potential-to-save-the-world-2019-03-13,How Tesla’s Model Y has the potential to save the world,0.4939,"Alas, Mr. Musk, it’s not because the first small SUV from Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and thus its first foray into the largest segment of the world’s passenger vehicle market, is such an exceptional product. ",-0.2732,0.0563
+2019-04-10,https://www.marketwatch.com/story/this-italian-made-hand-built-electric-car-has-1900-horsepower-and-is-faster-than-a-formula-1-car-2019-04-10,"Your Digital Self: This Italian-made, hand-built electric car has 1,900 horsepower and is faster than a Formula 1 car",0.0,"Other than Rimac Automobili’s Rimac C Two (mentioned above), this car really has no competition. Outside the hypercar class, the closest competitor might be the Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Roadster, which CEO Elon Musk has said will be for sale in 2020. He claims it will sprint to 60 mph in 1.9 seconds and have a top speed of more than 250 mph. Range will approach 620 miles. The base price is a bargain $200,000. Still, Tesla’s production isn’t limited — you can order one on its web site right now. Battista, on the other hand, will be rare.",0.3446,0.1521151515151515
+2019-04-10,https://www.marketwatch.com/story/stick-with-tech-stocks-or-miss-some-big-gains-says-this-analyst-2019-04-10,"Need to Know: Stick with tech stocks or miss some big gains, says this analyst",0.2023,"Analyst describes Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         as the Salesforce
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    CRM, -0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         of the auto industry, but says don’t buy it yet.",0.0,0.02043050847457627
+2019-04-04,https://www.marketwatch.com/story/buy-dollars-even-if-stocks-keep-rising-says-goldman-alumnus-who-predicted-the-financial-crisis-2019-04-04,"Need to Know: Buy dollars even if stocks keep rising, says Goldman alumnus who predicted the financial crisis",-0.6249,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         is tumbling after first-quarter auto deliveries disappointed, due to a big backlog in Europe and China. ",-0.4767,-0.044554166666666666
+2019-03-11,https://www.marketwatch.com/story/an-unwholesome-appetite-for-stocks-could-spoil-this-fairytale-strategist-warns-2019-03-11,"Need to Know: An ‘unwholesome appetite’ for stocks could spoil this fairytale, strategist warns",-0.1027,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares were rallying after the company backed off a bit of a promise to cut prices on all its cars and move sales online. The electric-car maker said it will likely keep significantly more physical stores open, which will halve the savings it had hoped to pass onto to customers.",0.6249,-0.0009223880597014863
+2019-04-01,https://www.marketwatch.com/story/ubs-economist-china-sentiment-data-isnt-real-this-is-what-matters-for-investors-2019-04-01,Need to Know: UBS economist: China sentiment data isn’t ‘real’; this is what matters for investors,0.0258,"It looks like Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         CEO Elon Musk spent the last weekend of the quarter goofing off, touting his rap song about a gorilla. But that may be good news for investors if he’s relaxed enough to no longer be stressing about last-minute auto deliveries.",0.4939,0.05420344827586206
+2019-03-27,https://www.marketwatch.com/story/a-return-of-inflation-could-turn-markets-on-their-head-warns-northern-trust-2019-03-27,"Need to Know: A return of inflation could turn markets on their head, warns Northern Trust",0.4404,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         CEO Elon Musk is set to square off against the Securities and Exchange Commission on April 4 over whether he should be held in contempt of court. The spat centers on a tweet he sent out about the number of cars the company will make this year. ",-0.3182,0.011304255319148923
+2019-03-11,https://www.marketwatch.com/story/forget-elon-musks-marijuana-smoking-security-clearance-troubles-just-investing-in-cannabis-stocks-can-cause-you-problems-2019-03-11,Cannabis Watch: Forget Elon Musk’s marijuana-smoking security-clearance troubles — just investing in cannabis stocks can cause you problems,-0.765,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.62%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and SpaceX founder Elon Musk is reportedly having his security clearance reviewed after smoking marijuana during a podcast, but he’s far from the only person whose government security clearance is threatened by a cannabis connection.",-0.0516,0.08081875000000001
+2019-03-14,https://www.marketwatch.com/story/stock-bear-who-predicted-last-recession-says-this-is-how-investors-can-get-ready-for-the-next-2019-03-14,Need to Know: Stock bear who predicted last recession says this is how investors can get ready for the next,-0.0772,"Tesla
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.45%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        will roll out its long-awaited Model Y, a compact SUV, later Thursday, which could be a “game changer” for the electric-car maker, with potentially “massive demand,” Wedbush analyst Dan Ives told clients.",0.0,-0.12608135593220335
+2019-03-27,https://www.marketwatch.com/story/elon-musk-promises-chance-for-some-tesla-stores-report-2019-03-27,Elon Musk promises chance for some Tesla stores: report,0.5574,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Chief Executive Elon Musk has sent an email to employees to detail the company's plan to close retail stores, according to a report on Business Insider.Tesla earlier this month announced it would be moving all sales online and closing its stores, but the company has backtracked somewhat from that. According to the report, Musk told employees that stores with good traffic would be kept open and underperforming stores would gradually close down but given a chance to prove they should remain open. ",0.7469,0.27268
+2019-04-04,https://www.marketwatch.com/story/judge-orders-sec-musk-to-try-to-resolve-dispute-over-ceos-tweets-2019-04-04,"Judge orders SEC, Musk to try to resolve dispute over CEO's tweets",-0.0258,"Judge Alison Nathan on Thursday ordered lawyers for Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         CEO Elon Musk and the Securities and Exchange Commission to discuss a resolution and come back in two weeks, after the SEC argued that Musk broke a settlement forcing pre-approval of his tweets about sensitive information. Musk's tweet saying Tesla will make around 500,000 cars in 2019 is viewed by the SEC as breaking its settlement reached in wake of his tweeting out a non-existent takeover bid. Later Thursday, Musk issued a statement saying he was ""pleased"" with the judge's decision, and doubling down on claims his tweet was immaterial to shareholders and not in violation of his agreement with the SEC. ""We have always felt that we should be able to work through any disagreements directly with the SEC, rather than prematurely rushing to court,"" Musk said. ",0.0844,0.05727142857142858
+2019-03-19,https://www.marketwatch.com/story/tesla-delays-price-increase-to-wednesday-after-unusually-high-volume-2019-03-19,Tesla delays price increase to Wednesday after 'unusually high volume',0.3182,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         tweeted Tuesday that it was postponing price increases on its vehicles, scheduled to take effect late Monday, to Wednesday due to ""unusually high volume"" ahead of the increases. Tesla was unable to process all orders by midnight on Monday, so the price increase, around 3% on average, is scheduled for midnight Wednesday. The shorter range Model 3 remains at $35,000. Shares of Tesla rose more than 1% on Tuesday. They are down 13% for the past 12 months, contrasting with gains around 5% for the S&P 500 index. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+",0.6872,0.2154125
+2019-04-04,https://www.marketwatch.com/story/tesla-falls-short-of-expectations-for-first-quarter-deliveries-2019-04-03,Tesla falls short of expectations for first-quarter deliveries,0.0,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         delivered about 63,000 vehicles in the first quarter, fewer than analysts had expected. Analysts surveyed by FactSet has expected 76,000 deliveries, with about 54,600 of those being Model 3 sedans. Only 50,900 Model 3s were delivered, Tesla said in a statement late Wednesday. Tesla said overall deliveries were down 31% from the previous quarter, citing challenges in delivering a massive increase of cars to China and Europe.",0.3818,0.12748571428571429
+2019-04-02,https://www.marketwatch.com/story/nio-shares-gain-after-first-quarter-deliveries-top-forecast-2019-04-02,Nio shares gain after first-quarter deliveries top forecast,0.7506,"American depositary shares of Chinese carmaker Nio Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NIO, -0.69%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are up 4.6% in premarket trading Tuesday after the company disclosed that first-quarter deliveries of its ES8 electric sport-utility vehicle topped expectations. Nio delivered 1,805 ES8s in January, 811 in February, and 1,373 in March, or 3,989 in total for the quarter. The company had previously forecast 3,500 to 3,800 deliveries for the period. Nio has been likened to the Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         of China. Its shares are down 16% over the past three months. ",0.5267,0.20363750000000003
+2019-03-26,https://www.marketwatch.com/story/elon-musk-sec-to-square-off-in-contempt-hearing-april-4-2019-03-26,"Elon Musk, SEC to square off in contempt hearing April 4",-0.5859,"Elon Musk will have his day in court. The Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         chief executive will face off against the Securities and Exchange Commission on April 4 to argue over whether he should be held in contempt of court, a federal judge in Manhattan said Tuesday. The spat concerns a February tweet about the number of vehicles Tesla will make in 2019. The SEC claimed that violated an agreement from last fall, when Musk settled an SEC fraud investigation over another tweet. As part of that deal, Musk agreed that Tesla would have oversight and pre-approval over his tweets that are material to the company. Musk's attorneys argue the tweet was not material.",-0.8402,-0.14330000000000004
+2019-03-22,https://www.marketwatch.com/story/teslas-price-target-lowered-at-cowen-on-expectation-of-softer-deliveries-2019-03-22,Tesla's price target lowered at Cowen on expectation of softer deliveries,-0.128,"Analysts at Cowen on Friday lowered their price target on Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares to $180, from $200, on ""likely softer deliveries"" in the first quarter, the company's recent price changes, and margin pressure, they said. ""It is too early to call the sustainable demand rate for the Model 3 in Europe and China, we expect demand in the U.S. to be soft until the release of the low margin ($35,000) model in 2Q,"" the Cowen analysts, led by Jeffrey Osborne. ""Management will likely attribute the likely delivery miss to vehicles in transit to Europe and China, but we believe low demand in the U.S. is also a factor,"" they said of first-quarter deliveries. Tesla shares fell 1.6% on Friday and are down 20% in the past 12 months, which contrasts with gains around 6% for the S&P 500 index. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+",-0.0258,-0.03294285714285713
+2019-03-14,https://www.marketwatch.com/story/tesla-names-new-cfo-chief-accounting-officer-stock-gains-2019-03-14,"Tesla names new CFO, chief accounting officer; stock gains",0.34,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         disclosed Thursday that it appointed Zachary Kirkhorn as its chief financial officer, succeeding Deepak Ahuja who is retiring. Tesla's stock rose 1.1% in premarket trade. Kirkhorn, who joined Tesla in 2010, has been vice president of finance, financial planning and business operations since December 2018. Tesla also named Corporate Controller Vaibhav Taneja as its chief accounting officer. Separately, Tesla said Kirkhorn will receive a stock-option grant of $12 million and a restricted stock unit grant of $4 million, which will vest over four years. Taneja will receive a stock option grant of $6 million and a restricted stock unit grant of $2 million, which will vest over four years. The stock has tumbled 21% over the past three months, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 8.1%.",0.8625,0.22532000000000002
+2019-04-04,https://www.marketwatch.com/story/dow-logs-triple-digit-gain-as-trade-talks-remain-in-spotlight-2019-04-04,Dow logs triple-digit gain as trade talks remain in spotlight,0.5267,"U.S. stocks mostly finished higher Thursday amid expectations for the U.S. and China to make progress towards ending their longstanding trade spat. The S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         was up 0.2% to finish near 2,879. The Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         advanced 166 points, or 0.6%, to end near 26,385, based on preliminary numbers. The Nasdaq Composite 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    COMP, -0.03%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         was down less than 0.1% to end around 7,892. On Thursday, China's lead trade envoy, Vice Premier Liu He, met with President Donald Trump, who tweeted that talks ""are moving along nicely."" Investors are also gearing up for the March jobs report on Friday, which is expected to reveal the U.S. economy had added 175,000 jobs. In company news, shares of Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         plunged 8.1% after the electric-car maker delivered fewer vehicles in the first quarter than analysts had expected.",0.7184,0.17917
+2019-03-29,https://www.marketwatch.com/story/teslas-price-target-model-3-expectations-cut-at-deutsche-bank-2019-03-29,"Tesla's price target, Model 3 expectations cut at Deutsche Bank",-0.2732,"Analysts at Deutsche Bank on Friday dialed down their expectations for Tesla Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.47%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         first-quarter Model 3 deliveries and cut their price target on the stock. The analysts now expect the car maker to report Model 3 deliveries of 52,400 sedans, down by 5,000, to account for weaker-than-expected ""sales in the U.S. and logistical delivery challenges in Europe,"" they said in a note. They kept their 2019 delivery expectations the same at 292,000 Model 3s. With the stock down 16% year to date, compared with gains around 12% for the S&P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         ""we believe investors largely anticipate a weak (first quarter), but could remain on the sidelines pending more clarity on the mix and margin profile of Model 3 demand,"" the analysts said. Deutsche Bank's price target on Tesla went to $295, from $345. They kept their hold rating on the shares. Tesla is expected to report the quarterly deliveries next week. ",0.7302,0.09674
+2019-04-08,https://www.marketwatch.com/story/tesla-stock-price-target-slashed-to-400-from-450-at-jefferies-after-q1-miss-2019-04-08,Tesla stock price target slashed to $400 from. $450 at Jefferies after Q1 miss,-0.3612,"Jefferies slashed its stock price target on Telsa Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to $400 from $450 on Monday, as it adjusted estimates following the electric car maker's first-quarter miss on deliveries. ""While Q1 disappointed, the critical tests in our view remain demand elasticity in Q2 as lower priced M3 versions become available and sorting out logistics,"" analyst Philippe Houchois wrote in a note to clients. However, ""the announcement of an ""Open Pool"" with FCA (Fiat Chrysler) to reduce calculated CO2 emissions in Europe could generate several $ million of cash income, possibly starting this year,"" he added. Jefferies is lowering its first-quarter operating estimates by about $200 million to an EBIT loss of $263 million, said the analyst. It cut its full-year estimates for revenue by 8% to $27 billion. ""The Tesla equity story remains stressful but we continue to see value in Tesla leading the charge towards attractive and more affordable battery EVs when most competitors continue to enter at the high end where the EV/ICE trade-off is assumed to be highest,"" said Houchois. Tesla shares rose 1.7% but have fallen 16% in 2019 to date, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 15%. ",0.1901,-0.08020000000000004
+2019-03-25,https://www.marketwatch.com/story/tesla-stock-falls-as-concerns-over-softer-sales-increase-after-nyt-report-2019-03-25,Tesla stock falls as concerns over softer sales increase after NYT report,0.3182,"Shares of Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         dropped 1.2% toward a 5-month low in premarket trade Monday, after a New York Times report indicated a big decline in sales from January to February, after the federal tax credit was reduced. Citing data on new-car registrations, compiled by the Dominion Cross-Sell Report, new Tesla registrations ""fell significantly"" in the 23 states covered by the report, including California, which accounts for about half of Tesla's sales, and three other big markets for the electric-vehicle maker, Texas, Florida and Washington. The report helps fuel concerns of softer sales and deliveries, which have weighed on the stock this year. The stock has tumbled 20.5% year to date through Friday, while the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has climbed 11.7%. Over the weekend, On Friday, Cowen cut its price target, citing ""likely softer deliveries"" because of recent price changes and margin pressure. Over the weekend, Chief Executive Elon Musk said prices on inventory cars will rise 3% on April 1.",0.25,0.11046666666666666
+2019-03-11,https://www.marketwatch.com/story/tesla-says-it-will-keep-more-stores-open-but-most-car-prices-will-go-up-3-2019-03-11,"Tesla says it will keep more stores open, but most car prices will go up 3%",0.0,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has partially reversed course on a decision to close most physical stores and lower prices on its autos. In a blog posted on the company's website, the electric-car maker said it had spent the last two weeks evaluating that decision and decided more stores will remain open. ""As a result of keeping significantly more stores open, Tesla will need to raise vehicle prices by about 3% on average worldwide. In other words, we will only close about half as many stores, but the cost savings are therefore only about half,"" said the company in a blog post Sunday. Last week, the company said as a result of moving to online sales worldwide, prices of all cars would drop 6% on average. Tesla said another 20% of locations are under review. As for the price changes, the company said there would be no increase to the $35,000 Model 3. ""The price increases will only apply to the more expensive variants of Model 3, as well as Model S and X,"" said Tesla.",-0.1154,0.009575000000000009
+2019-03-15,https://www.marketwatch.com/story/teslas-creditworthiness-still-strained-moodys-says-2019-03-15,"Tesla's creditworthiness still ""strained,"" Moody's says",0.4404,"Tesla Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         creditworthiness still faces ""meaningful pressures"" even though the company reached some of its Model 3 goals and repaid debt on time, Moody's Investors Service said in a note Friday. ""Tesla is challenged internally by ongoing operational missteps and strategy reversals over a short time period,"" the credit ratings agency said in a note Friday. Other car makers have stepped up electric-vehicle investments and the original business model for the Model 3 of high volume production and a low price is proving difficult to achieve, Moody's said. The strategy reversals, which include backtracking on its decision to close stores, show management shortcomings, Moody's said. Tesla shares lost nearly 4% on Friday and are down 14% in the past 12 months, contrasting with 2.6% gains for the S&P 500 index. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Moody's rates Tesla debt B3, putting it in the junk category.",0.128,0.11303333333333335
+2019-03-14,https://www.marketwatch.com/story/teslas-model-y-sales-goals-aggressive-analyst-says-2019-03-14,"Tesla's Model Y sales goals 'aggressive,' analyst says",0.0,"Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         sales targets for the Model Y crossover, which the car maker expects to unveil today at 8 p.m. Pacific, are on net ""aggressive,"" said Toni Sacconaghi, an analyst at Bernstein. If the vehicle captures the same share as the Model X SUV does in its category, it would point to 350,000 to 400,000 units sold, Sacconaghi said. ""To get to ~750k units/year would require Model Y to capture similar share as the Model S (mid-teens), perhaps coupled with Tesla upselling customers from lower-priced segments,"" he said in a note Thursday. The crossover's base price could start around $40,000, but more likely around $55,000 as Tesla will want to manage the price point against cannibalization, he said. Tesla is unlikely to disclose Model Y reservations since they'd be likely lower than initial Model 3 reservations and the company may not want to set a precedent for disclosing orders, Sacconaghi said. Tesla shares rose 0.5% in midday trading and have lost 11% in the past 12 months, contrasting with gains around 2% for the S&P 500 index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+",0.5023,0.1489375
+2019-03-14,https://www.marketwatch.com/story/kimbal-musk-leaves-chipotle-board-2019-03-14,Kimbal Musk leaves Chipotle board,0.0,"Kimbal Musk will not stand for re-election to the Chipotle Mexican Grill Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    CMG, -1.46%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         board, which means the only public-company board Musk will soon sit on will be his brother Elon Musk's car company, Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Chipotle said that it is appointing two new board members, Patricia Fili-Krushel and Scott Maw, and that Musk would not seek a new term in May. ""Kimbal has served on the Chipotle Board of Directors since 2013, and we extend our most sincere gratitude and heartfelt appreciation for the tremendous contributions he has made to our success,"" Chipotle Chief Executive Brian Niccol said in a statement. Niccol was appointed CEO of Chipotle early in 2018, and this is the first change to the board since he joined it, according to FactSet records. Besides being a director for Tesla, Musk sits on the boards of at least two private companies, including SpaceX, and is executive chairman of a private food company he founded.",0.9334,0.20628571428571427
+2019-03-29,https://www.marketwatch.com/story/jp-morgan-gets-more-bearish-on-teslas-stock-on-concerns-over-model-3-delivery-delays-2019-03-29,"Tesla's Model 3 delivery delay prompts bearish note, share-target cut",-0.5267,"Tesla Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stock price target and deliveries estimate was cut by analyst Ryan Brinkman at J.P. Morgan, citing reports of delays in shipping Model 3s to customers in Europe and China. Brinkman, who reiterated the underweight rating he's had Tesla for at least the past three years, lowered his target to $215, which is 23% below Thursday's closing price, from $230. The stock edged up 0.3% in premarket trade. Brinkman cut his first-quarter Model 3 deliveries estimate to 50,000 from 55,000, which is below the FactSet consensus is 54,600. Tesla is expected to report deliveries next week. He said the first quarter is likely to prove teh ""softest"" for free cash flow, given its status as an expansion quarter, given the Model 3 rollouts in Europe and China. ""Any delays in delivering vehicles to Europe and China carry the potential for a disproportionate impact on 1Q deliveries (and, hence, revenue, margin and cash flow), given the already guided back-end-loaded nature of 1Q deliveries,"" Brinkman wrote in a note to clients. Tesla's stock has tumbled 16.3% year to date through Thursday, while the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 10.3%.",0.296,0.030118181818181836
+2019-04-09,https://www.marketwatch.com/story/tesla-is-like-apple-and-salesforce-but-dont-buy-the-stock-right-now-analyst-says-2019-04-09,"The Ratings Game: Tesla is like Apple and Salesforce, but don’t buy the stock right now, analyst says",0.1901,"Instinet analyst Christopher Eberle tagged Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares with a neutral rating, equivalent to a hold, and $300 price target. Instinet discontinued coverage of the electric-car company in February after analyst Romit Shah left the brokerage; at the time Shah left, he also had a neutral rating and $300 price target on Tesla shares.",0.5267,0.12275714285714287
+2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.4215,"• Smart money flows are neutral in Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+",0.5267,0.2939487179487179
+2019-03-22,https://www.marketwatch.com/story/why-investors-need-to-shift-from-wall-street-to-this-growth-haven-2019-03-22,Need to Know: Why investors need to shift from Wall Street to this growth haven,0.4588,"Calling all workers. Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.63%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         CEO Elon Musk is trying to rally his troops to help deliver 30,000 new cars by end March. The electric-car maker has also rebooted its customer-referral program.",0.4019,0.07027619047619048
+2019-04-05,https://www.marketwatch.com/story/why-amazon-will-triple-to-5000-a-share-according-to-this-hedge-fund-manager-2019-04-05,"Need to Know: Why Amazon will triple to $5,000 a share, according to this hedge fund manager",0.4404,"A judge has ordered lawyers for Tesla’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.63%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Elon Musk and the SEC to try to reach a resolution over the CEO’s tweets. Is the company creating a credibility problem for investors?",-0.1027,0.2062177777777777
+2019-03-25,https://www.marketwatch.com/story/mueller-aside-why-stocks-could-be-about-to-deliver-explosive-gains-2019-03-25,"Need to Know: Mueller aside, why stocks could be about to deliver explosive gains",0.34,"Elon Musk announced Sunday that prices on all Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.59%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         inventory cars will rise by about 3% on April 1. “To be clear, this doesn’t affect Tesla website order prices,” Musk added. “Existing inventory prices are currently slightly lower than on website. This will bring them in line.” Tesla shares are down more than 20% year to date, compared to the S&P 500 12% gain.",0.7425,0.046816129032258055
+2019-03-22,https://www.marketwatch.com/story/tesla-revives-popular-customer-referral-program-2019-03-21,Tesla revives popular customer-referral program,0.6597," In a blog post, Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.63%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          said both the referrer and the buyer will get 1,000 miles of free Supercharging per purchase, and be entered in quarterly drawings to win a special-edition Model Y or Roadster.",0.7964,0.5499285714285714
+2019-04-04,https://www.marketwatch.com/story/spacex-test-fires-engine-on-massive-new-starship-for-first-time-2019-04-03,SpaceX test-fires engine on massive new Starship for first time,0.0,"Musk delivered the good news shortly after his other company, Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.60%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , reported some bad news — first-quarter deliveries that fell far below analysts’ expectations.",-0.1531,0.07188
+2019-03-29,https://www.marketwatch.com/story/tesla-stock-headed-for-worst-month-in-a-year-2019-03-29,Tesla stock headed for worst month in a year,-0.6249,"Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.63%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stock is down slightly more than 13% in March, its worst month since March 2018, when it fell 22%. ",-0.6249,-0.036960000000000014
+2019-04-04,https://www.marketwatch.com/story/tesla-delivers-fewer-vehicles-than-expected-in-first-quarter-2019-04-03,Tesla delivers fewer vehicles than expected in first quarter,0.0,"Analysts surveyed by FactSet has expected 76,000 deliveries, with about 54,600 of those being Model 3 sedans. Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.65%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          said only about 50,900 Model 3s were delivered.",0.0,0.10803157894736842
+2019-03-18,https://www.marketwatch.com/story/lyft-could-be-profitable-in-3-years-analyst-says-2019-03-18,"Lyft could be profitable in 3 years, analyst says",0.4404,"Companies heavily pursuing driverless cars include Alphabet Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.35%
+GOOG, +0.35%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         General Motors Co. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GM, +0.41%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.65%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         ",0.0,0.2981625
+2019-04-03,https://www.marketwatch.com/story/sheryl-crows-tesla-malfunctions-and-singer-asks-twitter-for-help-2019-04-03,"Sheryl Crow’s Tesla malfunctions, and singer asks Twitter for help",0.4019,"Is Tesla your ""favorite mistake""? #SherylCrow #Tesla #Musk $TSLA $TSLAQ",0.4588,0.15896956521739133
+2019-03-11,https://www.marketwatch.com/story/tesla-shares-rise-after-company-reverses-decision-to-close-all-stores-2019-03-11,Tesla shares rise after company reverses decision to close all stores,0.296," In a blog posted on the company’s website, the electric-car maker 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         said it had spent the last two weeks evaluating that decision and decided more stores will remain open as it continues to review traffic and other trends in the next few months. ",0.0,0.0444681818181818
+2019-03-18,https://www.marketwatch.com/story/mark-cuban-comes-to-the-defense-of-elon-musk-and-his-ongoing-public-belligerence-2019-03-18,Mark Cuban comes to the defense of Elon Musk and his ‘ongoing public belligerence’,0.128,"“The option market is embedding no volatility premium for upcoming legal events in the case of SEC v. Elon Musk,” the strategists wrote in the note. “Surprising given these fears previously caused a significant decline in Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         shares and a surge in volatility to multiyear highs.”",-0.128,0.004327272727272729
+2019-04-04,https://www.marketwatch.com/story/stock-index-futures-drift-lower-as-us-china-trade-talks-continue-2019-04-04,Stock-index futures drift lower as U.S.-China trade talks continue,-0.296,"Shares of electric-car maker Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         slumped 8.2%. The company late Wednesday said it delivered about 63,000 vehicles in the first quarter, significantly fewer than analysts had expected.",0.296,0.12761714285714287
+2019-04-04,https://www.marketwatch.com/story/tesla-bears-are-now-making-crazy-claims-short-circuiting-their-cause-2019-04-04,"Tesla bears are now making crazy claims, short-circuiting their cause",-0.34,"I’m not surprised. Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         short-sellers, who bet on a decline in the shares, have recently displayed signs of hubris and mob-like overconfidence every time the stock falls into the $200s, as it continues to vastly underperform the S&P 500 Index 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         This suggests to me the electric-car company is more of a buy than a sell at these levels, in the contrarian sense. ",0.1366,0.060665346534653455
+2019-04-08,https://www.marketwatch.com/story/europe-markets-stung-by-rising-oil-prices-2019-04-08,Europe markets stung by rising oil prices,0.0,"Italian car maker Fiat Chrysler Automobiles NV 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FCA, +0.42%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         climbed on news it had reached a deal with U.S. electric auto maker Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to include the latter’s electric vehicles in Fiat Chrysler’s fleet, for the purposes of emissions reporting. Jeffries analyst Philippe Houchois said the deal was positive for both car makers, as Fiat could avoid as much as €2 billion in European Union emissions fines, while supplying Tesla with much-needed cash. Fiat Chrysler was up 1.3% Monday after closing flat Friday.",0.4215,0.07549166666666667
+2019-04-04,https://www.marketwatch.com/story/tesla-and-elon-musk-are-creating-a-credibility-problem-2019-04-04,Tesla and Elon Musk are creating a credibility problem,-0.128,"Wednesday evening, after the close of both the regular trading and after-hours sessions, Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         released its eagerly anticipated first-quarter vehicle-delivery data, and it wasn’t pretty. Tesla said it delivered 63,000 vehicles in the first quarter, while analysts had been expecting 76,000. Its stock tumbled about 8% in regular trading Thursday.",0.7003,0.021483333333333337
+2019-03-12,https://www.marketwatch.com/story/boeings-stock-keeps-dow-futures-under-pressure-but-broader-market-aims-for-slight-gains-2019-03-12,"Boeing’s stock keeps Dow futures under pressure, but broader market aims for slight gains",0.3612,"Shares of Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         fell 2.6% after lawyers for the electric car maker’s CEO Elon Musk defended a recent tweet from the outspoken executive, accusing the Securities and Exchange Commission of overreaching and infringing on Musk’s right of free speech. ",0.7184,-0.023700000000000002
+2019-03-12,https://www.marketwatch.com/story/oracle-earnings-investors-are-looking-for-something-more-than-a-white-hot-stock-buyback-program-2019-03-12,Earnings Outlook: Oracle earnings: Investors are looking for something more than a white-hot stock buyback program,0.0,"In other news in recent months, the U.S. Labor Department has accused Oracle of underpaying its female and minority employees, Warren Buffett unloaded his 41 million shares stake in Oracle in the December-ending quarter, the company bought naming rights for 20 years to the ballpark that’s home to the San Francisco Giants, and Chairman Larry Ellison disclosed a $1 billion stake in Tesla Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         . ",0.0,0.176230303030303
+2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.3818,"• Tesla 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.67%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has been popular among investors willing to take high risks. As of this writing, the stock of Tesla appears to be breaking down. Watch if the stock of Tesla recovers.",0.1779,0.171821568627451
+2019-03-15,https://www.marketwatch.com/story/these-red-flags-will-tell-you-when-its-time-to-sell-the-stock-rally-bank-of-america-merrill-lynch-2019-03-15,Need to Know: These red flags will tell you when it’s time to sell the stock rally: Bank of America Merrill Lynch,0.0,"Tesla
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.61%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        CEO Elon Musk unveiled the Model Y crossover SUV late Thursday, predicting that car, with a starting price of $47,000, will sell better than the Model S, Model X and Model 3 combined. Investors seem less than enthusiastic with shares dropping. ",0.7918,-0.020606250000000003
+2019-03-12,https://www.marketwatch.com/story/why-investors-cant-count-on-apple-and-facebook-to-carry-this-stock-market-higher-2019-03-12,Why investors can’t count on Apple and Facebook to carry this stock market higher - MarketWatch,0.0,"Attorneys for Tesla
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    TSLA, -2.57%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        CEO Elon Musk accused the SEC of “concerning and unprecedented overreach” for asking a federal judge to hold him in contempt of court.",-0.7184,0.04060943396226415

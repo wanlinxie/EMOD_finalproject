@@ -1,48 +1,2357 @@
-dates,url,title,scores
-2019-04-02,https://www.marketwatch.com/story/netflixs-stock-now-a-top-pick-at-jp-morgan-2019-04-02,The Ratings Game: Netflix’s stock now a ‘top pick’ at J.P. Morgan,0.3301466666666667
-2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.36632727272727267
-2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,0.06796119402985076
-2019-03-27,https://www.marketwatch.com/story/how-to-marie-kondo-your-subscriptions-with-the-click-of-a-button-2019-03-27,How to ‘Marie Kondo’ your subscriptions with the click of a button,0.135125
-2019-03-25,https://www.marketwatch.com/story/apple-targets-payments-news-tv-and-videogames-in-event-aimed-at-subscription-services-2019-03-25,"Apple targets payments, news, TV and videogames in event aimed at subscription services",0.3391777777777778
-2019-03-21,https://www.marketwatch.com/story/everything-coming-to-netflix-in-april-and-whats-leaving-2019-03-21,Everything coming to Netflix in April — and what’s leaving,0.012533333333333318
-2019-04-09,https://www.marketwatch.com/story/the-start-of-a-new-rally-for-oil-prices-not-so-fast-says-this-strategist-2019-04-09,"Need to Know: The start of a new rally for oil prices? Not so fast, says this strategist",0.009417777777777766
-2019-04-02,https://www.marketwatch.com/story/charting-a-bullish-second-quarter-start-sp-500-nails-major-resistance-2873-2019-04-02-121033714,"The Technical Indicator: Charting a bullish second-quarter start, S&P 500 nails major resistance (2,873)",0.11128380952380952
-2019-04-02,https://www.marketwatch.com/story/justice-department-reportedly-warns-academy-against-blocking-netflix-at-the-oscars-2019-04-02,Justice Department reportedly warns Academy against blocking Netflix at the Oscars,0.13398333333333334
-2019-03-25,https://www.marketwatch.com/story/netflixs-stock-rallies-erasing-previous-losses-after-apple-announces-rival-streaming-2019-03-25,"Netflix's stock rallies, erasing previous losses after Apple announces rival streaming",0.140025
-2019-03-18,https://www.marketwatch.com/story/amazons-stock-surges-above-200-day-moving-average-2019-03-18,Amazon's stock surges above 200-day moving average,0.2107909090909091
-2019-04-10,https://www.marketwatch.com/story/disney-stock-upgraded-at-bmo-ahead-of-investor-day-2019-04-10,Disney stock upgraded at BMO ahead of investor day,0.20817999999999998
-2019-03-19,https://www.marketwatch.com/story/apple-streaming-service-wont-offer-netflix-subscription-hasting-says-2019-03-18,"Apple streaming service won't offer Netflix subscription, Hastings says",0.08674545454545456
-2019-03-12,https://www.marketwatch.com/story/apple-should-consider-a-big-ma-deal-to-catch-up-on-rivals-in-streaming-wedbush-analyst-2019-03-12,Apple should consider a big M&A deal to catch up on rivals in streaming: Wedbush analyst,0.29354545454545455
-2019-03-14,https://www.marketwatch.com/story/why-everybodys-face-is-still-buried-in-their-phones-in-one-eye-opening-chart-2019-03-14,"In One Chart: Why everybody’s face is still buried in their phones, in one eye-opening chart",0.11221
-2019-04-09,https://www.marketwatch.com/story/tesla-is-like-apple-and-salesforce-but-dont-buy-the-stock-right-now-analyst-says-2019-04-09,"The Ratings Game: Tesla is like Apple and Salesforce, but don’t buy the stock right now, analyst says",0.12275714285714287
-2019-03-19,https://www.marketwatch.com/story/these-milestones-are-blocking-a-rise-in-the-sp-500-warns-blackrock-2019-03-19,Need to Know: These ‘milestones’ are blocking a rise in the S&P 500 warns Blackrock,-0.019429032258064513
-2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.36632727272727267
-2019-03-18,https://www.marketwatch.com/story/facebook-stock-falls-as-worry-of-negative-network-effects-prompts-downgrade-2019-03-18,The Ratings Game: Facebook stock falls as worry of ‘negative network effects’ prompts downgrade,-0.24711666666666673
-2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.2939487179487179
-2019-03-27,https://www.marketwatch.com/story/will-consumers-finally-decide-theyre-drowning-in-streaming-services-2019-03-27,Will consumers finally decide they’re drowning in streaming services?,0.18975813953488374
-2019-03-22,https://www.marketwatch.com/story/stocks-took-a-big-hit-friday-and-these-shares-fell-the-most-2019-03-22,"Deep Dive: Stocks took a big hit Friday, and these shares fell the most",-0.06447333333333333
-2019-03-25,https://www.marketwatch.com/story/apple-leaves-a-lot-of-questions-about-its-subscription-services-unanswered-2019-03-25,MarketWatch First Take: Apple leaves a lot of questions about its subscription services unanswered,0.2609875
-2019-04-03,https://www.marketwatch.com/story/us-stocks-vulnerable-to-a-correction-warns-top-asset-manager-2019-04-03,"Need to Know: U.S. stocks ‘vulnerable to a correction,’ warns top asset manager",0.10591372549019606
-2019-03-12,https://www.marketwatch.com/story/investing-app-stash-launches-debit-rewards-in-an-effort-to-attract-more-banking-customers-2019-03-12,Investing app Stash launches debit rewards in an effort to attract more banking customers,0.3088196428571428
-2019-04-03,https://www.marketwatch.com/story/consider-these-five-china-investments-as-trade-talks-progress-2019-04-03,Jeff Reeves's Strength in Numbers: Consider these five China investments as trade talks progress,0.278344262295082
-2019-04-09,https://www.marketwatch.com/story/charting-the-sp-500s-approach-of-the-2900-mark-2019-04-09-121032837,"The Technical Indicator: Charting the S&P 500’s approach of the 2,900 mark",0.13817575757575754
-2019-03-12,https://www.marketwatch.com/story/charting-a-bullish-reversal-sp-500-spikes-from-major-support-2742-2019-03-12-121035211,"The Technical Indicator: Charting a bullish reversal, S&P 500 spikes from major support (2,742)",0.15932688172043005
-2019-03-26,https://www.marketwatch.com/story/bull-trend-survives-shot-across-bow-sp-500-narrowly-holds-major-support-2019-03-26-121033922,"The Technical Indicator: Bull trend survives shot across bow, S&P 500 narrowly holds major support",0.0603128712871287
-2019-03-19,https://www.marketwatch.com/story/charting-a-break-to-clear-skies-territory-sp-500-nasdaq-reclaim-major-resistance-2019-03-19-121033625,"The Technical Indicator: Charting a break to ‘clear skies’ territory: S&P 500, Nasdaq reclaim major resistance",0.16251839080459768
-2019-03-26,https://www.marketwatch.com/story/apple-new-streaming-platform-will-respect-your-privacy-2019-03-26,Associated Press: Apple: new streaming platform will respect your privacy,0.26924444444444445
-2019-03-28,https://www.marketwatch.com/story/facebook-amazon-other-internet-giants-are-weathering-washingtons-body-blows-2019-03-28,"Facebook, Amazon, other internet giants are weathering Washington’s body blows",-0.017490123456790126
-2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,0.06796119402985076
-2019-03-21,https://www.marketwatch.com/story/apple-stock-boosted-by-strong-buy-call-ahead-of-special-press-event-2019-03-21,Apple stock boosted by ‘strong buy’ call ahead of special press event,0.2586035714285715
-2019-04-09,https://www.marketwatch.com/story/hey-kim-kardashian-theres-nothing-really-funny-about-shoplifting-2019-04-09,Hey Kim Kardashian — there’s nothing ‘really funny’ about shoplifting,-0.24549642857142856
-2019-03-13,https://www.marketwatch.com/story/if-youre-tracking-the-sp-500-instead-of-this-fund-youre-leaving-money-on-the-table-2019-03-13,"If you’re tracking the S&P 500 instead of this fund, you’re leaving money on the table",0.18564242424242428
-2019-04-08,https://www.marketwatch.com/story/the-genius-10-item-professional-organizers-say-they-cant-live-without-2019-04-08,The genius $10 item professional organizers say they can’t live without,0.18463333333333334
-2019-04-08,https://www.marketwatch.com/story/you-dont-need-a-4-year-college-degree-for-these-high-paying-jobs-at-google-apple-netflix-2019-04-08,"You don’t need a 4-year college degree for these high-paying jobs at Google, Apple, Netflix",0.2233117647058824
-2019-03-25,https://www.marketwatch.com/story/apple-leaves-a-lot-of-questions-about-its-subscription-services-unanswered-2019-03-25,Apple leaves a lot of questions about its subscription services unanswered,0.2609875
-2019-03-14,https://www.marketwatch.com/story/why-some-investors-say-tech-stocks-are-becoming-less-risky-2019-03-14,Why some investors say tech stocks are becoming less risky,0.05617272727272727
-2019-04-03,https://www.marketwatch.com/story/us-stocks-vulnerable-to-a-correction-warns-top-asset-manager-2019-04-03,"U.S. stocks ‘vulnerable to a correction,’ warns top asset manager",0.10591372549019606
-2019-03-13,https://www.marketwatch.com/story/should-stock-market-investors-watch-out-for-a-volatility-pickup-2019-03-13,Market Extra: Should stock-market investors watch out for a volatility pickup?,-0.021951724137931037
-2019-03-26,https://www.marketwatch.com/story/apples-new-services-could-either-be-netflix-poison-or-barely-meaningful-2019-03-26,The Ratings Game: Apple’s new services could either be Netflix ‘poison’ or barely meaningful,0.16927500000000004
-2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.171821568627451
-2019-03-25,https://www.marketwatch.com/story/us-stock-futures-indicate-fresh-losses-ahead-for-wall-street-2019-03-25,Market Snapshot: U.S. stock futures indicate fresh losses ahead for Wall Street,-0.0703027027027027
-2019-04-05,https://www.marketwatch.com/story/a-little-known-risk-to-apple-is-5g-cellular-technology-2019-04-05,MarketWatch.com: A little-known risk to Apple is 5G cellular technology,0.014290410958904105
-2019-04-04,https://www.marketwatch.com/story/tesla-bears-are-now-making-crazy-claims-short-circuiting-their-cause-2019-04-04,"Tesla bears are now making crazy claims, short-circuiting their cause",0.060665346534653455
+dates,url,title,title_score,first_para,firstP_score,content_scores
+2019-04-02,https://www.marketwatch.com/story/netflixs-stock-now-a-top-pick-at-jp-morgan-2019-04-02,The Ratings Game: Netflix’s stock now a ‘top pick’ at J.P. Morgan,0.0,"The stock
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         which was little changed in afternoon trade Tuesday, has gained 4.1% since it reported after the Jan. 17 close fourth-quarter earnings that beat earnings and subscriber expectations, while the S&P 500 index
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has climbed 8.8%. Meanwhile, stocks within Anmuth’s internet coverage have advanced more than 8% on average over the same period.",0.5574,0.3301466666666667
+2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.1779,"Snap also plans to make it easier for third-party apps like those from Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Fitbit Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FIT, +0.26%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and PayPal Holdings Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    PYPL, -1.02%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to integrate with the Snapchat platform, but Nowak sees monetization hurdles there as well. “We question the scalability of this third-party ad network,” he wrote, since the company will be going up against Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.36%
+GOOG, +0.31%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google and likely has to offer partners very attractive terms in order to be a viable competitor. ",0.8935,0.36632727272727267
+2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,-0.2023,"Alphabet’s Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+GOOGL, +0.36%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has announced a cloud-based gaming service called Stadia. Stadia is meant to be the Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         of gaming. Gamers will be able to stream complex games to their screens without needing consoles or high-powered graphic chips in their computers. ",0.0,0.06796119402985076
+2019-03-27,https://www.marketwatch.com/story/how-to-marie-kondo-your-subscriptions-with-the-click-of-a-button-2019-03-27,How to ‘Marie Kondo’ your subscriptions with the click of a button,0.0,"On Monday, Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.07%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         announced a new streaming video service that will allow users to subscribe to channels such as HBO 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    T, +0.85%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Showtime. With Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Hulu , and Amazon
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.11%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         providing their own subscription video services, some have speculated that consumers have reached “peak subscription,” while others have complained about the amount of money they are shelling out each month to keep up with the latest shows. ",0.0772,0.135125
+2019-03-25,https://www.marketwatch.com/story/apple-targets-payments-news-tv-and-videogames-in-event-aimed-at-subscription-services-2019-03-25,"Apple targets payments, news, TV and videogames in event aimed at subscription services",0.0,"Apple’s efforts with video programming are twofold: The company intends to make it easier for users to purchase subscriptions to services like HBO and Showtime through its new Apple TV offering, and the smartphone maker will also provide original content with big-name stars on a Netflix-like 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         streaming service called Apple TV+. ",0.765,0.3391777777777778
+2019-03-21,https://www.marketwatch.com/story/everything-coming-to-netflix-in-april-and-whats-leaving-2019-03-21,Everything coming to Netflix in April — and what’s leaving,0.0,"The streaming platform 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          has some very dark shows and movies planned for spring. The second season of “Chilling Adventures of Sabrina,” chronicling Sabrina Spellman’s witch adventures, and Netflix original “Suzanna: Buried Alive,” about a pregnant woman who is murdered and whose spirit seeks revenge on her killers, will hit Netflix early next month. “Black Summer,” about the early days of a zombie apocalypse, arrives April 11. “The Silence,” featuring “Sabrina” stars Kiernan Shipka and Miranda Otto, about a world under attack by creatures who hunt human prey using sound, hits the streaming platform on April 12. ",-0.8979,0.012533333333333318
+2019-04-09,https://www.marketwatch.com/story/the-start-of-a-new-rally-for-oil-prices-not-so-fast-says-this-strategist-2019-04-09,"Need to Know: The start of a new rally for oil prices? Not so fast, says this strategist",0.0,"Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.46%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has reportedly postponed the release of feature film “Otherhood,” in the wake of star Felicity Huffman’s involvement in the college admission scandal. ",-0.5719,0.009417777777777766
+2019-04-02,https://www.marketwatch.com/story/charting-a-bullish-second-quarter-start-sp-500-nails-major-resistance-2873-2019-04-02-121033714,"The Technical Indicator: Charting a bullish second-quarter start, S&P 500 nails major resistance (2,873)",0.0,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.11128380952380952
+2019-04-02,https://www.marketwatch.com/story/justice-department-reportedly-warns-academy-against-blocking-netflix-at-the-oscars-2019-04-02,Justice Department reportedly warns Academy against blocking Netflix at the Oscars,0.1027,"The Justice Department has warned the Academy of Motion Picture Arts and Sciences not to limit the eligibility of streaming services for Oscars, Variety reported, citing a letter from Makan Delrahim, the chief of the DOJ's antitrust division. The report quoted Delrahim as writing that if the Academy ""establishes certain eligibility requirements for the Oscars that eliminate competition without procompetitive justification, such conduct may raise antitrust concerns."" Steven Spielberg has reportedly wanted to restrict movies that debut on Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         at the same time they appear in movie theaters.",0.2023,0.13398333333333334
+2019-03-25,https://www.marketwatch.com/story/netflixs-stock-rallies-erasing-previous-losses-after-apple-announces-rival-streaming-2019-03-25,"Netflix's stock rallies, erasing previous losses after Apple announces rival streaming",-0.4019,"Shares of Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         rallied 1.3% toward fresh intraday highs in afternoon trade Monday, reversing earlier losses, after Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         announced its rival new Apple TV+ service. The new service will include original programming, and offer suggestions for shows and movies from over 150 streaming apps, including Amazon.com Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon Prime and Hulu, but not Netflix. Reed Hastings, Netflix's CEO, said last week that the company had chosen not to integrate into Apple's services, while the Netflix app will continue to be available in Apple's app store. Netflix's stock was down as much as 1.0% as Apple started announcing its new services. Over teh past 12 months, Netflix shares have rallied 21.4% and Apple's stock has climbed 13.3%, while the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 8.4%.",0.8225,0.140025
+2019-03-18,https://www.marketwatch.com/story/amazons-stock-surges-above-200-day-moving-average-2019-03-18,Amazon's stock surges above 200-day moving average,0.0,"Shares of Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         rallied 1.9% in afternoon trade Monday, which puts them on track to send a bullish technical signal by closing above the widely followed 200-day moving average (DMA). A close above the 200-DMA, which many chart watchers view as a dividing line between longer-term uptrends and downtrends, would be the third time it has done so over the past 3 1/2 months. The two previous closes above the line, on Jan. 31 and Dec. 3, were followed by quick reversals back below the line the next day. The 200-DMA currently extends to $1,730.20, according to FactSet. The last time it closed above the line for at least 2-straight days was on Nov. 9. Of the other FAANG stocks, shares of Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         have closed above its 200-DMA since Jan. 30 and Google-parent Alphabet Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.36%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has closed above it since March 1, while Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.21%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are below their respective 200-DMAs. Microsoft's stock has climbed 12.5% over the past three months, while the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.17%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has tacked on 9.3%. In a note to clients Monday, Wells Fargo said Amazon is still gaining retail customers, and they're visiting more frequently, with the company's ""share of wallett"" in the fourth quarter increasing 33% from a year ago.",0.9246,0.2107909090909091
+2019-04-10,https://www.marketwatch.com/story/disney-stock-upgraded-at-bmo-ahead-of-investor-day-2019-04-10,Disney stock upgraded at BMO ahead of investor day,0.0,"BMO Capital Markets analyst Daniel Salmon became the latest to upgrade shares of Walt Disney Co. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DIS, -0.33%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         raising his rating on the stock to outperform from market perform on Wednesday. He sees positive catalysts in the company's forthcoming launch of its Disney+ streaming service, the opening of two new Star Wars lands in theme parks, and the possibility for buybacks in the next year. ""We continue to like Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         more than Disney, but are comfortable recommending all three, as we expect them all to be long-term winners in global [direct-to-consumer] streaming,"" Salmon wrote. When Disney holds its investor day on Thursday, Salmon expects the company to ""end the debate on how low near-term EPS goes"" and offer subscriber-based indicators for the direct-to-consumer platforms, as well as a price for Disney+. Salmon's upgrade follows one from Cowen & Co. on Tuesday. The stock is up 0.7% in premarket trading Wednesday, and it's gained 6.6% so far this year. The S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has risen 15% in that time. ",0.9403,0.20817999999999998
+2019-03-19,https://www.marketwatch.com/story/apple-streaming-service-wont-offer-netflix-subscription-hasting-says-2019-03-18,"Apple streaming service won't offer Netflix subscription, Hastings says",0.0,"Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.49%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         will not be part of Apple Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         new streaming service, Chief Executive Reed Hastings said late Monday, Variety reported. Speaking at a press event in Los Angeles, Hastings confirmed what many had already suspected. ""Apple is a great company,"" he said, according to Variety. ""We have chosen not to integrate into their services."" Netflix is currently available through Apple's app store, and that is not expected to change. Apple is expected to unveil its highly anticipated streaming service next week. While it will feature some original shows, it is expected to also bolster its offerings by selling subscriptions to some third-party streaming services, such as HBO and Showtime, much as Amazon.com Inc.'s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Prime service does. Speaking on other subjects, Hastings said Netflix won't be entering the potentially lucrative Chinese market for a while. ""We will be blocked in China for a long time,"" he said",0.5267,0.08674545454545456
+2019-03-12,https://www.marketwatch.com/story/apple-should-consider-a-big-ma-deal-to-catch-up-on-rivals-in-streaming-wedbush-analyst-2019-03-12,Apple should consider a big M&A deal to catch up on rivals in streaming: Wedbush analyst,0.0,"Apple Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         should consider doing a big, strategic merger or acquisition to help it catch up on rivals including Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Amazon.com Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in creating content for its coming video streaming service, Wedbush said Tuesday. ""While acquisitions have not been in Apple's core DNA, the clock has struck midnight for Cupertino in our opinion and building content organically is a slow and arduous path, which highlights the clear need for Apple to do larger, strategic M&A (a24, Lionsgate, Sony Pictures, CBS/Viacom, Netflix, MGM) around content over the coming year to ""double down"" and drive the services flywheel especially with its new video subscription service set to be rolled out,"" analyst Daniel Ives said in a note to clients. Apple has announced a March 25 event at the Steve Jobs Theater in Cupertino, its headquarters, to announce details of the streaming service, which is not expected to launch until the fall. Ives is hoping the company is planning to use the service to further expand its entire services offering into areas such as video content and even gaming in the next decade. Services remains ""the wild card in driving the valuation higher for Apple,"" he said, estimating that part of its business is wroth about $400 billion on a standalone basis. The streaming segment could be worth more than $50 billion in revenue by fiscal 2020, doubling from fiscal 2016 levels, he wrote. Apple is spending about $1 billion on content this year, but is still playing from behind in the content race with Netflix, Amazon, Disney 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DIS, -0.34%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and AT&T/Time Warner 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    T, +0.82%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         he said. Apple shares were slightly higher premarket, but are down 1.6% in the last 12 months, while the Dow Jones Industrial Average 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DJIA, +0.16%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has gained 1.9% and the S&P 500 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPX, +0.12%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         is flat. ",0.9246,0.29354545454545455
+2019-03-14,https://www.marketwatch.com/story/why-everybodys-face-is-still-buried-in-their-phones-in-one-eye-opening-chart-2019-03-14,"In One Chart: Why everybody’s face is still buried in their phones, in one eye-opening chart",0.0,"The numbers on their own are pretty stark — every minute around the world, 188 million emails are sent, 3.8 million Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         searches are performed and 694,444 hours of Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         are being watched. ",0.4939,0.11221
+2019-04-09,https://www.marketwatch.com/story/tesla-is-like-apple-and-salesforce-but-dont-buy-the-stock-right-now-analyst-says-2019-04-09,"The Ratings Game: Tesla is like Apple and Salesforce, but don’t buy the stock right now, analyst says",0.1901,"“Tesla is fundamentally changing not only the way cars are built but also how they are bought and sold. To us, this is similar to what Apple did with the advent of the iPhone, Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.09%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         did with books (and eventually everything), Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.42%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         did with video, and Salesforce did with software.”",0.2617,0.12275714285714287
+2019-03-19,https://www.marketwatch.com/story/these-milestones-are-blocking-a-rise-in-the-sp-500-warns-blackrock-2019-03-19,Need to Know: These ‘milestones’ are blocking a rise in the S&P 500 warns Blackrock,-0.4588,"Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         CEO Reed Hastings says his company won’t be integrating into Apple’s new streaming service.",0.0,-0.019429032258064513
+2019-04-05,https://www.marketwatch.com/story/snap-stock-gains-after-new-features-but-can-they-make-money-2019-04-05,"The Ratings Game: Snap stock gains after new features, but can they make money?",0.1779,"Snap also plans to make it easier for third-party apps like those from Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Fitbit Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FIT, +0.26%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and PayPal Holdings Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    PYPL, -1.00%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         to integrate with the Snapchat platform, but Nowak sees monetization hurdles there as well. “We question the scalability of this third-party ad network,” he wrote, since the company will be going up against Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.36%
+GOOG, +0.37%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google and likely has to offer partners very attractive terms in order to be a viable competitor. ",0.8935,0.36632727272727267
+2019-03-18,https://www.marketwatch.com/story/facebook-stock-falls-as-worry-of-negative-network-effects-prompts-downgrade-2019-03-18,The Ratings Game: Facebook stock falls as worry of ‘negative network effects’ prompts downgrade,-0.4404,"FAANG companies refers to shares of technology giants Facebook, Amazon.com Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Neflix Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                        and Google-parent Alphabet Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.36%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         ",0.296,-0.24711666666666673
+2019-04-03,https://www.marketwatch.com/story/the-smart-money-is-buying-only-five-of-11-popular-tech-stocks-and-selling-one-2019-04-03,The ‘smart money’ is buying only five of 11 popular tech stocks — and selling one,0.4215,"• The smart money is selling only one stock among popular tech stocks. Smart money flows are mildly negative in Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.29%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         By contrast, momo crowd money flows — those from average investors — are very positive in Netflix. ",0.8122,0.2939487179487179
+2019-03-27,https://www.marketwatch.com/story/will-consumers-finally-decide-theyre-drowning-in-streaming-services-2019-03-27,Will consumers finally decide they’re drowning in streaming services?,0.0,"The Milwaukee, Wisc.-area married father of two was soaking in subscriptions for years. But then he did the math, smarting from a one-two punch in higher rates from Hulu and Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         earlier this year.",-0.1779,0.18975813953488374
+2019-03-22,https://www.marketwatch.com/story/stocks-took-a-big-hit-friday-and-these-shares-fell-the-most-2019-03-22,"Deep Dive: Stocks took a big hit Friday, and these shares fell the most",0.296,"Only one day after crystal-clear dovish signals by the Federal Reserve helped push stocks higher, fear of a recession sent bond prices soaring and stock prices tumbling.",-0.7184,-0.06447333333333333
+2019-03-25,https://www.marketwatch.com/story/apple-leaves-a-lot-of-questions-about-its-subscription-services-unanswered-2019-03-25,MarketWatch First Take: Apple leaves a lot of questions about its subscription services unanswered,0.0,"These efforts are either re-dos of prior efforts by Apple — such as News+ (hello again, Apple Newstand?) — or forays into extremely competitive markets, such as original video content, videogame streaming and fee-less credit cards. If anyone needs a reminder of how competitive and costly some of these arenas can be, just take a look at Netflix Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         negative cash flow and its high content costs, and the host of growing entrants into videogame streaming, including news last week from Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google and its Stadia service.",0.5402,0.2609875
+2019-04-03,https://www.marketwatch.com/story/us-stocks-vulnerable-to-a-correction-warns-top-asset-manager-2019-04-03,"Need to Know: U.S. stocks ‘vulnerable to a correction,’ warns top asset manager",0.4404,"A Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         executive is suing the video streamer, which she said fired her for being pregnant.",-0.6908,0.10591372549019606
+2019-03-12,https://www.marketwatch.com/story/investing-app-stash-launches-debit-rewards-in-an-effort-to-attract-more-banking-customers-2019-03-12,Investing app Stash launches debit rewards in an effort to attract more banking customers,0.6808,"Stash offers different rewards rates for different companies. Purchases for Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Spotify 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SPOT, -0.42%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         will earn 5%, while purchases at Dunkin’ Donuts 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    DNKN, +0.42%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Starbucks 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    SBUX, +0.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         will earn 2% back in stock. ",0.4767,0.3088196428571428
+2019-04-03,https://www.marketwatch.com/story/consider-these-five-china-investments-as-trade-talks-progress-2019-04-03,Jeff Reeves's Strength in Numbers: Consider these five China investments as trade talks progress,0.7184,"Another growth-oriented China stock is iQiyi Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    IQ, -1.53%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         which is sometimes billed as the Chinese Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.35%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         since it specializes in streaming video. Shares have been mighty volatile after its spinoff from China search giant Baidu Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    BIDU, -1.58%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in early 2018, with IQ’s stock surging 150% by summer only to give it all back by year-end amid the gloom and doom surrounding the stock market in December. However, IQ has come roaring back lately and momentum is decidedly to the upside once more.",-0.6249,0.278344262295082
+2019-04-09,https://www.marketwatch.com/story/charting-the-sp-500s-approach-of-the-2900-mark-2019-04-09-121032837,"The Technical Indicator: Charting the S&P 500’s approach of the 2,900 mark",0.0,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.13817575757575754
+2019-03-12,https://www.marketwatch.com/story/charting-a-bullish-reversal-sp-500-spikes-from-major-support-2742-2019-03-12-121035211,"The Technical Indicator: Charting a bullish reversal, S&P 500 spikes from major support (2,742)",0.4019,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.15932688172043005
+2019-03-26,https://www.marketwatch.com/story/bull-trend-survives-shot-across-bow-sp-500-narrowly-holds-major-support-2019-03-26-121033922,"The Technical Indicator: Bull trend survives shot across bow, S&P 500 narrowly holds major support",0.4019,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.0603128712871287
+2019-03-19,https://www.marketwatch.com/story/charting-a-break-to-clear-skies-territory-sp-500-nasdaq-reclaim-major-resistance-2019-03-19-121033625,"The Technical Indicator: Charting a break to ‘clear skies’ territory: S&P 500, Nasdaq reclaim major resistance",0.0,"Editor’s Note: This is a free edition of The Technical Indicator, a daily MarketWatch subscriber newsletter. To get this column each market day, click here.",0.5106,0.16251839080459768
+2019-03-26,https://www.marketwatch.com/story/apple-new-streaming-platform-will-respect-your-privacy-2019-03-26,Associated Press: Apple: new streaming platform will respect your privacy,0.4767,"Its new services will pit the company against the likes of Google
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.21%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         in news, and Amazon
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Netflix
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          in streaming video.",0.5423,0.26924444444444445
+2019-03-28,https://www.marketwatch.com/story/facebook-amazon-other-internet-giants-are-weathering-washingtons-body-blows-2019-03-28,"Facebook, Amazon, other internet giants are weathering Washington’s body blows",0.1779," 1. Criminal investigation: . The DOJ and the U.S. Attorney’s office for the Eastern District of New York are reportedly looking into the data-sharing deals Facebook struck with tech companies, including smartphone companies, according to a March 13 New York Times article. Among Facebook’s data-sharing arrangements, per a December 18, 2018 New York Times article: : Microsoft’s Bing search engine was allowed to see the names of almost all Facebook users’ friends without consent; Netflix
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.35%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          and Spotify were able to read Facebook users’ private messages; Amazon.com
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.06%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          could obtain users’ names and contact information through their friends; and Yahoo could see streams of friends’ posts.",0.0346,-0.017490123456790126
+2019-03-20,https://www.marketwatch.com/story/amds-stock-moves-into-risky-territory-on-google-gaming-hype-2019-03-20,AMD’s stock moves into risky territory on Google gaming hype,-0.2023,"Alphabet’s Google 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.22%
+GOOGL, +0.27%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has announced a cloud-based gaming service called Stadia. Stadia is meant to be the Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.33%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         of gaming. Gamers will be able to stream complex games to their screens without needing consoles or high-powered graphic chips in their computers. ",0.0,0.06796119402985076
+2019-03-21,https://www.marketwatch.com/story/apple-stock-boosted-by-strong-buy-call-ahead-of-special-press-event-2019-03-21,Apple stock boosted by ‘strong buy’ call ahead of special press event,0.6369,"The good news is that ecosystem companies can only be unseated by other ecosystem companies, Martin said. The bad news is, the most successful ecosystem companies in the world are the FAANGs, which are Facebook Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple, Amazon.com Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Netflix Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.50%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Google-parent Alphabet Inc.
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOGL, +0.36%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and the FAANGs are increasingly getting into each others’ businesses.",0.5413,0.2586035714285715
+2019-04-09,https://www.marketwatch.com/story/hey-kim-kardashian-theres-nothing-really-funny-about-shoplifting-2019-04-09,Hey Kim Kardashian — there’s nothing ‘really funny’ about shoplifting,0.0,"The problem is, there’s a collective idea that shoplifting isn’t a big deal. In fact, it’s even a plotline in the second season of “The Chilling Adventures of Sabrina” streaming on Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                          where teen witch Sabrina Spellman (“Mad Men’s” Kiernan Shipka) is dared to steal a pack of gum from a local mom-and-pop shop. Spoiler alert: She does, and without getting caught. ",-0.5994,-0.24549642857142856
+2019-03-13,https://www.marketwatch.com/story/if-youre-tracking-the-sp-500-instead-of-this-fund-youre-leaving-money-on-the-table-2019-03-13,"If you’re tracking the S&P 500 instead of this fund, you’re leaving money on the table",0.0,"The FAANG group includes Facebook 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.08%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Amazon 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AMZN, +0.10%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.53%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Google holding company Alphabet 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+GOOGL, +0.36%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Those companies make up 16% of the S&P 500 and 45% of QQQ.",0.1779,0.18564242424242428
+2019-04-08,https://www.marketwatch.com/story/the-genius-10-item-professional-organizers-say-they-cant-live-without-2019-04-08,The genius $10 item professional organizers say they can’t live without,0.0,"What’s more, we’re clearly sick of it, at least if the social media hype about Netflix’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.43%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                           show ‘Tidying Up With Marie Kondo’ (where the cleaning guru helps families declutter their lives) is any indication. And while organizational items can go for a pretty penny — Marie Kondo’s set of boxes is $89 — pros say you can spend a fraction of that and still declutter. ",0.6387,0.18463333333333334
+2019-04-08,https://www.marketwatch.com/story/you-dont-need-a-4-year-college-degree-for-these-high-paying-jobs-at-google-apple-netflix-2019-04-08,"You don’t need a 4-year college degree for these high-paying jobs at Google, Apple, Netflix",0.0,"One UX designer for Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.45%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         , Hannah Maddy, spoke to LinkedIn about her lack of a four-year degree. “Not only do I not have a four-year degree, but I’m also a high school dropout and worked the graveyard shift as a baker until I landed my first design gig,” Maddy told LinkedIn. She got the skills to land her Netflix job by working on side projects with friends, learning to code online and diligently sending out her portfolio to employers, she told the site. ",0.1779,0.2233117647058824
+2019-03-25,https://www.marketwatch.com/story/apple-leaves-a-lot-of-questions-about-its-subscription-services-unanswered-2019-03-25,Apple leaves a lot of questions about its subscription services unanswered,0.0,"These efforts are either re-dos of prior efforts by Apple — such as News+ (hello again, Apple Newstand?) — or forays into extremely competitive markets, such as original video content, videogame streaming and fee-less credit cards. If anyone needs a reminder of how competitive and costly some of these arenas can be, just take a look at Netflix Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.53%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         negative cash flow and its high content costs, and the host of growing entrants into videogame streaming, including news last week from Alphabet Inc.’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    GOOG, +0.37%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         Google and its Stadia service.",0.5402,0.2609875
+2019-03-14,https://www.marketwatch.com/story/why-some-investors-say-tech-stocks-are-becoming-less-risky-2019-03-14,Why some investors say tech stocks are becoming less risky,-0.1298,"But according to some investors and analysts, market participants are beginning to re-evaluate just how cyclical the information technology sector remains, following changes last year to the widely used Global Industry Classification Standard—which removed highflying growth companies like Facebook Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    FB, +0.22%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         and Netflix Inc. 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         from the info tech sector — and changing business models in the software industry. ",0.6249,0.05617272727272727
+2019-04-03,https://www.marketwatch.com/story/us-stocks-vulnerable-to-a-correction-warns-top-asset-manager-2019-04-03,"U.S. stocks ‘vulnerable to a correction,’ warns top asset manager",0.4404,"A Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.54%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         executive is suing the video streamer, which she said fired her for being pregnant.",-0.6908,0.10591372549019606
+2019-03-13,https://www.marketwatch.com/story/should-stock-market-investors-watch-out-for-a-volatility-pickup-2019-03-13,Market Extra: Should stock-market investors watch out for a volatility pickup?,0.0,"“It’s the companies that don’t have buybacks, don’t have big cash reserves” that remain more vulnerable, he said. “Something like Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.54%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         is in a very different situation than an Apple 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    AAPL, -0.08%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         because [Netflix] doesn’t have the same cash reserves and they have a lot of cash needs.”",0.079,-0.021951724137931037
+2019-03-26,https://www.marketwatch.com/story/apples-new-services-could-either-be-netflix-poison-or-barely-meaningful-2019-03-26,The Ratings Game: Apple’s new services could either be Netflix ‘poison’ or barely meaningful,0.2516,"“Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.53%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         has an inferior competitive position to Apple over time, as we see it, in both: a) customer acquisition costs; and b) content costs,” wrote Martin, who has a strong buy rating and $225 price target on the stock. “Apple has zero consumer acquisition costs since it will first target its captive 900 million global unique users, which are the wealthiest consumers in the world.”",0.6705,0.16927500000000004
+2019-03-25,https://www.marketwatch.com/story/trumps-mueller-victory-the-yield-curve-and-slowing-growth-heres-how-to-navigate-the-stock-market-2019-03-25,"MarketWatch.com: Trump’s Mueller victory, the yield curve and slowing growth — here’s how to navigate the stock market",0.3818,"• Watch how Netflix’s 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.27%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         stock responds to Apple’s video-streaming announcement. ",0.0,0.171821568627451
+2019-03-25,https://www.marketwatch.com/story/us-stock-futures-indicate-fresh-losses-ahead-for-wall-street-2019-03-25,Market Snapshot: U.S. stock futures indicate fresh losses ahead for Wall Street,-0.1027,"U.S. stocks closed mostly lower Monday after data showing weakness on the global economic front triggered heavy losses at the end of last week while investors continued to fret over the inversion of the yield curve. However, the Dow bucked the trend to rise as shares of Boeing Co. rallied after recent losses.",-0.802,-0.0703027027027027
+2019-04-05,https://www.marketwatch.com/story/a-little-known-risk-to-apple-is-5g-cellular-technology-2019-04-05,MarketWatch.com: A little-known risk to Apple is 5G cellular technology,-0.2732,"• Apple’s future lies in services. However, the last Apple event that some called a Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         killer was totally unimpressive. It was yet another Apple unveiling that disappointed investors in the Tim Cook era.",-0.9168,0.014290410958904105
+2019-04-04,https://www.marketwatch.com/story/tesla-bears-are-now-making-crazy-claims-short-circuiting-their-cause-2019-04-04,"Tesla bears are now making crazy claims, short-circuiting their cause",-0.34,"I’ve followed Tilson’s work for over 10 years, and I have a lot of respect for him. He’s a sharp thinker and a good writer. His take-down of Netflix 
+
+                            
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                  
+                                    NFLX, +0.52%
+
+                            
+                                  
+      
+      
+      
+      
+      
+      
+      
+                                         several years ago was an epic piece of investment research. It, too, turned out to be wrong. But that didn’t detract from the thoroughness of the work. And to Tilson’s credit, he recognized this in time and went long Netflix for a decent profit. ",0.8126,0.060665346534653455
