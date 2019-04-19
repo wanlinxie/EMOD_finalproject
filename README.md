@@ -1,9 +1,13 @@
 # EMOD_finalproject
 
 Classification Result:
+
 Model: Linear SVM
-0 means decrease, 1 means increase 
+
+0 means decrease, 1 means increase
+
 [cur + pre day content scores]
+
 1.
 Source: yahoo.com
 
@@ -52,6 +56,7 @@ Accuracy Score: 0.5789473684210527
 
 2.
 Source: businessinsider.com
+
 Score type: content_scores
 
              precision    recall  f1-score   support
@@ -62,6 +67,7 @@ Accuracy Score: 0.35294117647058826
 
 3.
 Source: marketwatch.com
+
 Score type: content_scores
 
              precision    recall  f1-score   support
