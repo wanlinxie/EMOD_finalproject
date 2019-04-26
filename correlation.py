@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.svm import LinearSVC
 from sklearn.metrics import r2_score
+from sklearn.metrics import mean_squared_error
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score
 
@@ -37,27 +38,33 @@ def predict(s,model):
             X_all = ss
         else:
             X_all = X_all.append(ss)
-        #y = df['diff'].iloc[1:]
-        y = df['diff']
+        y = df['diff'].iloc[1:]
+        #y = df['diff']
         if Y is None:
             Y = y
         else:
             Y = Y.append(y)
+    n = len(X.values)
+    total = np.concatenate ((np.reshape ( np.array ( X.values ), (n, 1) ), np.reshape ( np.array ( X2.values ), (n, 1) )), axis=1 )
+    #y = [1 if j > 0 else 0 for j in Y.values]
+    y = np.array(Y)
+    pred = model.predict(total)
+    r = r2_score(y,pred)
+    e = mean_squared_error(y, pred)
+    print(s + ":")
+    print("R2 score:",r)
+    print("mean square error:",e)
 
-    #n = len(X.values)
-    #total = np.concatenate ((np.reshape ( np.array ( X.values ), (n, 1) ), np.reshape ( np.array ( X2.values ), (n, 1) )), axis=1 )
-    y = [1 if j > 0 else 0 for j in Y.values]
-    #y = np.reshape ( y, (n, 1) )
-    pred = model.predict(X_all.values)
-    print('Source:',s)
-    print("Score type:",score)
-    print ( classification_report ( y, pred ) )
-    print("Accuracy Score:", accuracy_score(y, pred))
+    # pred = model.predict(X_all.values)
+    # print('Source:',s)
+    # print("Score type:",score)
+    # print ( classification_report ( y, pred ) )
+    # print("Accuracy Score:", accuracy_score(y, pred))
 
+X = None
+X2 = None
+Y = None
 for s in sources:
-    X = None
-    X2 = None
-    Y = None
     X_all = None
     for c in companies:
         filename = c + "_" + s + '_results.csv'
@@ -78,8 +85,8 @@ for s in sources:
             X_all = ss
         else:
             X_all = X_all.append(ss)
-        #y = df['diff'].iloc[1:]
-        y = df['diff']
+        y = df['diff'].iloc[1:]
+        #y = df['diff']
         if Y is None:
             Y = y
         else:
@@ -93,15 +100,18 @@ for s in sources:
     # X = sm.add_constant(X)
     # model = sm.OLS(Y,X).fit()
     # print(model.summary())
+
     # Linear Regression
-    n = len(X_all.values)
-    #total = np.concatenate((np.reshape(np.array(X.values),(n,1)), np.reshape(np.array(X2.values),(n,1))),axis = 1 )
-    y = [1 if j > 0 else 0 for j in Y.values]
-    #y = np.reshape(y, (n,1))
-    clf = LinearSVC (tol=1e-5 )
-    #reg = LinearRegression().fit(total,y)
-    clf.fit(X_all.values,y)
-    predict(s,clf)
+    #n = len(X_all.values)
+n = len(X)
+total = np.concatenate((np.reshape(np.array(X.values),(n,1)), np.reshape(np.array(X2.values),(n,1))),axis = 1 )
+#y = [1 if j > 0 else 0 for j in Y.values]
+y = np.reshape(np.array(Y), (n,1))
+#clf = LinearSVC (tol=1e-5 )
+reg = LinearRegression().fit(total,y)
+#clf.fit(X_all.values,y)
+#predict(s,clf)
+predict(s, reg)
 
 
 
