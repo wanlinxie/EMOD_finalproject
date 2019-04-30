@@ -6,6 +6,7 @@
   3. Prediction: test data from Apr 11 to Apr 26.
   4. Stock Data: stock price data from four companies.
   5. process_result: processed csv files which are used to calculate correlation coefficient and to build prediction models.
+  
 /Code:
   1. classification.py: train classification models over all domains.
   2. correlation.py: calculate correlation coefficient and train classification models over separate news sources.
@@ -14,6 +15,7 @@
   5. getGraphCSV.py: process data for data visualization.
   6. labelStock.py: label the stock price data with label 0 and 1.
   7. sentimentality.py: parse all the urls we get from google news API and calculate sentiment score for each article.
+  
 /graphs: All visualizations we created in Tableau 
 
 Classification:Regression Results.pdf: records of all results of regression and classification models.
